@@ -1,0 +1,452 @@
+{
+  "type": "activity",
+  "data": [
+    {
+      "calories_data": {
+        "BMR_calories": null,
+        "total_burned_calories": 1407.947605952413,
+        "net_activity_calories": null,
+        "calorie_samples": [],
+        "net_intake_calories": null
+      },
+      "movement_data": {
+        "avg_cadence_rpm": null,
+        "avg_torque_newton_meters": null,
+        "max_speed_meters_per_second": 10.899457853552905,
+        "max_velocity_meters_per_second": null,
+        "avg_velocity_meters_per_second": null,
+        "max_torque_newton_meters": null,
+        "avg_pace_minutes_per_kilometer": null,
+        "speed_samples": [],
+        "max_cadence_rpm": null,
+        "max_pace_minutes_per_kilometer": null,
+        "torque_samples": [],
+        "adjusted_max_speed_meters_per_second": null,
+        "avg_speed_meters_per_second": 3.8429058944182093,
+        "normalized_speed_meters_per_second": null,
+        "cadence_samples": []
+      },
+      "active_durations_data": {
+        "rest_seconds": null,
+        "activity_seconds": 4096.5112142490225,
+        "moderate_intensity_seconds": null,
+        "inactivity_seconds": null,
+        "vigorous_intensity_seconds": null,
+        "low_intensity_seconds": null,
+        "activity_levels_samples": [],
+        "num_continuous_inactive_periods": null
+      },
+      "distance_data": {
+        "summary": {
+          "floors_climbed": 7,
+          "elevation": {
+            "min_meters": 17.836512944513295,
+            "max_meters": 58.004423473619894,
+            "gain_planned_meters": null,
+            "loss_actual_meters": null,
+            "avg_meters": 242.84064514683521,
+            "gain_actual_meters": null
+          },
+          "distance_meters": 503.6915343748668,
+          "steps": null,
+          "swimming": {
+            "num_strokes": 194,
+            "pool_length_meters": null,
+            "num_laps": null
+          }
+        },
+        "detailed": {
+          "distance_samples": [],
+          "floors_climbed_samples": [],
+          "elevation_samples": [
+            {
+              "timestamp": "2023-01-17T20:37:17.795484+00:00",
+              "elev_meters": 0,
+              "timer_duration_seconds": 0
+            },
+            {
+              "timestamp": "2023-01-17T20:44:17.795484+00:00",
+              "elev_meters": 39.46834280803016,
+              "timer_duration_seconds": 7
+            },
+            {
+              "timestamp": "2023-01-17T20:51:17.795484+00:00",
+              "elev_meters": 94.2884431837618,
+              "timer_duration_seconds": 14
+            },
+            {
+              "timestamp": "2023-01-17T20:58:17.795484+00:00",
+              "elev_meters": 125.19576993449274,
+              "timer_duration_seconds": 21
+            },
+            {
+              "timestamp": "2023-01-17T21:05:17.795484+00:00",
+              "elev_meters": 169.4189011781466,
+              "timer_duration_seconds": 28
+            },
+            {
+              "timestamp": "2023-01-17T21:12:17.795484+00:00",
+              "elev_meters": 192.55765025450046,
+              "timer_duration_seconds": 35
+            },
+            {
+              "timestamp": "2023-01-17T21:19:17.795484+00:00",
+              "elev_meters": 238.36372662724332,
+              "timer_duration_seconds": 42
+            },
+            {
+              "timestamp": "2023-01-17T21:26:17.795484+00:00",
+              "elev_meters": 293.4548808380017,
+              "timer_duration_seconds": 49
+            },
+            {
+              "timestamp": "2023-01-17T21:33:17.795484+00:00",
+              "elev_meters": 327.17625773477357,
+              "timer_duration_seconds": 56
+            },
+            {
+              "timestamp": "2023-01-17T21:40:17.795484+00:00",
+              "elev_meters": 367.2646609117265,
+              "timer_duration_seconds": 63
+            },
+            {
+              "timestamp": "2023-01-17T21:47:17.795484+00:00",
+              "elev_meters": 402.0340138829067,
+              "timer_duration_seconds": 70
+            },
+            {
+              "timestamp": "2023-01-17T21:54:17.795484+00:00",
+              "elev_meters": 440.6724711883665,
+              "timer_duration_seconds": 77
+            },
+            {
+              "timestamp": "2023-01-17T22:01:17.795484+00:00",
+              "elev_meters": 467.0332683669071,
+              "timer_duration_seconds": 84
+            }
+          ],
+          "step_samples": []
+        }
+      },
+      "lap_data": {
+        "laps": []
+      },
+      "device_data": {
+        "manufacturer": null,
+        "other_devices": [],
+        "software_version": null,
+        "name": null,
+        "activation_timestamp": null,
+        "hardware_version": null,
+        "serial_number": null
+      },
+      "oxygen_data": {
+        "saturation_samples": [],
+        "vo2_samples": [],
+        "vo2max_ml_per_min_per_kg": null,
+        "avg_saturation_percentage": null
+      },
+      "TSS_data": {
+        "TSS_samples": []
+      },
+      "energy_data": {
+        "energy_kilojoules": null,
+        "energy_planned_kilojoules": null
+      },
+      "MET_data": {
+        "num_moderate_intensity_minutes": null,
+        "num_high_intensity_minutes": null,
+        "num_inactive_minutes": null,
+        "MET_samples": [],
+        "avg_level": null,
+        "num_low_intensity_minutes": null
+      },
+      "work_data": {
+        "work_kilojoules": null
+      },
+      "power_data": {
+        "power_samples": [],
+        "max_watts": null,
+        "avg_watts": null
+      },
+      "polyline_map_data": {
+        "summary_polyline": null
+      },
+      "strain_data": {
+        "strain_level": null
+      },
+      "heart_rate_data": {
+        "detailed": {
+          "hrv_samples_rmssd": [],
+          "hr_samples": [
+            {
+              "timestamp": "2023-01-17T20:37:17.795484+00:00",
+              "bpm": 96
+            },
+            {
+              "timestamp": "2023-01-17T20:44:17.795484+00:00",
+              "bpm": 133
+            },
+            {
+              "timestamp": "2023-01-17T20:51:17.795484+00:00",
+              "bpm": 101
+            },
+            {
+              "timestamp": "2023-01-17T20:58:17.795484+00:00",
+              "bpm": 148
+            },
+            {
+              "timestamp": "2023-01-17T21:05:17.795484+00:00",
+              "bpm": 167
+            },
+            {
+              "timestamp": "2023-01-17T21:12:17.795484+00:00",
+              "bpm": 160
+            },
+            {
+              "timestamp": "2023-01-17T21:19:17.795484+00:00",
+              "bpm": 162
+            },
+            {
+              "timestamp": "2023-01-17T21:26:17.795484+00:00",
+              "bpm": 66
+            },
+            {
+              "timestamp": "2023-01-17T21:33:17.795484+00:00",
+              "bpm": 167
+            },
+            {
+              "timestamp": "2023-01-17T21:40:17.795484+00:00",
+              "bpm": 121
+            },
+            {
+              "timestamp": "2023-01-17T21:47:17.795484+00:00",
+              "bpm": 175
+            },
+            {
+              "timestamp": "2023-01-17T21:54:17.795484+00:00",
+              "bpm": 92
+            },
+            {
+              "timestamp": "2023-01-17T22:01:17.795484+00:00",
+              "bpm": 91
+            }
+          ],
+          "hrv_samples_sdnn": [
+            {
+              "timestamp": "2023-01-17T20:37:17.795484+00:00",
+              "hrv_sdnn": 44
+            },
+            {
+              "timestamp": "2023-01-17T20:44:17.795484+00:00",
+              "hrv_sdnn": 82
+            },
+            {
+              "timestamp": "2023-01-17T20:51:17.795484+00:00",
+              "hrv_sdnn": 91
+            },
+            {
+              "timestamp": "2023-01-17T20:58:17.795484+00:00",
+              "hrv_sdnn": 43
+            },
+            {
+              "timestamp": "2023-01-17T21:05:17.795484+00:00",
+              "hrv_sdnn": 71
+            },
+            {
+              "timestamp": "2023-01-17T21:12:17.795484+00:00",
+              "hrv_sdnn": 56
+            },
+            {
+              "timestamp": "2023-01-17T21:19:17.795484+00:00",
+              "hrv_sdnn": 60
+            },
+            {
+              "timestamp": "2023-01-17T21:26:17.795484+00:00",
+              "hrv_sdnn": 60
+            },
+            {
+              "timestamp": "2023-01-17T21:33:17.795484+00:00",
+              "hrv_sdnn": 77
+            },
+            {
+              "timestamp": "2023-01-17T21:40:17.795484+00:00",
+              "hrv_sdnn": 78
+            },
+            {
+              "timestamp": "2023-01-17T21:47:17.795484+00:00",
+              "hrv_sdnn": 90
+            },
+            {
+              "timestamp": "2023-01-17T21:54:17.795484+00:00",
+              "hrv_sdnn": 40
+            },
+            {
+              "timestamp": "2023-01-17T22:01:17.795484+00:00",
+              "hrv_sdnn": 39
+            }
+          ]
+        },
+        "summary": {
+          "avg_hrv_sdnn": 44.63703259536787,
+          "max_hr_bpm": 121.85402535313617,
+          "hr_zone_data": [],
+          "avg_hr_bpm": 79.7864093971691,
+          "resting_hr_bpm": null,
+          "user_max_hr_bpm": null,
+          "avg_hrv_rmssd": null,
+          "min_hr_bpm": 78.38842827105405
+        }
+      },
+      "metadata": {
+        "summary_id": "2560036550",
+        "upload_type": 4,
+        "type": 53,
+        "state": null,
+        "start_time": "2023-01-17T20:37:17.795484+00:00",
+        "country": null,
+        "end_time": "2023-01-17T22:07:17.795484+00:00",
+        "name": "Weightlifting",
+        "city": null
+      },
+      "position_data": {
+        "position_samples": [
+          {
+            "timestamp": "2023-01-17T20:37:17.795484+00:00",
+            "timer_duration_seconds": 0,
+            "coords_lat_lng_deg": [
+              52.72179833746627,
+              1,
+              182472184
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T20:44:17.795484+00:00",
+            "timer_duration_seconds": 7,
+            "coords_lat_lng_deg": [
+              52.66366277992466,
+              1,
+              114949727
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T20:51:17.795484+00:00",
+            "timer_duration_seconds": 14,
+            "coords_lat_lng_deg": [
+              52.706071016010036,
+              0,
+              549274927
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T20:58:17.795484+00:00",
+            "timer_duration_seconds": 21,
+            "coords_lat_lng_deg": [
+              52.722738248199725,
+              0,
+              688488066
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:05:17.795484+00:00",
+            "timer_duration_seconds": 28,
+            "coords_lat_lng_deg": [
+              52.6810287763317,
+              1,
+              223423759
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:12:17.795484+00:00",
+            "timer_duration_seconds": 35,
+            "coords_lat_lng_deg": [
+              52.73523350963204,
+              0,
+              457096157
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:19:17.795484+00:00",
+            "timer_duration_seconds": 42,
+            "coords_lat_lng_deg": [
+              52.76035925693764,
+              0,
+              924376913
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:26:17.795484+00:00",
+            "timer_duration_seconds": 49,
+            "coords_lat_lng_deg": [
+              52.71186508831622,
+              0,
+              77111129
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:33:17.795484+00:00",
+            "timer_duration_seconds": 56,
+            "coords_lat_lng_deg": [
+              52.64483602671933,
+              1,
+              165581603
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:40:17.795484+00:00",
+            "timer_duration_seconds": 63,
+            "coords_lat_lng_deg": [
+              52.793992239115944,
+              1,
+              174439749
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:47:17.795484+00:00",
+            "timer_duration_seconds": 70,
+            "coords_lat_lng_deg": [
+              52.772160054720864,
+              1.07234869
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T21:54:17.795484+00:00",
+            "timer_duration_seconds": 77,
+            "coords_lat_lng_deg": [
+              52.77352014680873,
+              0,
+              789671391
+            ]
+          },
+          {
+            "timestamp": "2023-01-17T22:01:17.795484+00:00",
+            "timer_duration_seconds": 84,
+            "coords_lat_lng_deg": [
+              52.702497237427714,
+              1,
+              215303053
+            ]
+          }
+        ],
+        "center_pos_lat_lng_deg": [],
+        "start_pos_lat_lng_deg": [
+          52.768576578410766,
+          0,
+          395266057
+        ],
+        "end_pos_lat_lng_deg": [
+          52.26499316375683,
+          1,
+          192195636
+        ]
+      }
+    }
+  ],
+  "user": {
+    "reference_id": "1:5:8c47283bd0fa",
+    "last_webhook_update": null,
+    "user_id": "b1dbd691-8140-4071-9df1-8c47283bd0fa",
+    "provider": "APPLE",
+    "scopes": null
+  }
+}

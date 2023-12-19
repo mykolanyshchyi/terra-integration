@@ -1,0 +1,708 @@
+{
+  "activityData": [
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 3115.5745721057765,
+        "restSeconds": 7005.700573581953,
+        "lowIntensitySeconds": 985.7531831162361,
+        "vigorousIntensitySeconds": 7539.298813966871,
+        "numContinuousInactivePeriods": 7918,
+        "inactivitySeconds": 2048.7327349457014,
+        "moderateIntensitySeconds": 9007.24374402585,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 1862.6585430475534,
+        "bmrCalories": 8934.996139555611,
+        "totalBurnedCalories": 2199.9722985298727,
+        "netActivityCalories": 9104.131286501864
+      },
+      "distance": {
+        "steps": 7297
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 706.2609117691902,
+        "restSeconds": 6672.372258039274,
+        "lowIntensitySeconds": 8885.368742658267,
+        "vigorousIntensitySeconds": 8508.217862874642,
+        "numContinuousInactivePeriods": 9040,
+        "inactivitySeconds": 4352.753292305306,
+        "moderateIntensitySeconds": 3027.47178151575,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 6976.994376711567,
+        "bmrCalories": 7724.098994412525,
+        "totalBurnedCalories": 895.7636017263067,
+        "netActivityCalories": 5316.876539433889
+      },
+      "distance": {
+        "steps": 353
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 6154.016253437602,
+        "restSeconds": 5626.281109955837,
+        "lowIntensitySeconds": 6620.588163160172,
+        "vigorousIntensitySeconds": 3037.792482059774,
+        "numContinuousInactivePeriods": 7588,
+        "inactivitySeconds": 7252.687226218097,
+        "moderateIntensitySeconds": 2606.6742408668933,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 746.3677054920038,
+        "bmrCalories": 1092.013800690727,
+        "totalBurnedCalories": 6262.169193011455,
+        "netActivityCalories": 4983.107658744236
+      },
+      "distance": {
+        "steps": 2952
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 3043.3767934481275,
+        "restSeconds": 5165.378261959262,
+        "lowIntensitySeconds": 9147.811209256526,
+        "vigorousIntensitySeconds": 749.0445960277837,
+        "numContinuousInactivePeriods": 4313,
+        "inactivitySeconds": 1140.8698585399843,
+        "moderateIntensitySeconds": 1166.8211700872318,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "HIGH_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 7276.403070780915,
+        "bmrCalories": 4698.959366305867,
+        "totalBurnedCalories": 9374.493394372086,
+        "netActivityCalories": 3162.059404985
+      },
+      "distance": {
+        "steps": 9558
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 5982.051019392131,
+        "restSeconds": 9553.234194935418,
+        "lowIntensitySeconds": 2429.551813276044,
+        "vigorousIntensitySeconds": 3103.0986210896017,
+        "numContinuousInactivePeriods": 8498,
+        "inactivitySeconds": 7332.351444408725,
+        "moderateIntensitySeconds": 3234.9483168584243,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 9054.221504448098,
+        "bmrCalories": 4394.263797206818,
+        "totalBurnedCalories": 1443.3482200192857,
+        "netActivityCalories": 8056.395173955017
+      },
+      "distance": {
+        "steps": 3398
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 2173.7477970861196,
+        "restSeconds": 5873.676320437838,
+        "lowIntensitySeconds": 1342.9059951580127,
+        "vigorousIntensitySeconds": 3816.8218911488525,
+        "numContinuousInactivePeriods": 4785,
+        "inactivitySeconds": 284.31832985301514,
+        "moderateIntensitySeconds": 8583.932841262154,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "HIGH_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 8381.35094834515,
+        "bmrCalories": 6415.418471896004,
+        "totalBurnedCalories": 649.4859889832801,
+        "netActivityCalories": 5974.00520582087
+      },
+      "distance": {
+        "steps": 5253
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 7982.360252796926,
+        "restSeconds": 1181.595140788753,
+        "lowIntensitySeconds": 8158.3140619878095,
+        "vigorousIntensitySeconds": 7399.940590104945,
+        "numContinuousInactivePeriods": 4358,
+        "inactivitySeconds": 546.4691048924076,
+        "moderateIntensitySeconds": 4910.63966707732,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 4059.9377099429375,
+        "bmrCalories": 4915.806622010648,
+        "totalBurnedCalories": 5894.468736782771,
+        "netActivityCalories": 5628.3673611265385
+      },
+      "distance": {
+        "steps": 10
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 7136.810305234163,
+        "restSeconds": 9291.953668205942,
+        "lowIntensitySeconds": 7957.75268428199,
+        "vigorousIntensitySeconds": 9561.34034190079,
+        "numContinuousInactivePeriods": 1707,
+        "inactivitySeconds": 1039.0677452351233,
+        "moderateIntensitySeconds": 5658.431007513722,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "HIGH_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 8052.779712788941,
+        "bmrCalories": 2454.7413653792632,
+        "totalBurnedCalories": 7743.769829023064,
+        "netActivityCalories": 9381.626216814524
+      },
+      "distance": {
+        "steps": 4776
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 7582.185863562961,
+        "restSeconds": 6381.590022000217,
+        "lowIntensitySeconds": 4961.517112827531,
+        "vigorousIntensitySeconds": 2703.027455056218,
+        "numContinuousInactivePeriods": 9501,
+        "inactivitySeconds": 5411.461066326621,
+        "moderateIntensitySeconds": 6520.545763635674,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "HIGH_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 3566.2843396949556,
+        "bmrCalories": 6413.128673574543,
+        "totalBurnedCalories": 5233.040320785946,
+        "netActivityCalories": 4376.0634946207765
+      },
+      "distance": {
+        "steps": 5396
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 8347.923196205451,
+        "restSeconds": 8460.441465489952,
+        "lowIntensitySeconds": 9320.979908433972,
+        "vigorousIntensitySeconds": 2979.542466207179,
+        "numContinuousInactivePeriods": 6120,
+        "inactivitySeconds": 9885.33153926496,
+        "moderateIntensitySeconds": 2106.5611354605967,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "HIGH_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 7553.7314717012205,
+        "bmrCalories": 4650.5248495821825,
+        "totalBurnedCalories": 1741.4935052657402,
+        "netActivityCalories": 3474.9376426783206
+      },
+      "distance": {
+        "steps": 9938
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 5008.499651060454,
+        "restSeconds": 3486.8170992990954,
+        "lowIntensitySeconds": 3029.8456012381394,
+        "vigorousIntensitySeconds": 6500.389782952096,
+        "numContinuousInactivePeriods": 2506,
+        "inactivitySeconds": 5041.463051609277,
+        "moderateIntensitySeconds": 8945.043362400553,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 9743.744181937702,
+        "bmrCalories": 5352.113013164114,
+        "totalBurnedCalories": 4378.889703433385,
+        "netActivityCalories": 8436.746050157111
+      },
+      "distance": {
+        "steps": 8748
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 5542.28042566268,
+        "restSeconds": 8512.989243315022,
+        "lowIntensitySeconds": 3962.0832858515505,
+        "vigorousIntensitySeconds": 4894.526303957822,
+        "numContinuousInactivePeriods": 9978,
+        "inactivitySeconds": 9232.700271937016,
+        "moderateIntensitySeconds": 7645.611470101899,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 4246.88348357706,
+        "bmrCalories": 1154.2674186894558,
+        "totalBurnedCalories": 5645.397253086607,
+        "netActivityCalories": 638.666576502849
+      },
+      "distance": {
+        "steps": 2246
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 5273.0238431965745,
+        "restSeconds": 4163.777383635861,
+        "lowIntensitySeconds": 1999.649500967932,
+        "vigorousIntensitySeconds": 819.398767503273,
+        "numContinuousInactivePeriods": 8746,
+        "inactivitySeconds": 939.1586055878006,
+        "moderateIntensitySeconds": 8249.34839680044,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 5481.315237419258,
+        "bmrCalories": 7244.4225649235295,
+        "totalBurnedCalories": 6067.140676602641,
+        "netActivityCalories": 848.8237729104283
+      },
+      "distance": {
+        "steps": 8321
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 9361.54834876137,
+        "restSeconds": 9605.39070975014,
+        "lowIntensitySeconds": 1288.5858066386231,
+        "vigorousIntensitySeconds": 8108.851918758896,
+        "numContinuousInactivePeriods": 9924,
+        "inactivitySeconds": 1671.8077001283195,
+        "moderateIntensitySeconds": 3414.881654960773,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 1903.873478790208,
+        "bmrCalories": 7139.380099194472,
+        "totalBurnedCalories": 2846.01519672116,
+        "netActivityCalories": 3097.7833530052226
+      },
+      "distance": {
+        "steps": 4541
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 150,
+      "deviceId": "8c47283bd0fa",
+      "provider": "APPLE",
+      "dataType": "ACTIVITY",
+      "metadata": {
+        "startTime": "2023-03-10T00:22:17.797Z",
+        "endTime": "2023-03-10T11:55:11.797Z"
+      },
+      "createdAt": "2023-06-26T11:09:45.983Z",
+      "activeDuration": {
+        "activitySeconds": 9955.703608722952,
+        "restSeconds": 6388.031660376216,
+        "lowIntensitySeconds": 545.602386635512,
+        "vigorousIntensitySeconds": 9440.144864707267,
+        "numContinuousInactivePeriods": 2517,
+        "inactivitySeconds": 8201.366268258005,
+        "moderateIntensitySeconds": 8049.344261845907,
+        "activityLevels": [
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "INACTIVE",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "LOW_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "MEDIUM_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "HIGH_INTENSITY",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          },
+          {
+            "level": "REST",
+            "timestamp": "2023-03-10T20:37:17.797Z"
+          }
+        ]
+      },
+      "calories": {
+        "netIntakeCalories": 6740.59960881927,
+        "bmrCalories": 1935.8456365335148,
+        "totalBurnedCalories": 8138.236859548514,
+        "netActivityCalories": 2981.6714866566117
+      },
+      "distance": {
+        "steps": 3647
+      }
+    }
+  ],
+  "bodyData": [],
+  "dailyData": [],
+  "nutritionData": [],
+  "sleepData": []
+}

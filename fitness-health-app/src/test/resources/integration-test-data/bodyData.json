@@ -1,0 +1,237 @@
+{
+  "user": {
+    "scopes": null,
+    "reference_id": "1:10:000ee535",
+    "user_id": "000ee535-4803-4631-aa5f-c7bf40dec8d9",
+    "provider": "FITBIT",
+    "last_webhook_update": null
+  },
+  "type": "body",
+  "data": [
+    {
+      "measurements_data": {
+        "measurements": [
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T21:09:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 64.43371289696354,
+            "weight_kg": 70.99251172132986,
+            "insulin_type": null,
+            "BMI": 31.445509097471174,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          },
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T21:18:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 19.307428809623328,
+            "weight_kg": 85.4205791117015,
+            "insulin_type": null,
+            "BMI": 28.885109575565103,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          },
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T21:27:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 18.16384938224801,
+            "weight_kg": 69.72437187759475,
+            "insulin_type": null,
+            "BMI": 22.965004013240133,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          },
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T21:36:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 1.0351776216017572,
+            "weight_kg": 83.06745096002038,
+            "insulin_type": null,
+            "BMI": 22.811292588331355,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          },
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T21:45:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 37.03787484067179,
+            "weight_kg": 66.38764809961349,
+            "insulin_type": null,
+            "BMI": 21.253193352871666,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          },
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T21:54:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 2.6243715792229505,
+            "weight_kg": 51.14020621899865,
+            "insulin_type": null,
+            "BMI": 23.490100437002432,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          },
+          {
+            "urine_color": null,
+            "measurement_time": "2023-01-17T22:03:46.822358+00:00",
+            "height_cm": null,
+            "BMR": null,
+            "bodyfat_percentage": 12.496120104147412,
+            "weight_kg": 69.46825430567807,
+            "insulin_type": null,
+            "BMI": 32.04820769509945,
+            "skin_fold_mm": null,
+            "RMR": null,
+            "muscle_mass_g": null,
+            "estimated_fitness_age": null,
+            "bone_mass_g": null,
+            "insulin_units": null,
+            "lean_mass_g": null,
+            "water_percentage": null
+          }
+        ]
+      },
+      "heart_data": {
+        "heart_rate_data": {
+          "summary": {
+            "resting_hr_bpm": null,
+            "avg_hrv_rmssd": null,
+            "avg_hr_bpm": null,
+            "hr_zone_data": [],
+            "avg_hrv_sdnn": null,
+            "min_hr_bpm": null,
+            "max_hr_bpm": null,
+            "user_max_hr_bpm": null
+          },
+          "detailed": {
+            "hrv_samples_sdnn": [],
+            "hrv_samples_rmssd": [],
+            "hr_samples": []
+          }
+        },
+        "afib_classification_samples": [],
+        "pulse_wave_velocity_samples": []
+      },
+      "temperature_data": {
+        "ambient_temperature_samples": [],
+        "body_temperature_samples": [],
+        "skin_temperature_samples": []
+      },
+      "metadata": {
+        "end_time": "2023-01-17T22:09:46.822358+00:00",
+        "start_time": "2023-01-17T21:09:46.822358+00:00"
+      },
+      "device_data": {
+        "software_version": null,
+        "serial_number": null,
+        "hardware_version": null,
+        "manufacturer": null,
+        "name": null,
+        "other_devices": [],
+        "activation_timestamp": null
+      },
+      "hydration_data": {
+        "hydration_amount_samples": [],
+        "day_total_water_consumption_ml": null
+      },
+      "oxygen_data": {
+        "saturation_samples": [
+          {
+            "type": 0,
+            "percentage": 98,
+            "timestamp": "2023-01-17T21:09:46.822358+00:00"
+          },
+          {
+            "type": 0,
+            "percentage": 91,
+            "timestamp": "2023-01-17T21:18:46.822358+00:00"
+          },
+          {
+            "type": 0,
+            "percentage": 96,
+            "timestamp": "2023-01-17T21:27:46.822358+00:00"
+          },
+          {
+            "type": 0,
+            "percentage": 97,
+            "timestamp": "2023-01-17T21:36:46.822358+00:00"
+          },
+          {
+            "type": 0,
+            "percentage": 88,
+            "timestamp": "2023-01-17T21:45:46.822358+00:00"
+          },
+          {
+            "type": 0,
+            "percentage": 92,
+            "timestamp": "2023-01-17T21:54:46.822358+00:00"
+          },
+          {
+            "type": 0,
+            "percentage": 95,
+            "timestamp": "2023-01-17T22:03:46.822358+00:00"
+          }
+        ],
+        "avg_saturation_percentage": null,
+        "vo2_samples": [],
+        "vo2max_ml_per_min_per_kg": null
+      },
+      "blood_pressure_data": {
+        "blood_pressure_samples": []
+      },
+      "glucose_data": {
+        "blood_glucose_samples": [],
+        "day_avg_blood_glucose_mg_per_dL": null,
+        "detailed_blood_glucose_samples": []
+      }
+    }
+  ]
+}

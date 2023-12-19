@@ -1,0 +1,16 @@
+{
+  "rest_stress_duration_seconds": 4,
+  "max_stress_level": 6,
+  "avg_stress_level": 5,
+  "activity_stress_duration_seconds": 30,
+  "high_stress_duration_seconds": 41,
+  "stress_samples": [
+    {
+      "level": 9,
+      "timestamp": "2023-01-13T23:23:00.0+00:00"
+    }
+  ],
+  "low_stress_duration_seconds": 3,
+  "stress_duration_seconds": 52,
+  "medium_stress_duration_seconds": 27
+}

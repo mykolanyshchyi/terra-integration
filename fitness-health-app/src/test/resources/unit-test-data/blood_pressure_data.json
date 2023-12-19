@@ -1,0 +1,9 @@
+{
+  "blood_pressure_samples": [
+    {
+      "diastolic_bp": 97,
+      "timestamp": "2023-01-17T21:33:24.0+00:00",
+      "systolic_bp": 124
+    }
+  ]
+}

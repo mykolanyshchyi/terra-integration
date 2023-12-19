@@ -1,0 +1,3146 @@
+{
+  "activityData": [],
+  "bodyData": [
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 1579.4791867909728,
+          "systolicBp": 172.92181520158834,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 2057.4447331705583,
+          "systolicBp": 1209.7390051341326,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 9279.714611490783,
+          "systolicBp": 7671.986246810153,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 8459.350299515312,
+          "systolicBp": 8541.834547230685,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 4705.466178682014,
+          "systolicBp": 8214.099536037627,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 7918.111904482547,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1700.076094952347,
+            "glucoseLevelFlag": 4002,
+            "trendArrow": 2973
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 104.47308790570817,
+            "glucoseLevelFlag": 9578,
+            "trendArrow": 7528
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3928.0287472297873,
+            "glucoseLevelFlag": 5454,
+            "trendArrow": 4822
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9557.07247805581,
+            "glucoseLevelFlag": 4220,
+            "trendArrow": 3862
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5372.7938040923655,
+            "glucoseLevelFlag": 5491,
+            "trendArrow": 2624
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7468.442769853309,
+            "glucoseLevelFlag": 2942,
+            "trendArrow": 6633
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1736.9254678205175,
+            "glucoseLevelFlag": 9849,
+            "trendArrow": 5024
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 9283,
+        "hydrationLevels": [
+          {
+            "level": 415,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 8619,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 4327.160879605556,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 7326.869795369447,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 1239.0175732852342,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 4021.2074407422965,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 7286.181281744368,
+          "bmr": 1540.2042115279023,
+          "rmr": 4048.086494382656,
+          "estimatedFitnessAge": 5764,
+          "skinFoldMm": 6538.360083526301,
+          "bodyfatPercentage": 4043.1345450836257,
+          "weightKg": 1113.860183960276,
+          "heightCm": 1042.7322140224696,
+          "boneMassG": 9806.746241214805,
+          "muscleMassG": 8856.491856596578,
+          "leanMassG": 4844.029007150371,
+          "waterPercentage": 665.0334126266036,
+          "insulinUnits": 212.74383019803437,
+          "insulinType": "ZHCATPLYK",
+          "urineColor": "QDZCB"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 9233.874943217044,
+          "bmr": 8067.3270418504,
+          "rmr": 2733.1333955669,
+          "estimatedFitnessAge": 5724,
+          "skinFoldMm": 1178.237752344543,
+          "bodyfatPercentage": 5980.229391215102,
+          "weightKg": 7262.654918832805,
+          "heightCm": 5597.473846706656,
+          "boneMassG": 5684.51863155197,
+          "muscleMassG": 7192.062121556075,
+          "leanMassG": 5600.747377522764,
+          "waterPercentage": 8126.315030513126,
+          "insulinUnits": 8635.402285832854,
+          "insulinType": "JQJDV",
+          "urineColor": "EJFR"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 6779.516216708509,
+          "bmr": 1047.1080183357374,
+          "rmr": 1806.445092195398,
+          "estimatedFitnessAge": 2674,
+          "skinFoldMm": 8038.159974645122,
+          "bodyfatPercentage": 7028.6814589794185,
+          "weightKg": 8558.885961974584,
+          "heightCm": 368.1795535238368,
+          "boneMassG": 1779.5702828663457,
+          "muscleMassG": 2587.951510012327,
+          "leanMassG": 6324.784115278245,
+          "waterPercentage": 487.1197474963031,
+          "insulinUnits": 7935.619062840084,
+          "insulinType": "IUQQMP",
+          "urineColor": "XVMHDMAA"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 3448.719440443299,
+          "bmr": 3026.5316520167094,
+          "rmr": 7301.337363639674,
+          "estimatedFitnessAge": 197,
+          "skinFoldMm": 3640.1284548076965,
+          "bodyfatPercentage": 4845.954603090546,
+          "weightKg": 7547.480057537869,
+          "heightCm": 126.14200030850263,
+          "boneMassG": 8943.573603728912,
+          "muscleMassG": 6439.659276226541,
+          "leanMassG": 6766.631302665876,
+          "waterPercentage": 8467.830720588921,
+          "insulinUnits": 4485.216793701002,
+          "insulinType": "MVUDUSXU",
+          "urineColor": "IYGKZUG"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 6293.993943592514,
+          "bmr": 9295.727394293759,
+          "rmr": 7273.351914740569,
+          "estimatedFitnessAge": 2085,
+          "skinFoldMm": 8652.290466635332,
+          "bodyfatPercentage": 4395.079672513576,
+          "weightKg": 6766.457695898113,
+          "heightCm": 8903.778104874309,
+          "boneMassG": 9192.000071122944,
+          "muscleMassG": 970.6687319821367,
+          "leanMassG": 2026.4262573484798,
+          "waterPercentage": 2521.5167400674077,
+          "insulinUnits": 6517.754638978703,
+          "insulinType": "OHIMBQD",
+          "urineColor": "ORAAURUK"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 8079.1305645576185,
+          "bmr": 9569.717192651984,
+          "rmr": 5590.5548483763805,
+          "estimatedFitnessAge": 6483,
+          "skinFoldMm": 8502.191015712093,
+          "bodyfatPercentage": 7217.958812273786,
+          "weightKg": 8648.214336343659,
+          "heightCm": 9293.97992754132,
+          "boneMassG": 1334.0254940283585,
+          "muscleMassG": 2750.757078852602,
+          "leanMassG": 2314.619547024768,
+          "waterPercentage": 4506.871950770226,
+          "insulinUnits": 8070.390399128653,
+          "insulinType": "ELMK",
+          "urineColor": "CMLGCY"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 4788.797373467707,
+        "vo2MaxMlPerMinPerKg": 7892.541906104224,
+        "oxygenSaturations": [
+          {
+            "percentage": 3116.9647337453857,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5812.321789691271,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 2064.423394252298,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 178.58078368167583,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 3026.5532579235733,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 4136.989999033592,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 1945.2201401632376,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 4838.642108250867,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 7334.215430524026,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 9124.961100572353,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 2560.518277149082,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 3923.7532057024578,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 2535.404709995467,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 1753.6742476486786,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 2858.5484574211696,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 7985.904212000058,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1182.7932568613214,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 2669.488445684026,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 4607.743601413128,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 250.90896090822682,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5468.1914517498535,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 9597.753474622654,
+          "systolicBp": 463.2326993505982,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 5009.215337587,
+          "systolicBp": 2535.677351445022,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 446.0622763995965,
+          "systolicBp": 1984.6905188519513,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 5660.296153986839,
+          "systolicBp": 2215.484228684288,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 1098.9325793176295,
+          "systolicBp": 3279.618315070794,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 2257.564198719132,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3107.684090403966,
+            "glucoseLevelFlag": 4869,
+            "trendArrow": 7747
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 730.5350937458488,
+            "glucoseLevelFlag": 44,
+            "trendArrow": 9656
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7893.425158954871,
+            "glucoseLevelFlag": 7785,
+            "trendArrow": 2077
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 82.76414066433865,
+            "glucoseLevelFlag": 6224,
+            "trendArrow": 7078
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 8769.077204159732,
+            "glucoseLevelFlag": 1935,
+            "trendArrow": 6674
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7383.459850601908,
+            "glucoseLevelFlag": 4575,
+            "trendArrow": 6876
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1315.3304499226233,
+            "glucoseLevelFlag": 4741,
+            "trendArrow": 4308
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9053.947177004851,
+            "glucoseLevelFlag": 4237,
+            "trendArrow": 2199
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5041.119560664088,
+            "glucoseLevelFlag": 1493,
+            "trendArrow": 3441
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 1924,
+        "hydrationLevels": [
+          {
+            "level": 4466,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 8096,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 9614.3627001865,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 6209.298141693604,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 3492.2373780891803,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 3609.152799042165,
+          "bmr": 9431.300559661275,
+          "rmr": 7923.6319229896535,
+          "estimatedFitnessAge": 1958,
+          "skinFoldMm": 7062.295924235098,
+          "bodyfatPercentage": 870.24236601337,
+          "weightKg": 191.47605870523947,
+          "heightCm": 6992.262555793431,
+          "boneMassG": 3807.966818784631,
+          "muscleMassG": 6970.321260829615,
+          "leanMassG": 8434.946067740517,
+          "waterPercentage": 5087.764908584084,
+          "insulinUnits": 9171.33464434199,
+          "insulinType": "IHZG",
+          "urineColor": "JHRGDXY"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 3011.733860084324,
+          "bmr": 7789.004538620221,
+          "rmr": 4573.279567646488,
+          "estimatedFitnessAge": 9974,
+          "skinFoldMm": 5632.603245388007,
+          "bodyfatPercentage": 9204.049062848348,
+          "weightKg": 9635.639015212022,
+          "heightCm": 7926.266926104816,
+          "boneMassG": 271.35783514186954,
+          "muscleMassG": 6077.151752231547,
+          "leanMassG": 1542.3820911354253,
+          "waterPercentage": 7404.016469587867,
+          "insulinUnits": 7839.653098546627,
+          "insulinType": "XUT",
+          "urineColor": "MIFSGSB"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 4569.711336294652,
+          "bmr": 516.9104679343462,
+          "rmr": 4342.349176478353,
+          "estimatedFitnessAge": 1741,
+          "skinFoldMm": 8753.641673567923,
+          "bodyfatPercentage": 8511.421181369493,
+          "weightKg": 1412.0915614620646,
+          "heightCm": 923.0945422320071,
+          "boneMassG": 2276.709105753222,
+          "muscleMassG": 4255.658194634456,
+          "leanMassG": 9687.644775503783,
+          "waterPercentage": 4624.159231203833,
+          "insulinUnits": 3548.7856264213074,
+          "insulinType": "LFCHL",
+          "urineColor": "KXP"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 3971.700259060595,
+          "bmr": 7311.349718326979,
+          "rmr": 2621.934745679257,
+          "estimatedFitnessAge": 6783,
+          "skinFoldMm": 5692.220076023387,
+          "bodyfatPercentage": 5477.529079110949,
+          "weightKg": 1237.5278281342175,
+          "heightCm": 5267.767376293461,
+          "boneMassG": 5182.203389536362,
+          "muscleMassG": 1727.3309168767616,
+          "leanMassG": 8132.44282113678,
+          "waterPercentage": 4708.07578273856,
+          "insulinUnits": 7439.956794193229,
+          "insulinType": "CXQ",
+          "urineColor": "LJVK"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 9495.388251140597,
+          "bmr": 4525.386731810185,
+          "rmr": 3987.2631521849544,
+          "estimatedFitnessAge": 3290,
+          "skinFoldMm": 1154.1066254875032,
+          "bodyfatPercentage": 4176.024696420204,
+          "weightKg": 464.6443882999168,
+          "heightCm": 8899.809365019197,
+          "boneMassG": 401.3143333277518,
+          "muscleMassG": 2093.3739554640974,
+          "leanMassG": 9850.63102894649,
+          "waterPercentage": 774.1041572246039,
+          "insulinUnits": 5540.737873554327,
+          "insulinType": "BHMTS",
+          "urineColor": "WGRD"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 3710.4385925552424,
+        "vo2MaxMlPerMinPerKg": 1646.3892651809565,
+        "oxygenSaturations": [
+          {
+            "percentage": 4042.7461553230964,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 8424.06498788877,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 8439.376094084319,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 7989.559537419736,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5358.2792977458075,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 4795.499908116283,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 946.9262408069229,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 30.12512149651338,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 5769.225634872548,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 4434.021842598089,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 8244.65142515365,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 260.8582845502897,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 3472.3548948036637,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 8344.779010894728,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 234.11358653890008,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 6082.98358168748,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 2505.258865142351,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 5324.928858559506,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 4175.516090715778,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 7351.209451866575,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 8304.077345527849,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5990.158651802636,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1988.6124563250848,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 6964.841162538135,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 547.7151778133233,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5633.953068569101,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 8091.071692515672,
+          "systolicBp": 1215.9418641658865,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 8997.931773546305,
+          "systolicBp": 8975.445936434771,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 1684.9388084400525,
+          "systolicBp": 8602.461031197867,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 9080.640174719809,
+          "systolicBp": 6714.585607372616,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 3215.8751662746336,
+          "systolicBp": 1527.6604192931434,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 9695.36414902262,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7490.98410869684,
+            "glucoseLevelFlag": 1903,
+            "trendArrow": 4613
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9390.758158062004,
+            "glucoseLevelFlag": 8229,
+            "trendArrow": 4681
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6799.004591361755,
+            "glucoseLevelFlag": 7132,
+            "trendArrow": 964
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9306.691202904334,
+            "glucoseLevelFlag": 6807,
+            "trendArrow": 3140
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3330.1887811220836,
+            "glucoseLevelFlag": 4937,
+            "trendArrow": 6931
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 8594.250956753758,
+            "glucoseLevelFlag": 640,
+            "trendArrow": 6386
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1756.011793470338,
+            "glucoseLevelFlag": 5124,
+            "trendArrow": 3040
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1484.2665623022135,
+            "glucoseLevelFlag": 987,
+            "trendArrow": 1119
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5058.474840404805,
+            "glucoseLevelFlag": 1534,
+            "trendArrow": 9351
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1854.387916241752,
+            "glucoseLevelFlag": 3667,
+            "trendArrow": 4630
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 6346,
+        "hydrationLevels": [
+          {
+            "level": 1974,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 830,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 2496.8399712037135,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 7436.64886834676,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 2498.3912673115797,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 653.0911116361699,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 5218.446115154984,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 6415.811931138708,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 8285.195451291771,
+          "bmr": 5475.4249933487645,
+          "rmr": 5880.197063025693,
+          "estimatedFitnessAge": 1891,
+          "skinFoldMm": 1468.0314923689,
+          "bodyfatPercentage": 6696.3239286760245,
+          "weightKg": 1258.7460584620273,
+          "heightCm": 8794.239055821381,
+          "boneMassG": 7848.0761549452545,
+          "muscleMassG": 5634.173029726423,
+          "leanMassG": 1429.4172689383433,
+          "waterPercentage": 3231.3401086442313,
+          "insulinUnits": 5148.993525632699,
+          "insulinType": "VREDLVMA",
+          "urineColor": "ANET"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 5667.9752927137615,
+          "bmr": 4626.240743537671,
+          "rmr": 6205.686133153859,
+          "estimatedFitnessAge": 2850,
+          "skinFoldMm": 5614.101310011402,
+          "bodyfatPercentage": 9527.897548177287,
+          "weightKg": 4994.901148288267,
+          "heightCm": 4362.077515398072,
+          "boneMassG": 8521.48221944502,
+          "muscleMassG": 3979.9446327519317,
+          "leanMassG": 4873.745407037404,
+          "waterPercentage": 1091.8302638313667,
+          "insulinUnits": 8482.668689394568,
+          "insulinType": "QOZST",
+          "urineColor": "MXHJFSXXVD"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 8940.43232075855,
+          "bmr": 9093.12638742957,
+          "rmr": 4291.885797014978,
+          "estimatedFitnessAge": 3508,
+          "skinFoldMm": 7541.277869207183,
+          "bodyfatPercentage": 6302.322918248437,
+          "weightKg": 8299.998977646159,
+          "heightCm": 7585.573462946085,
+          "boneMassG": 2410.998656610716,
+          "muscleMassG": 6533.837768066194,
+          "leanMassG": 4647.083724007959,
+          "waterPercentage": 1777.8235913314752,
+          "insulinUnits": 5388.559864095573,
+          "insulinType": "UTK",
+          "urineColor": "XYSZQGHEFP"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 2750.2414990699676,
+          "bmr": 3625.0722946494557,
+          "rmr": 4556.179798770171,
+          "estimatedFitnessAge": 4118,
+          "skinFoldMm": 2794.420309228661,
+          "bodyfatPercentage": 8377.123619788812,
+          "weightKg": 5867.103362176622,
+          "heightCm": 6824.132966030942,
+          "boneMassG": 2357.4680788412797,
+          "muscleMassG": 8791.225901685464,
+          "leanMassG": 3072.8471559731192,
+          "waterPercentage": 5969.143115948391,
+          "insulinUnits": 2443.175408034793,
+          "insulinType": "LYKAOTTYR",
+          "urineColor": "DCIMRVB"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 4092.9488321392355,
+          "bmr": 7260.565424530778,
+          "rmr": 2156.5191493551265,
+          "estimatedFitnessAge": 3980,
+          "skinFoldMm": 8571.712137526833,
+          "bodyfatPercentage": 4157.254989896373,
+          "weightKg": 930.8605037510638,
+          "heightCm": 414.68135482698017,
+          "boneMassG": 6310.994887765773,
+          "muscleMassG": 2431.272468803934,
+          "leanMassG": 455.7011927094703,
+          "waterPercentage": 1119.9241396803816,
+          "insulinUnits": 2165.626934590282,
+          "insulinType": "HSEHAF",
+          "urineColor": "DFD"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 2530.0455109757886,
+          "bmr": 9708.438632429923,
+          "rmr": 4552.0771914750485,
+          "estimatedFitnessAge": 946,
+          "skinFoldMm": 4878.2456813135,
+          "bodyfatPercentage": 2866.469260966807,
+          "weightKg": 9252.803724905118,
+          "heightCm": 1371.0235494861909,
+          "boneMassG": 8115.99867904407,
+          "muscleMassG": 3721.638796142884,
+          "leanMassG": 4604.747266707668,
+          "waterPercentage": 6002.6712005209565,
+          "insulinUnits": 8351.985136541474,
+          "insulinType": "QCEOT",
+          "urineColor": "EVOXM"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 958.9017134418258,
+        "vo2MaxMlPerMinPerKg": 1353.1649489545403,
+        "oxygenSaturations": [
+          {
+            "percentage": 7109.578173826617,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5988.238280185845,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 8462.725101088547,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 7005.280352167693,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 3634.567099886315,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 712.522715680677,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 4061.938817959343,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 9390.05260141607,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 8121.124401755528,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 4003.583584830201,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 7262.323867219688,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 6326.549603927901,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 4575.74732036167,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 4710.86764708738,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 8236.612599711987,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 2176.344763180878,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 8303.449491013194,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 4010.542691256669,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 3015.5618158768552,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1969.7103375998238,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 3368.495692615179,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 7728.50259458976,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 7418.581636050088,
+          "systolicBp": 5159.434896312047,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 2986.60192404073,
+          "systolicBp": 8092.827950368185,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 1387.0287059402672,
+          "systolicBp": 1153.430637518766,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 6422.791103827524,
+          "systolicBp": 4688.654550016146,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 9947.086331530867,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 4269.54370613293,
+            "glucoseLevelFlag": 482,
+            "trendArrow": 9370
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 4394.456226520955,
+            "glucoseLevelFlag": 4159,
+            "trendArrow": 9480
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5929.673927805552,
+            "glucoseLevelFlag": 3858,
+            "trendArrow": 3027
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9946.243427334663,
+            "glucoseLevelFlag": 1649,
+            "trendArrow": 1304
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9527.523644041805,
+            "glucoseLevelFlag": 5573,
+            "trendArrow": 8951
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3240.530430264632,
+            "glucoseLevelFlag": 1429,
+            "trendArrow": 9689
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 3100,
+        "hydrationLevels": [
+          {
+            "level": 6032,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 899,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 8849,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 1881,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 6546,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 3422,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 7416.33983104492,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 8529.970989125743,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 5582.316587073458,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 4477.579605911366,
+          "bmr": 4132.02639548318,
+          "rmr": 7806.482821767969,
+          "estimatedFitnessAge": 3940,
+          "skinFoldMm": 9020.439169234465,
+          "bodyfatPercentage": 1905.010824637724,
+          "weightKg": 6862.093537276635,
+          "heightCm": 5225.043765938918,
+          "boneMassG": 9984.74075172999,
+          "muscleMassG": 2476.4206414327377,
+          "leanMassG": 2933.938725135589,
+          "waterPercentage": 54.375378471058205,
+          "insulinUnits": 7736.772690337804,
+          "insulinType": "CYBJI",
+          "urineColor": "SEQHNCQWT"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 5833.173315768342,
+          "bmr": 4497.324498993209,
+          "rmr": 1152.011959712408,
+          "estimatedFitnessAge": 431,
+          "skinFoldMm": 8511.214512992452,
+          "bodyfatPercentage": 5124.691636046251,
+          "weightKg": 651.3957154120408,
+          "heightCm": 6436.868886679263,
+          "boneMassG": 7530.889970019206,
+          "muscleMassG": 1205.7500473088007,
+          "leanMassG": 8874.045872649609,
+          "waterPercentage": 2241.4976431616446,
+          "insulinUnits": 8071.202678224942,
+          "insulinType": "HOWORJUBG",
+          "urineColor": "ZIFMMTR"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 950.1350295330869,
+        "vo2MaxMlPerMinPerKg": 6227.699656230252,
+        "oxygenSaturations": [
+          {
+            "percentage": 1945.3978629900728,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 6553.066964108304,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 132.451612133712,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 7003.27220880436,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 4451.699211717639,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5480.143241180621,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 5780.656611365452,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 2176.1644022824053,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 7598.5145995148605,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 8304.342244471469,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 9121.826655248635,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5347.712660900252,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5465.301611497954,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 7643.843567457137,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 9044.296021984068,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 2495.269351257868,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 6393.480119413347,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 3915.3706928485776,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 2541.8229938242293,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 9941.483257362876,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 349.109224890443,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 880.2272534221426,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 8864.090057681187,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5771.07695815151,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 4713.0507325994695,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 2496.40341374112,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 2935.1133814132427,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 2308.530947743839,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 6643.080401421299,
+          "systolicBp": 9619.210988866322,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 3634.6041335798145,
+          "systolicBp": 3128.89897163175,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 3476.437484498843,
+          "systolicBp": 8121.909972704421,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 7776.764652065861,
+          "systolicBp": 5286.735505153717,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 2829.5948746001095,
+          "systolicBp": 9235.931770042343,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 6310.737701953457,
+          "systolicBp": 7081.8547258805565,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 4165.081662622661,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9898.487031235876,
+            "glucoseLevelFlag": 9406,
+            "trendArrow": 9796
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 2627.2329235967395,
+            "glucoseLevelFlag": 4579,
+            "trendArrow": 9219
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9229.267767273433,
+            "glucoseLevelFlag": 7335,
+            "trendArrow": 796
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7761.427368708693,
+            "glucoseLevelFlag": 1165,
+            "trendArrow": 5016
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 424.69674843766484,
+            "glucoseLevelFlag": 2199,
+            "trendArrow": 9540
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 2218.8457181903023,
+            "glucoseLevelFlag": 7718,
+            "trendArrow": 6930
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 8219.300472899962,
+            "glucoseLevelFlag": 8784,
+            "trendArrow": 5757
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 3689,
+        "hydrationLevels": [
+          {
+            "level": 9758,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 9053,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 2865,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 2823,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 3083,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 3723.784863930154,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 2705.2709225519575,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 8672.115733863122,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 2041.1499912031256,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 9103.102226823861,
+          "bmr": 6323.37929543356,
+          "rmr": 8969.520225921831,
+          "estimatedFitnessAge": 1494,
+          "skinFoldMm": 7095.636060156614,
+          "bodyfatPercentage": 6745.9449484710785,
+          "weightKg": 8823.002006832718,
+          "heightCm": 7206.865382937654,
+          "boneMassG": 5301.126507628204,
+          "muscleMassG": 8751.97282895362,
+          "leanMassG": 3786.228350027723,
+          "waterPercentage": 9527.042366204514,
+          "insulinUnits": 7882.46022461749,
+          "insulinType": "RPLIXHHHJS",
+          "urineColor": "JDL"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 814.692964110786,
+          "bmr": 8861.896157233648,
+          "rmr": 1658.428693418994,
+          "estimatedFitnessAge": 9299,
+          "skinFoldMm": 6377.700512938464,
+          "bodyfatPercentage": 1333.4993345147147,
+          "weightKg": 5107.554567364529,
+          "heightCm": 9604.016790897067,
+          "boneMassG": 1556.7563678529352,
+          "muscleMassG": 1768.4008946904064,
+          "leanMassG": 8509.57334543069,
+          "waterPercentage": 7126.129320288275,
+          "insulinUnits": 5134.602266866537,
+          "insulinType": "XELABKTSS",
+          "urineColor": "XYJLOAUKRO"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 4661.834334260349,
+        "vo2MaxMlPerMinPerKg": 6241.790118099915,
+        "oxygenSaturations": [
+          {
+            "percentage": 4240.987951374658,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 408.67974576310974,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5075.340035659836,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 9171.635051013514,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 1585.0380060887182,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5292.897259653428,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 2208.0878588719356,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 7888.963000577387,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5625.9894102308,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 417.46706035411273,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 223.4765470879827,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 4559.624528964816,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 4523.34818357739,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 7562.524761344325,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 8562.252302485964,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 9861.8013330828,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 7173.313243524663,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 2859.540971566669,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1639.1491871850192,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 6168.043861192388,
+          "systolicBp": 2187.092489418121,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 7776.278315413451,
+          "systolicBp": 6911.605678938854,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 5368.298269837497,
+          "systolicBp": 5661.035998070452,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 2605.778005828183,
+          "systolicBp": 153.4250929031662,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 3818.2073379051058,
+          "systolicBp": 3326.0084227563943,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 6502.52617656251,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9137.945168342572,
+            "glucoseLevelFlag": 8081,
+            "trendArrow": 1315
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 2997.989240125871,
+            "glucoseLevelFlag": 3688,
+            "trendArrow": 7552
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5839.314037054126,
+            "glucoseLevelFlag": 5526,
+            "trendArrow": 1882
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3161.166859423471,
+            "glucoseLevelFlag": 5048,
+            "trendArrow": 1688
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 4932.29531690238,
+            "glucoseLevelFlag": 6581,
+            "trendArrow": 9998
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1376.2755438632255,
+            "glucoseLevelFlag": 4392,
+            "trendArrow": 7646
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3377.7732247495596,
+            "glucoseLevelFlag": 4189,
+            "trendArrow": 6815
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 6499,
+        "hydrationLevels": [
+          {
+            "level": 4972,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 4431,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 2597,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 1797,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 9940,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 1438.0709726710445,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 4655.548415264426,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 7789.37559546924,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 6741.42992820991,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 1473.896481652552,
+          "bmr": 1845.1097064135577,
+          "rmr": 5573.711484986224,
+          "estimatedFitnessAge": 6888,
+          "skinFoldMm": 9694.766047153635,
+          "bodyfatPercentage": 3598.5967548584567,
+          "weightKg": 966.897038860304,
+          "heightCm": 4195.962953547186,
+          "boneMassG": 7249.850760894711,
+          "muscleMassG": 9858.960533087653,
+          "leanMassG": 3096.483209795536,
+          "waterPercentage": 3307.3950573767406,
+          "insulinUnits": 3816.574912736262,
+          "insulinType": "LSDBQH",
+          "urineColor": "AEVMWZQEZ"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 2817.1826333957315,
+          "bmr": 4118.007047128464,
+          "rmr": 4046.4715860852466,
+          "estimatedFitnessAge": 5263,
+          "skinFoldMm": 6920.374838957882,
+          "bodyfatPercentage": 4669.780694791382,
+          "weightKg": 6966.230876498767,
+          "heightCm": 4168.42096974784,
+          "boneMassG": 7680.339788063249,
+          "muscleMassG": 7234.94753450649,
+          "leanMassG": 338.3954862831637,
+          "waterPercentage": 1890.0806206949483,
+          "insulinUnits": 187.84378150056043,
+          "insulinType": "ZULLQN",
+          "urineColor": "LYJQN"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 4155.873212298747,
+          "bmr": 6330.911737092762,
+          "rmr": 7074.379098209469,
+          "estimatedFitnessAge": 1734,
+          "skinFoldMm": 3158.0835950847422,
+          "bodyfatPercentage": 6738.479347947141,
+          "weightKg": 3379.229492315499,
+          "heightCm": 6867.827348418831,
+          "boneMassG": 9159.731718214054,
+          "muscleMassG": 6418.970250893219,
+          "leanMassG": 3233.1080706915377,
+          "waterPercentage": 2597.616396451936,
+          "insulinUnits": 8455.576414529214,
+          "insulinType": "NYEFKJ",
+          "urineColor": "GOPPEHEU"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 1559.7897193638842,
+          "bmr": 1896.4691870098925,
+          "rmr": 8016.569809262131,
+          "estimatedFitnessAge": 1587,
+          "skinFoldMm": 8058.895146256182,
+          "bodyfatPercentage": 7924.951569618183,
+          "weightKg": 9681.836460476286,
+          "heightCm": 3019.0937563012376,
+          "boneMassG": 5390.397205178568,
+          "muscleMassG": 6463.209355299764,
+          "leanMassG": 2770.616694420351,
+          "waterPercentage": 8873.30610949386,
+          "insulinUnits": 4329.5601880462755,
+          "insulinType": "JGNBIVR",
+          "urineColor": "UQGSON"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 6764.346948726936,
+        "vo2MaxMlPerMinPerKg": 6125.39072005061,
+        "oxygenSaturations": [
+          {
+            "percentage": 159.24026673919846,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 9257.763913687335,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5664.779612064907,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 2907.8088736567506,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 6313.586753249643,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 5137.588360609695,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 3232.3239584142016,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 317.2776869130228,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 6899.055476935738,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 618.8575575026551,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 9921.707900713533,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 4279.151596518338,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 6961.631710164535,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 8150.884105882235,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1144.8844241407523,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 6664.114602742957,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 798.7548218599322,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1181.9926385166193,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 9402.545032751428,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 9888.194819796608,
+          "systolicBp": 9576.09400197654,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 6561.608110174972,
+          "systolicBp": 8460.484170289847,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 97.72102359867772,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6149.7527553575,
+            "glucoseLevelFlag": 3040,
+            "trendArrow": 6176
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6698.861205299019,
+            "glucoseLevelFlag": 7482,
+            "trendArrow": 3836
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 2594.7211546172584,
+            "glucoseLevelFlag": 2527,
+            "trendArrow": 1309
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 185.86016083768752,
+            "glucoseLevelFlag": 992,
+            "trendArrow": 2638
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 2870.2126517044057,
+            "glucoseLevelFlag": 8379,
+            "trendArrow": 9171
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 4964,
+        "hydrationLevels": [
+          {
+            "level": 1209,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 2330,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 8066,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 2357.3908905843537,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 8478.233261079342,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 7671.135939987677,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 459.44496202155506,
+          "bmr": 3692.027347164065,
+          "rmr": 598.9907594800571,
+          "estimatedFitnessAge": 3022,
+          "skinFoldMm": 8236.196920730048,
+          "bodyfatPercentage": 3132.3116479073838,
+          "weightKg": 8438.556632233993,
+          "heightCm": 7382.514310536241,
+          "boneMassG": 3750.9342407502836,
+          "muscleMassG": 6197.636807122962,
+          "leanMassG": 1228.3151542903313,
+          "waterPercentage": 9014.144526670836,
+          "insulinUnits": 83.49620708822054,
+          "insulinType": "DGLUEC",
+          "urineColor": "JDNOX"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 8077.691458657343,
+          "bmr": 8298.215585091015,
+          "rmr": 973.898791087793,
+          "estimatedFitnessAge": 2472,
+          "skinFoldMm": 868.9905961021766,
+          "bodyfatPercentage": 3065.252026159669,
+          "weightKg": 6749.497371007993,
+          "heightCm": 892.8988296792121,
+          "boneMassG": 5705.675364907825,
+          "muscleMassG": 3532.4738701765064,
+          "leanMassG": 3454.8165190350996,
+          "waterPercentage": 6689.31742305012,
+          "insulinUnits": 4386.573674493585,
+          "insulinType": "FUOS",
+          "urineColor": "TIAD"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 9172.62771093082,
+        "vo2MaxMlPerMinPerKg": 8544.160244417577,
+        "oxygenSaturations": [
+          {
+            "percentage": 2697.1971447396263,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 6626.377640911927,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 6758.31529000207,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 8976.38990440761,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 8812.375587902648,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 4700.492853779967,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 7427.64752017154,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 9852.644765034447,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 1832.0236568775908,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 4983.361249786819,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 6708.773851974762,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 1930.7035444049548,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 3518.569809728374,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 1938.1262832653745,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 7410.710457604077,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 1871.7179832519478,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 8476.623614372584,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 6489.317075035597,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 489.77548187963896,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 9410.181960609005,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 7893.993118886944,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 7110.631924363538,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1501.7770000453904,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 9232.75952807793,
+          "systolicBp": 3897.9242758526475,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 2571.1659173722346,
+          "systolicBp": 3215.995631909623,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 7792.886128490975,
+          "systolicBp": 7781.481709683681,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 9793.3457168819,
+          "systolicBp": 2304.9198658764262,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 8422.483455773776,
+          "systolicBp": 5418.263542094875,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 9081.019464645242,
+          "systolicBp": 1357.2213944820594,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 326.79368593865235,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6055.225557391398,
+            "glucoseLevelFlag": 9850,
+            "trendArrow": 2441
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 3221.5499995623145,
+            "glucoseLevelFlag": 1206,
+            "trendArrow": 9499
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5994.099807616157,
+            "glucoseLevelFlag": 9254,
+            "trendArrow": 3974
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 8078.221144402834,
+            "glucoseLevelFlag": 6187,
+            "trendArrow": 1015
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5924.309125284244,
+            "glucoseLevelFlag": 3437,
+            "trendArrow": 4522
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6085.555690128777,
+            "glucoseLevelFlag": 1134,
+            "trendArrow": 9675
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 766.0908257672936,
+            "glucoseLevelFlag": 7069,
+            "trendArrow": 8071
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7905.531183673353,
+            "glucoseLevelFlag": 7569,
+            "trendArrow": 3872
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 9791,
+        "hydrationLevels": [
+          {
+            "level": 2686,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 6918,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 3244.8515373496066,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 885.7972551134734,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 6852.546303978988,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 8308.29590665919,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 6274.140153997508,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 6982.0426709603635,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 9264.444399067124,
+          "bmr": 1586.0535090702947,
+          "rmr": 1553.756126722902,
+          "estimatedFitnessAge": 1597,
+          "skinFoldMm": 5300.806112180028,
+          "bodyfatPercentage": 7408.065140617507,
+          "weightKg": 6559.453698227639,
+          "heightCm": 4369.5120376218265,
+          "boneMassG": 2480.6100552277317,
+          "muscleMassG": 9220.868054364724,
+          "leanMassG": 1123.8556320074392,
+          "waterPercentage": 8625.606942721693,
+          "insulinUnits": 1352.0660952483468,
+          "insulinType": "WXIXYMVFY",
+          "urineColor": "AUHS"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 4578.967374199763,
+          "bmr": 7323.666171685105,
+          "rmr": 1303.3146296865173,
+          "estimatedFitnessAge": 5521,
+          "skinFoldMm": 9184.064435450238,
+          "bodyfatPercentage": 539.2212194744851,
+          "weightKg": 2049.291939130374,
+          "heightCm": 7784.873024019076,
+          "boneMassG": 3161.837958091544,
+          "muscleMassG": 8735.834571846757,
+          "leanMassG": 853.7590790251429,
+          "waterPercentage": 2317.6931361316547,
+          "insulinUnits": 3982.716854545225,
+          "insulinType": "PTDKYVASSF",
+          "urineColor": "KBOP"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 1611.1258634018925,
+          "bmr": 7396.337761470687,
+          "rmr": 3556.450696324709,
+          "estimatedFitnessAge": 4994,
+          "skinFoldMm": 2945.658919741654,
+          "bodyfatPercentage": 5479.752453364367,
+          "weightKg": 3989.441481388608,
+          "heightCm": 1618.295049153281,
+          "boneMassG": 3017.5347662921445,
+          "muscleMassG": 1538.784184579707,
+          "leanMassG": 2316.1487890561516,
+          "waterPercentage": 367.5137164787652,
+          "insulinUnits": 923.9268993892821,
+          "insulinType": "ZNUEFAET",
+          "urineColor": "KKMEM"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 1953.1865982225634,
+          "bmr": 218.73507359771602,
+          "rmr": 4734.654086014515,
+          "estimatedFitnessAge": 8181,
+          "skinFoldMm": 8639.792012891925,
+          "bodyfatPercentage": 3317.007468209715,
+          "weightKg": 6761.090386045055,
+          "heightCm": 3528.825642617645,
+          "boneMassG": 1874.439129785035,
+          "muscleMassG": 79.50496088548668,
+          "leanMassG": 3708.271564501408,
+          "waterPercentage": 2309.6941292223423,
+          "insulinUnits": 8795.893238918043,
+          "insulinType": "YEIPHWGCU",
+          "urineColor": "JWOWI"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 3995.906078776802,
+          "bmr": 8131.910392857966,
+          "rmr": 33.654230600927086,
+          "estimatedFitnessAge": 3452,
+          "skinFoldMm": 7737.57337624091,
+          "bodyfatPercentage": 7253.084324384071,
+          "weightKg": 2689.951042127087,
+          "heightCm": 8684.067459726471,
+          "boneMassG": 8630.850823021035,
+          "muscleMassG": 3194.9250300690705,
+          "leanMassG": 5071.878120121886,
+          "waterPercentage": 4708.642503350917,
+          "insulinUnits": 9138.034858349904,
+          "insulinType": "VOQ",
+          "urineColor": "TUCPAHADWG"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 5703.267178167877,
+        "vo2MaxMlPerMinPerKg": 6368.165506918157,
+        "oxygenSaturations": [
+          {
+            "percentage": 5516.954437456442,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 6663.675764318529,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 5388.587010434371,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 3975.148658528884,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 7055.944421147123,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 2954.7787327066394,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 5965.131014992805,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 6536.832285008433,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 6775.139265970324,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 160.95089448955773,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 3679.100528166795,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 5514.994699140104,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 4181.407738223924,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 5781.218845770136,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5313.6340844466,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 7258.498878692475,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 2739.545879231331,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 9568.180815875714,
+          "systolicBp": 2297.6084173719432,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 9520.068989366302,
+          "systolicBp": 8488.091095633708,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 8980.250672028922,
+          "systolicBp": 9733.767199940952,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 5007.56776569957,
+          "systolicBp": 1616.9230395013362,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 6180.668693003925,
+          "systolicBp": 8779.69519401002,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 4522.238963211349,
+          "systolicBp": 3941.324081797845,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 454.3436860823375,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9028.12513018585,
+            "glucoseLevelFlag": 2782,
+            "trendArrow": 9671
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6639.111141900878,
+            "glucoseLevelFlag": 9855,
+            "trendArrow": 2028
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 8764.333117800692,
+            "glucoseLevelFlag": 5397,
+            "trendArrow": 3415
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 1029.287768637875,
+            "glucoseLevelFlag": 8073,
+            "trendArrow": 2183
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 2694,
+        "hydrationLevels": [
+          {
+            "level": 3488,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 4840,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 1751,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 5860.991404554152,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 1145.197323321131,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 4729.636145084683,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 7746.156071878676,
+          "bmr": 8075.121227962788,
+          "rmr": 337.135661280777,
+          "estimatedFitnessAge": 1348,
+          "skinFoldMm": 1406.598831597554,
+          "bodyfatPercentage": 8859.030661353509,
+          "weightKg": 4004.057387129514,
+          "heightCm": 3917.296421982552,
+          "boneMassG": 3978.715499473075,
+          "muscleMassG": 5979.380294223601,
+          "leanMassG": 1766.045991694421,
+          "waterPercentage": 9953.835101915618,
+          "insulinUnits": 9287.298045430654,
+          "insulinType": "VJYQFQQ",
+          "urineColor": "ZUQNQKB"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 6056.421946062736,
+          "bmr": 3401.4745285920458,
+          "rmr": 6903.9482544888915,
+          "estimatedFitnessAge": 9370,
+          "skinFoldMm": 5875.599205003169,
+          "bodyfatPercentage": 9617.951371362993,
+          "weightKg": 6819.164988035981,
+          "heightCm": 2994.015351256569,
+          "boneMassG": 3971.9393467040313,
+          "muscleMassG": 2041.0978088221884,
+          "leanMassG": 7583.749347821289,
+          "waterPercentage": 5303.678360855177,
+          "insulinUnits": 8287.264535764203,
+          "insulinType": "MZSHWG",
+          "urineColor": "LSKSX"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 7939.491941195235,
+          "bmr": 465.30029623995426,
+          "rmr": 1446.1776034678644,
+          "estimatedFitnessAge": 3219,
+          "skinFoldMm": 6884.11236381632,
+          "bodyfatPercentage": 2354.0406031464695,
+          "weightKg": 3952.761263624882,
+          "heightCm": 5287.336429114889,
+          "boneMassG": 4883.06509853673,
+          "muscleMassG": 6466.216078077483,
+          "leanMassG": 9684.677592497022,
+          "waterPercentage": 9655.403639374412,
+          "insulinUnits": 4539.762812144842,
+          "insulinType": "XVPASN",
+          "urineColor": "SFEOU"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 5049.404991804071,
+          "bmr": 6469.880148181719,
+          "rmr": 5470.045937718323,
+          "estimatedFitnessAge": 4938,
+          "skinFoldMm": 448.1931171087131,
+          "bodyfatPercentage": 8891.849295465789,
+          "weightKg": 9343.525793675646,
+          "heightCm": 318.6484888083364,
+          "boneMassG": 2918.4477283104243,
+          "muscleMassG": 1156.9208460842278,
+          "leanMassG": 9921.542030393823,
+          "waterPercentage": 8294.21550015005,
+          "insulinUnits": 6259.332026652823,
+          "insulinType": "SNWNSFR",
+          "urineColor": "MRWMNTQ"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 9328.091107577264,
+        "vo2MaxMlPerMinPerKg": 4770.972771094363,
+        "oxygenSaturations": [
+          {
+            "percentage": 3767.7405537132327,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 518.9525293552022,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 3419.0415255228418,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 3418.119681428072,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 2453.5345456632617,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 2810.3211014148073,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 6100.345039422662,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 2547.9622878110486,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 3622.3142665526143,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 150.15825149591157,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 4389.004754356743,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5151.005029085385,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 9168.50413868367,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 7951.281155850931,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5852.2285320325755,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 5743.399114296365,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 5617.477862013341,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 6442.933412475453,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 6691.079860622909,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 8233.310616491539,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 9354.239438298227,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5721.4148453011,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 1743.794156331422,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 4569.845299105091,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    },
+    {
+      "clientId": 1,
+      "userId": 100,
+      "deviceId": "000ee535",
+      "provider": "FITBIT",
+      "dataType": "BODY",
+      "metadata": {
+        "startTime": "2023-03-15T09:59:42.447Z",
+        "endTime": "2023-03-15T22:10:52.787Z"
+      },
+      "createdAt": "2023-06-26T11:09:44.737Z",
+      "bloodPressures": [
+        {
+          "diastolicBp": 2632.921329508952,
+          "systolicBp": 7442.941797325289,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 5011.303256256748,
+          "systolicBp": 2507.312838835094,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 4864.071059825859,
+          "systolicBp": 460.3210015873501,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 5674.638340358382,
+          "systolicBp": 8927.896579715933,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 2870.2831073901975,
+          "systolicBp": 8391.528612982795,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "diastolicBp": 8274.21432311492,
+          "systolicBp": 8242.177902950385,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ],
+      "glucose": {
+        "dayAvgBloodGlucoseMgPerDl": 9841.398331251898,
+        "samples": [
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 2369.255373581307,
+            "glucoseLevelFlag": 9414,
+            "trendArrow": 6545
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 5296.801018831206,
+            "glucoseLevelFlag": 1952,
+            "trendArrow": 5763
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 8220.491057686122,
+            "glucoseLevelFlag": 8780,
+            "trendArrow": 7521
+          },
+          {
+            "type": "BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9785.753132334301,
+            "glucoseLevelFlag": 3579,
+            "trendArrow": 4153
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 9230.526186957144,
+            "glucoseLevelFlag": 6665,
+            "trendArrow": 5633
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 6738.567894573029,
+            "glucoseLevelFlag": 6527,
+            "trendArrow": 5888
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 564.8661386051172,
+            "glucoseLevelFlag": 1969,
+            "trendArrow": 1662
+          },
+          {
+            "type": "DETAILED_BLOOD",
+            "timestamp": "2023-03-15T16:19:12.797Z",
+            "bloodGlucoseMgPerDl": 7404.873272868734,
+            "glucoseLevelFlag": 663,
+            "trendArrow": 7784
+          }
+        ]
+      },
+      "hydration": {
+        "dayTotalWaterConsumptionMl": 9955,
+        "hydrationLevels": [
+          {
+            "level": 2941,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "level": 5633,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "hydrationMeasurements": [
+          {
+            "hydrationKg": 9694.054356818795,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 7959.88363436081,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 9599.71343572858,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 4071.8403265557545,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 2000.6565675447966,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "hydrationKg": 4616.37263031092,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "measurements": [
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 8785.483015628839,
+          "bmr": 7870.23360060272,
+          "rmr": 9420.613432213127,
+          "estimatedFitnessAge": 676,
+          "skinFoldMm": 6760.9490638361685,
+          "bodyfatPercentage": 3989.5557748246997,
+          "weightKg": 766.5526603442573,
+          "heightCm": 5559.170294223032,
+          "boneMassG": 5636.72722942363,
+          "muscleMassG": 9333.162083482506,
+          "leanMassG": 6651.418993770199,
+          "waterPercentage": 1514.8301292195938,
+          "insulinUnits": 9549.29640420945,
+          "insulinType": "UPLDDAAEH",
+          "urineColor": "YCHWOLKWM"
+        },
+        {
+          "measurementTime": "2023-03-15T16:29:12.697Z",
+          "bmi": 3563.6838499215205,
+          "bmr": 435.7215920510161,
+          "rmr": 3286.5712090061165,
+          "estimatedFitnessAge": 6400,
+          "skinFoldMm": 5922.528585431181,
+          "bodyfatPercentage": 9953.92152722882,
+          "weightKg": 7947.108764046977,
+          "heightCm": 6859.053922853702,
+          "boneMassG": 8363.759149070842,
+          "muscleMassG": 7506.428566303577,
+          "leanMassG": 108.13685535072769,
+          "waterPercentage": 6056.897183435898,
+          "insulinUnits": 4066.6394557445824,
+          "insulinType": "AVMVLBWWCG",
+          "urineColor": "VYWYKN"
+        }
+      ],
+      "oxygen": {
+        "avgSaturationPercentage": 1838.925686194598,
+        "vo2MaxMlPerMinPerKg": 6778.755951153171,
+        "oxygenSaturations": [
+          {
+            "percentage": 4547.964582579653,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 7019.852094395167,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 153.76403532103726,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 7323.023006403949,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 6466.966861558233,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "percentage": 4677.463272738568,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ],
+        "oxygenVo2s": [
+          {
+            "vo2MaxMlPerMinPerKg": 5339.790338881291,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 1434.995670676104,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 205.78516703939556,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          },
+          {
+            "vo2MaxMlPerMinPerKg": 8049.952875892965,
+            "timestamp": "2023-03-15T16:19:12.797Z"
+          }
+        ]
+      },
+      "temperatures": [
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 669.1217345179915,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 7261.005116957241,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 116.06228353062006,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 3277.815997157594,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "AMBIENT",
+          "temperatureCelsius": 7544.621548975933,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 5452.519948650235,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 9473.51838756316,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 6242.823479390695,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 2155.7536428592534,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "BODY",
+          "temperatureCelsius": 6522.27732944153,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 8959.961893242884,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5687.535795136316,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 3247.289161443814,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 3773.6571656652786,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 672.918515197279,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        },
+        {
+          "type": "SKIN",
+          "temperatureCelsius": 5867.1942989277395,
+          "timestamp": "2023-03-15T16:19:12.797Z"
+        }
+      ]
+    }
+  ],
+  "dailyData": [],
+  "nutritionData": [],
+  "sleepData": []
+}

@@ -1,0 +1,19 @@
+{
+  "day_avg_blood_glucose_mg_per_dL": 159,
+  "blood_glucose_samples": [
+    {
+      "trend_arrow": 0,
+      "blood_glucose_mg_per_dL": 205,
+      "timestamp": "2023-01-17T21:21:24.0+00:00",
+      "glucose_level_flag": 1
+    }
+  ],
+  "detailed_blood_glucose_samples": [
+    {
+      "trend_arrow": 1,
+      "blood_glucose_mg_per_dL": 157,
+      "timestamp": "2023-01-17T22:15:24.0+00:00",
+      "glucose_level_flag": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "avg_hrv_sdnn": 98,
+    "max_hr_bpm": 68,
+    "avg_hr_bpm": 56,
+    "user_max_hr_bpm": 72,
+    "resting_hr_bpm": 52,
+    "avg_hrv_rmssd": 34,
+    "min_hr_bpm": 61
+  }
+}

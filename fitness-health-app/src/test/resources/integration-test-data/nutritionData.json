@@ -1,0 +1,69 @@
+{
+  "user": {
+    "user_id": "20af4f1f-b9ff-42ca-b50e-326f6defc727",
+    "scopes": null,
+    "reference_id": "1:20:b9ff-42ca-b50e-326f6de",
+    "last_webhook_update": null,
+    "provider": "GOOGLE"
+  },
+  "data": [
+    {
+      "drink_samples": [],
+      "summary": {
+        "micros": {
+          "molybdenum_mg": null,
+          "zinc_mg": null,
+          "vitamin_E_mg": null,
+          "calcium_mg": null,
+          "vitamin_A_mg": null,
+          "thiamin_mg": null,
+          "vitamin_D_mg": null,
+          "chloride_mg": null,
+          "pantothenic_acid_mg": null,
+          "phosphorus_mg": null,
+          "iron_mg": null,
+          "vitamin_K_mg": null,
+          "folate_mg": null,
+          "vitamin_B6_mg": null,
+          "polyunsaturated_fat_g": null,
+          "vitamin_C_mg": null,
+          "selenium_mg": null,
+          "magnesium_mg": null,
+          "niacin_mg": null,
+          "chromium_mg": null,
+          "biotin_mg": null,
+          "riboflavin_mg": null,
+          "folic_acid_mg": null,
+          "vitamin_B12_mg": null,
+          "caffeine_mg": null,
+          "monounsaturated_fat_g": null,
+          "copper_mg": null,
+          "iodine_mg": null,
+          "manganese_mg": null,
+          "potassium_mg": 732.2173618975294
+        },
+        "water_ml": null,
+        "macros": {
+          "fiber_g": null,
+          "cholesterol_mg": null,
+          "calories": 1517,
+          "sugar_g": 40.929944711243834,
+          "carbohydrates_g": 239.23398582341324,
+          "trans_fat_g": null,
+          "alcohol_g": null,
+          "sodium_mg": null,
+          "fat_g": 94.25488558341155,
+          "protein_g": 81.30289408087765,
+          "saturated_fat_g": null
+        },
+        "drink_ml": null
+      },
+      "meals": [],
+      "metadata": {
+        "start_time": "2023-01-17T21:55:58.663587+00:00",
+        "end_time": "2023-01-17T22:57:58.663587+00:00"
+      }
+    }
+  ],
+  "type": "nutrition"
+}

@@ -1,0 +1,7 @@
+{
+  "duration_asleep_state_seconds": 225,
+  "duration_REM_sleep_state_seconds": 103,
+  "num_REM_events": 2345,
+  "duration_deep_sleep_state_seconds": 255,
+  "duration_light_sleep_state_seconds": 329
+}

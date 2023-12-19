@@ -1,0 +1,9 @@
+{
+  "day_total_water_consumption_ml": 890,
+  "hydration_level_samples": [
+    {
+      "timestamp": "2023-02-13T11:33:34.0+00:00",
+      "hydration_kg": 3
+    }
+  ]
+}

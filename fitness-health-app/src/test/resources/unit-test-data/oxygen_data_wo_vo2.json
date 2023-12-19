@@ -1,0 +1,10 @@
+{
+  "vo2max_ml_per_min_per_kg": 23,
+  "avg_saturation_percentage": 87,
+  "saturation_samples": [
+    {
+      "timestamp": "2023-01-17T11:53:18.0+00:00",
+      "percentage": 84
+    }
+  ]
+}

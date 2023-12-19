@@ -1,0 +1,9 @@
+{
+  "wake_up_latency_seconds": 1,
+  "duration_short_interruption_seconds": 2,
+  "sleep_latency_seconds": 3,
+  "num_wakeup_events": 4,
+  "num_out_of_bed_events": 5,
+  "duration_long_interruption_seconds": 6,
+  "duration_awake_state_seconds": 7
+}

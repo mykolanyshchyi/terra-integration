@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: fitness-health-service-integration-tests
+
+  datasource:
+    url: "jdbc:sqlserver://localhost:33333"
+    username: SA
+    password: A_Str0ng_Required_Password
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    type: org.springframework.jdbc.datasource.SimpleDriverDataSource
+
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServer2012Dialect
+        naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
+        format_sql: true
+        default_schema: fitness
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:${wiremock.server.port}/auth/realms/sundev-team-central
+
+wiremock:
+  server:
+    baseUrl: http://localhost:${wiremock.server.port}
+
+dlq:
+  reprocess-unprocessed: true

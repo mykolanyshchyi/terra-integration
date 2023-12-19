@@ -1,0 +1,182 @@
+{
+  "type": "daily",
+  "data": [
+    {
+      "calories_data": {
+        "BMR_calories": 1193.1207484742774,
+        "total_burned_calories": 1677.2428268093988,
+        "net_activity_calories": 626.8856979653116,
+        "calorie_samples": [],
+        "net_intake_calories": 28.35724279381201
+      },
+      "active_durations_data": {
+        "rest_seconds": null,
+        "activity_seconds": 2058.3897212835905,
+        "moderate_intensity_seconds": 4917.675251737601,
+        "inactivity_seconds": 2895.454506114006,
+        "vigorous_intensity_seconds": 4439.942146546959,
+        "low_intensity_seconds": null,
+        "activity_levels_samples": [],
+        "num_continuous_inactive_periods": null
+      },
+      "distance_data": {
+        "floors_climbed": 31,
+        "elevation": {
+          "min_meters": null,
+          "max_meters": null,
+          "gain_planned_meters": null,
+          "loss_actual_meters": null,
+          "avg_meters": null,
+          "gain_actual_meters": null
+        },
+        "distance_meters": 5063.535874783509,
+        "steps": 17540,
+        "detailed": {
+          "distance_samples": [],
+          "floors_climbed_samples": [],
+          "elevation_samples": [],
+          "step_samples": []
+        },
+        "swimming": {
+          "num_strokes": null,
+          "pool_length_meters": null,
+          "num_laps": null
+        }
+      },
+      "oxygen_data": {
+        "saturation_samples": [],
+        "vo2_samples": [],
+        "vo2max_ml_per_min_per_kg": null,
+        "avg_saturation_percentage": null
+      },
+      "device_data": {
+        "manufacturer": null,
+        "other_devices": [],
+        "software_version": null,
+        "name": null,
+        "activation_timestamp": null,
+        "hardware_version": null,
+        "serial_number": null
+      },
+      "scores": {
+        "sleep": null,
+        "recovery": null,
+        "activity": null
+      },
+      "MET_data": {
+        "num_moderate_intensity_minutes": null,
+        "num_high_intensity_minutes": null,
+        "num_inactive_minutes": null,
+        "MET_samples": [],
+        "avg_level": null,
+        "num_low_intensity_minutes": null
+      },
+      "stress_data": {
+        "rest_stress_duration_seconds": 4.991222536373134,
+        "max_stress_level": 6.896698278818616,
+        "avg_stress_level": 4.096709388527947,
+        "activity_stress_duration_seconds": 30.151285941988863,
+        "high_stress_duration_seconds": 41.812712739073135,
+        "samples": [
+          {
+            "level": 9.935541535587198,
+            "timestamp": "2023-01-17T23:23:00.390520+00:00"
+          },
+          {
+            "level": 1.961594212366522,
+            "timestamp": "2023-01-17T23:35:00.390520+00:00"
+          },
+          {
+            "level": 10.397966358319747,
+            "timestamp": "2023-01-17T23:47:00.390520+00:00"
+          },
+          {
+            "level": 0.44273233998147365,
+            "timestamp": "2023-01-17T23:59:00.390520+00:00"
+          },
+          {
+            "level": 12.585333736521292,
+            "timestamp": "2023-01-18T00:11:00.390520+00:00"
+          },
+          {
+            "level": 6.395407125341656,
+            "timestamp": "2023-01-18T00:23:00.390520+00:00"
+          },
+          {
+            "level": 9.993219023592582,
+            "timestamp": "2023-01-18T00:35:00.390520+00:00"
+          },
+          {
+            "level": 9.347539261881112,
+            "timestamp": "2023-01-18T00:47:00.390520+00:00"
+          }
+        ],
+        "low_stress_duration_seconds": 3.3799257114943067,
+        "stress_duration_seconds": 52.41174404547094,
+        "medium_stress_duration_seconds": 27.289258326252664
+      },
+      "heart_rate_data": {
+        "detailed": {
+          "hrv_samples_rmssd": [],
+          "hr_samples": [
+            {
+              "timestamp": "2023-01-17T23:23:00.390520+00:00",
+              "bpm": 78
+            },
+            {
+              "timestamp": "2023-01-17T23:35:00.390520+00:00",
+              "bpm": 173
+            },
+            {
+              "timestamp": "2023-01-17T23:47:00.390520+00:00",
+              "bpm": 175
+            },
+            {
+              "timestamp": "2023-01-17T23:59:00.390520+00:00",
+              "bpm": 177
+            },
+            {
+              "timestamp": "2023-01-18T00:11:00.390520+00:00",
+              "bpm": 152
+            },
+            {
+              "timestamp": "2023-01-18T00:23:00.390520+00:00",
+              "bpm": 174
+            },
+            {
+              "timestamp": "2023-01-18T00:35:00.390520+00:00",
+              "bpm": 169
+            },
+            {
+              "timestamp": "2023-01-18T00:47:00.390520+00:00",
+              "bpm": 104
+            }
+          ],
+          "hrv_samples_sdnn": []
+        },
+        "summary": {
+          "avg_hrv_sdnn": null,
+          "max_hr_bpm": 137.2921470144235,
+          "hr_zone_data": [],
+          "avg_hr_bpm": null,
+          "resting_hr_bpm": 44.66859718557321,
+          "user_max_hr_bpm": null,
+          "avg_hrv_rmssd": null,
+          "min_hr_bpm": 61.48403607381118
+        }
+      },
+      "metadata": {
+        "upload_type": 0,
+        "start_time": "2023-01-17T23:23:00.390520+00:00",
+        "end_time": "2023-01-18T00:52:00.390520+00:00"
+      }
+    }
+  ],
+  "user": {
+    "reference_id": "1:15:362d-4aab-a38a",
+    "last_webhook_update": null,
+    "user_id": "f774467b-362d-4aab-a38a-69cc247e65d3",
+    "provider": "GARMIN",
+    "scopes": null
+  }
+}

@@ -1,0 +1,1068 @@
+{
+  "activityData": [],
+  "bodyData": [],
+  "dailyData": [
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 280,
+        "restingHrBpm": 1428,
+        "avgHrvRmssd": 4977.238703286438,
+        "minHrBpm": 2533,
+        "userMaxHrBpm": 629,
+        "avgHrvSdnn": 1131.4198834692627,
+        "avgHrBpm": 9344
+      },
+      "score": {
+        "recovery": 4643.818389272405,
+        "activity": 7635.7807493800365,
+        "sleep": 3199.312006441316
+      },
+      "stress": {
+        "restStressDurationSeconds": 3684.1921838992635,
+        "stressDurationSeconds": 8520.41502662972,
+        "activityStressDurationSeconds": 9416.499808465836,
+        "avgStressLevel": 6971.203422347233,
+        "lowStressDurationSeconds": 2393.8920925548014,
+        "mediumStressDurationSeconds": 8303.019928100168,
+        "highStressDurationSeconds": 152.53374752901098,
+        "maxStressLevel": 567.2572839494228,
+        "samples": [
+          {
+            "level": 3093,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 3335,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 5581,
+        "restingHrBpm": 6140,
+        "avgHrvRmssd": 4318.934099969224,
+        "minHrBpm": 3105,
+        "userMaxHrBpm": 8397,
+        "avgHrvSdnn": 1974.7085458892586,
+        "avgHrBpm": 1983
+      },
+      "score": {
+        "recovery": 7814.097642299866,
+        "activity": 4677.57972783283,
+        "sleep": 5697.0991165202095
+      },
+      "stress": {
+        "restStressDurationSeconds": 5717.408743867307,
+        "stressDurationSeconds": 9689.05027531797,
+        "activityStressDurationSeconds": 9280.087178275639,
+        "avgStressLevel": 6267.88175849688,
+        "lowStressDurationSeconds": 9823.352528551399,
+        "mediumStressDurationSeconds": 6996.876863271945,
+        "highStressDurationSeconds": 6835.135929989013,
+        "maxStressLevel": 8269.822429413294,
+        "samples": [
+          {
+            "level": 3986,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5394,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7600,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 3170,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 1478,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 6140,
+        "restingHrBpm": 3642,
+        "avgHrvRmssd": 9485.89899330326,
+        "minHrBpm": 7692,
+        "userMaxHrBpm": 2684,
+        "avgHrvSdnn": 6019.4803249373035,
+        "avgHrBpm": 3615
+      },
+      "score": {
+        "recovery": 6655.0663402699465,
+        "activity": 3009.809618241702,
+        "sleep": 5819.310229449523
+      },
+      "stress": {
+        "restStressDurationSeconds": 4842.296172217399,
+        "stressDurationSeconds": 6882.317711669023,
+        "activityStressDurationSeconds": 7095.233853363305,
+        "avgStressLevel": 6582.253084116658,
+        "lowStressDurationSeconds": 155.46910754496804,
+        "mediumStressDurationSeconds": 1930.7091604234333,
+        "highStressDurationSeconds": 7116.136343212283,
+        "maxStressLevel": 8398.574559825389,
+        "samples": [
+          {
+            "level": 9309,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 766,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 9541,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 2562,
+        "restingHrBpm": 2637,
+        "avgHrvRmssd": 4065.9425273252164,
+        "minHrBpm": 6294,
+        "userMaxHrBpm": 1684,
+        "avgHrvSdnn": 4317.9167967652,
+        "avgHrBpm": 4065
+      },
+      "score": {
+        "recovery": 959.4628718635846,
+        "activity": 2957.706092337529,
+        "sleep": 4338.503914662147
+      },
+      "stress": {
+        "restStressDurationSeconds": 9020.675706691653,
+        "stressDurationSeconds": 9574.705656352511,
+        "activityStressDurationSeconds": 6544.7584414745,
+        "avgStressLevel": 5056.765817130427,
+        "lowStressDurationSeconds": 3727.975209639069,
+        "mediumStressDurationSeconds": 9883.109622760028,
+        "highStressDurationSeconds": 1155.4175658107679,
+        "maxStressLevel": 5247.181710119092,
+        "samples": [
+          {
+            "level": 5329,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 1833,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 2982,
+        "restingHrBpm": 5370,
+        "avgHrvRmssd": 7792.443368134036,
+        "minHrBpm": 3332,
+        "userMaxHrBpm": 9697,
+        "avgHrvSdnn": 6411.760656730806,
+        "avgHrBpm": 7060
+      },
+      "score": {
+        "recovery": 1907.432633033988,
+        "activity": 9642.920755222955,
+        "sleep": 5276.825978476551
+      },
+      "stress": {
+        "restStressDurationSeconds": 6290.757566383232,
+        "stressDurationSeconds": 2393.210668591359,
+        "activityStressDurationSeconds": 5357.062775476368,
+        "avgStressLevel": 9200.085347290576,
+        "lowStressDurationSeconds": 8261.093896488801,
+        "mediumStressDurationSeconds": 9769.357005583117,
+        "highStressDurationSeconds": 3833.7744557171304,
+        "maxStressLevel": 9803.377840599862,
+        "samples": [
+          {
+            "level": 9848,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 4307,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 1091,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 6726,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 889,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5547,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 2940,
+        "restingHrBpm": 9086,
+        "avgHrvRmssd": 4935.469447399998,
+        "minHrBpm": 1856,
+        "userMaxHrBpm": 834,
+        "avgHrvSdnn": 6097.389026080735,
+        "avgHrBpm": 1574
+      },
+      "score": {
+        "recovery": 924.3542618212342,
+        "activity": 55.67932916526814,
+        "sleep": 7041.57962614261
+      },
+      "stress": {
+        "restStressDurationSeconds": 968.1444902553507,
+        "stressDurationSeconds": 3803.497716898505,
+        "activityStressDurationSeconds": 4915.639465275203,
+        "avgStressLevel": 8319.548770368887,
+        "lowStressDurationSeconds": 76.98198221635519,
+        "mediumStressDurationSeconds": 5217.992045710179,
+        "highStressDurationSeconds": 495.4693121560623,
+        "maxStressLevel": 335.828198410836,
+        "samples": [
+          {
+            "level": 906,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 2119,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 6400,
+        "restingHrBpm": 5744,
+        "avgHrvRmssd": 8875.918483405776,
+        "minHrBpm": 3018,
+        "userMaxHrBpm": 1007,
+        "avgHrvSdnn": 4710.339261543227,
+        "avgHrBpm": 2445
+      },
+      "score": {
+        "recovery": 1647.5770237435818,
+        "activity": 7947.165624290006,
+        "sleep": 5622.688024968693
+      },
+      "stress": {
+        "restStressDurationSeconds": 5214.747015164974,
+        "stressDurationSeconds": 3655.322514728194,
+        "activityStressDurationSeconds": 3965.9348929175985,
+        "avgStressLevel": 1221.6297011332888,
+        "lowStressDurationSeconds": 3921.8523081966723,
+        "mediumStressDurationSeconds": 3776.3385729460465,
+        "highStressDurationSeconds": 9049.375655542666,
+        "maxStressLevel": 9479.7757122638,
+        "samples": [
+          {
+            "level": 3115,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 3612,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5844,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5301,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 485,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 808,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 3592,
+        "restingHrBpm": 5687,
+        "avgHrvRmssd": 1367.6446594047582,
+        "minHrBpm": 9200,
+        "userMaxHrBpm": 1001,
+        "avgHrvSdnn": 4385.829118928857,
+        "avgHrBpm": 7747
+      },
+      "score": {
+        "recovery": 7090.623609540654,
+        "activity": 8759.871978908159,
+        "sleep": 3260.4515610366857
+      },
+      "stress": {
+        "restStressDurationSeconds": 6646.731762957221,
+        "stressDurationSeconds": 6125.875846893612,
+        "activityStressDurationSeconds": 1795.3162221597286,
+        "avgStressLevel": 4755.516976203639,
+        "lowStressDurationSeconds": 897.5099077703472,
+        "mediumStressDurationSeconds": 6643.171568657526,
+        "highStressDurationSeconds": 7189.254650264081,
+        "maxStressLevel": 4673.054195664333,
+        "samples": [
+          {
+            "level": 6484,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7551,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 662,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 920,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5040,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 2199,
+        "restingHrBpm": 5808,
+        "avgHrvRmssd": 8373.2910455729,
+        "minHrBpm": 6379,
+        "userMaxHrBpm": 3079,
+        "avgHrvSdnn": 7025.47703311263,
+        "avgHrBpm": 4398
+      },
+      "score": {
+        "recovery": 264.13183100566494,
+        "activity": 4637.887091637681,
+        "sleep": 8520.506995617576
+      },
+      "stress": {
+        "restStressDurationSeconds": 3989.748275379562,
+        "stressDurationSeconds": 9716.490215793103,
+        "activityStressDurationSeconds": 5171.512929135096,
+        "avgStressLevel": 1628.816174943233,
+        "lowStressDurationSeconds": 9851.970400067094,
+        "mediumStressDurationSeconds": 7142.811542240783,
+        "highStressDurationSeconds": 3071.933264640376,
+        "maxStressLevel": 3487.9987931203286,
+        "samples": [
+          {
+            "level": 4435,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 3679,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 6554,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 1606,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 9279,
+        "restingHrBpm": 7634,
+        "avgHrvRmssd": 4382.899011953533,
+        "minHrBpm": 8325,
+        "userMaxHrBpm": 9390,
+        "avgHrvSdnn": 1719.357132207685,
+        "avgHrBpm": 4565
+      },
+      "score": {
+        "recovery": 7045.668450740326,
+        "activity": 4811.864939971911,
+        "sleep": 65.85233441038129
+      },
+      "stress": {
+        "restStressDurationSeconds": 5077.279854671567,
+        "stressDurationSeconds": 9511.461852128716,
+        "activityStressDurationSeconds": 6178.223215204241,
+        "avgStressLevel": 8329.883907100777,
+        "lowStressDurationSeconds": 6664.865415234238,
+        "mediumStressDurationSeconds": 7831.680571883119,
+        "highStressDurationSeconds": 835.2141359771791,
+        "maxStressLevel": 1519.2689407877224,
+        "samples": [
+          {
+            "level": 6356,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 9244,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 2483,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 2346,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 2841,
+        "restingHrBpm": 3430,
+        "avgHrvRmssd": 5302.505821452154,
+        "minHrBpm": 2035,
+        "userMaxHrBpm": 4050,
+        "avgHrvSdnn": 8551.145778648894,
+        "avgHrBpm": 9560
+      },
+      "score": {
+        "recovery": 6710.65991196093,
+        "activity": 6010.350435050338,
+        "sleep": 2317.507915729176
+      },
+      "stress": {
+        "restStressDurationSeconds": 4244.859265768695,
+        "stressDurationSeconds": 4269.529445915581,
+        "activityStressDurationSeconds": 4814.166164394878,
+        "avgStressLevel": 8638.644602439734,
+        "lowStressDurationSeconds": 754.2744880557937,
+        "mediumStressDurationSeconds": 6495.795889758657,
+        "highStressDurationSeconds": 462.7934835419314,
+        "maxStressLevel": 8611.563716734308,
+        "samples": [
+          {
+            "level": 1741,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7664,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 7488,
+        "restingHrBpm": 7179,
+        "avgHrvRmssd": 8705.738979667387,
+        "minHrBpm": 5421,
+        "userMaxHrBpm": 185,
+        "avgHrvSdnn": 6616.474834443808,
+        "avgHrBpm": 4548
+      },
+      "score": {
+        "recovery": 6050.682477396325,
+        "activity": 9450.815071396099,
+        "sleep": 4913.878719908686
+      },
+      "stress": {
+        "restStressDurationSeconds": 9346.109099053361,
+        "stressDurationSeconds": 5148.678878189432,
+        "activityStressDurationSeconds": 3752.9941910385187,
+        "avgStressLevel": 246.41890154926764,
+        "lowStressDurationSeconds": 1371.4949876598919,
+        "mediumStressDurationSeconds": 1643.5924172461998,
+        "highStressDurationSeconds": 9924.754699214427,
+        "maxStressLevel": 3615.674502209833,
+        "samples": [
+          {
+            "level": 3479,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 8772,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 8974,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 9852,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5640,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 238,
+        "restingHrBpm": 4088,
+        "avgHrvRmssd": 526.7708695743806,
+        "minHrBpm": 7375,
+        "userMaxHrBpm": 5178,
+        "avgHrvSdnn": 8976.622233664328,
+        "avgHrBpm": 5549
+      },
+      "score": {
+        "recovery": 7432.615639626248,
+        "activity": 8133.404579473765,
+        "sleep": 8947.411813698809
+      },
+      "stress": {
+        "restStressDurationSeconds": 9015.313772360143,
+        "stressDurationSeconds": 8378.969919542924,
+        "activityStressDurationSeconds": 9051.178210557946,
+        "avgStressLevel": 83.5421013504577,
+        "lowStressDurationSeconds": 8178.421716884337,
+        "mediumStressDurationSeconds": 848.5833535000073,
+        "highStressDurationSeconds": 9705.118881081096,
+        "maxStressLevel": 6476.982976271551,
+        "samples": [
+          {
+            "level": 5517,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 971,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7728,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 9931,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 2523,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 4330,
+        "restingHrBpm": 905,
+        "avgHrvRmssd": 3613.990421799296,
+        "minHrBpm": 3033,
+        "userMaxHrBpm": 5966,
+        "avgHrvSdnn": 4143.749399272254,
+        "avgHrBpm": 2608
+      },
+      "score": {
+        "recovery": 121.02475297829635,
+        "activity": 8150.8602856814505,
+        "sleep": 8180.480596064326
+      },
+      "stress": {
+        "restStressDurationSeconds": 5110.919666015137,
+        "stressDurationSeconds": 9358.024610760789,
+        "activityStressDurationSeconds": 5337.874674652735,
+        "avgStressLevel": 1133.70952700602,
+        "lowStressDurationSeconds": 5854.456280091177,
+        "mediumStressDurationSeconds": 6190.411754328989,
+        "highStressDurationSeconds": 4259.769579504694,
+        "maxStressLevel": 9896.961530051653,
+        "samples": [
+          {
+            "level": 611,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 8686,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 3645,
+        "restingHrBpm": 9129,
+        "avgHrvRmssd": 6798.828297094552,
+        "minHrBpm": 7957,
+        "userMaxHrBpm": 4532,
+        "avgHrvSdnn": 2328.3041327989267,
+        "avgHrBpm": 6475
+      },
+      "score": {
+        "recovery": 6159.506850422634,
+        "activity": 9849.675126704575,
+        "sleep": 3189.7175178472216
+      },
+      "stress": {
+        "restStressDurationSeconds": 1302.2365308033916,
+        "stressDurationSeconds": 2000.074966618812,
+        "activityStressDurationSeconds": 1073.7474226265429,
+        "avgStressLevel": 8598.015715689895,
+        "lowStressDurationSeconds": 9789.646249699197,
+        "mediumStressDurationSeconds": 3109.52773671205,
+        "highStressDurationSeconds": 4702.678937373706,
+        "maxStressLevel": 3152.9702689257547,
+        "samples": [
+          {
+            "level": 6791,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 9653,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 4961,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7066,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 8252,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 1348,
+        "restingHrBpm": 8271,
+        "avgHrvRmssd": 5494.422726836013,
+        "minHrBpm": 1192,
+        "userMaxHrBpm": 6271,
+        "avgHrvSdnn": 95.17268101033153,
+        "avgHrBpm": 2685
+      },
+      "score": {
+        "recovery": 925.6939285700525,
+        "activity": 2138.6798687168584,
+        "sleep": 4347.741261994916
+      },
+      "stress": {
+        "restStressDurationSeconds": 4424.744204081412,
+        "stressDurationSeconds": 4761.165963796184,
+        "activityStressDurationSeconds": 9132.062935889082,
+        "avgStressLevel": 9030.895344930435,
+        "lowStressDurationSeconds": 7116.69391647814,
+        "mediumStressDurationSeconds": 8159.861205779006,
+        "highStressDurationSeconds": 7612.164366829642,
+        "maxStressLevel": 1563.2906196740778,
+        "samples": [
+          {
+            "level": 2721,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 320,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 7885,
+        "restingHrBpm": 2953,
+        "avgHrvRmssd": 3901.8112622970584,
+        "minHrBpm": 645,
+        "userMaxHrBpm": 1444,
+        "avgHrvSdnn": 6915.3105454481465,
+        "avgHrBpm": 3529
+      },
+      "score": {
+        "recovery": 4660.991131206279,
+        "activity": 1407.5440071766752,
+        "sleep": 5042.718160940758
+      },
+      "stress": {
+        "restStressDurationSeconds": 8498.23917657921,
+        "stressDurationSeconds": 8982.758548498357,
+        "activityStressDurationSeconds": 9873.047729005999,
+        "avgStressLevel": 5871.468755974511,
+        "lowStressDurationSeconds": 2009.874820991559,
+        "mediumStressDurationSeconds": 120.43290261337374,
+        "highStressDurationSeconds": 7916.234674705974,
+        "maxStressLevel": 7779.448636969182,
+        "samples": [
+          {
+            "level": 9342,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7740,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7394,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 5235,
+        "restingHrBpm": 6785,
+        "avgHrvRmssd": 974.9409210924315,
+        "minHrBpm": 235,
+        "userMaxHrBpm": 9844,
+        "avgHrvSdnn": 3884.2343054071875,
+        "avgHrBpm": 469
+      },
+      "score": {
+        "recovery": 9896.392167176788,
+        "activity": 162.5997942350654,
+        "sleep": 5917.874516835624
+      },
+      "stress": {
+        "restStressDurationSeconds": 8479.07148673234,
+        "stressDurationSeconds": 5357.68908220253,
+        "activityStressDurationSeconds": 2857.1925262984055,
+        "avgStressLevel": 6019.852587895309,
+        "lowStressDurationSeconds": 8195.535106063104,
+        "mediumStressDurationSeconds": 5491.41799809429,
+        "highStressDurationSeconds": 1607.8101875418924,
+        "maxStressLevel": 4927.057032732312,
+        "samples": [
+          {
+            "level": 9908,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 8097,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 2843,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 938,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 8343,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 9814,
+        "restingHrBpm": 6383,
+        "avgHrvRmssd": 2394.0651263919744,
+        "minHrBpm": 6191,
+        "userMaxHrBpm": 6759,
+        "avgHrvSdnn": 6089.2628943702475,
+        "avgHrBpm": 2944
+      },
+      "score": {
+        "recovery": 4604.476093418685,
+        "activity": 3759.1427102746848,
+        "sleep": 7354.078982300322
+      },
+      "stress": {
+        "restStressDurationSeconds": 3603.3193547708015,
+        "stressDurationSeconds": 5119.907255649103,
+        "activityStressDurationSeconds": 4813.7165028462605,
+        "avgStressLevel": 8220.001435145687,
+        "lowStressDurationSeconds": 3444.6301882500384,
+        "mediumStressDurationSeconds": 1664.9061591564891,
+        "highStressDurationSeconds": 7489.407497559602,
+        "maxStressLevel": 2059.369721253421,
+        "samples": [
+          {
+            "level": 6786,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 5315,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 200,
+      "deviceId": "362d-4aab-a38a",
+      "provider": "GARMIN",
+      "dataType": "DAILY",
+      "metadata": {
+        "startTime": "2023-03-20T18:00:12.483Z",
+        "endTime": "2023-03-20T22:20:12.483Z"
+      },
+      "createdAt": "2023-06-26T11:09:46.46Z",
+      "heartRate": {
+        "maxHrBpm": 9788,
+        "restingHrBpm": 8106,
+        "avgHrvRmssd": 2067.0618488993505,
+        "minHrBpm": 7385,
+        "userMaxHrBpm": 220,
+        "avgHrvSdnn": 2779.3214016938873,
+        "avgHrBpm": 6418
+      },
+      "score": {
+        "recovery": 403.39818203710627,
+        "activity": 2383.771237334622,
+        "sleep": 1768.949112655719
+      },
+      "stress": {
+        "restStressDurationSeconds": 9080.575629963201,
+        "stressDurationSeconds": 809.4820366511924,
+        "activityStressDurationSeconds": 1303.8574860866074,
+        "avgStressLevel": 2926.941634975581,
+        "lowStressDurationSeconds": 2039.4165020699265,
+        "mediumStressDurationSeconds": 7393.938633442862,
+        "highStressDurationSeconds": 4126.290469659146,
+        "maxStressLevel": 4289.044524460398,
+        "samples": [
+          {
+            "level": 5048,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 1213,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 7912,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 1379,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          },
+          {
+            "level": 9811,
+            "timestamp": "2023-03-20T23:50:12.483Z"
+          }
+        ]
+      }
+    }
+  ],
+  "nutritionData": [],
+  "sleepData": []
+}

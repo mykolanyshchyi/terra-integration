@@ -1,0 +1,100 @@
+{
+  "type": "sleep",
+  "data": [
+    {
+      "readiness_data": {
+        "recovery_level": 0,
+        "readiness": null
+      },
+      "respiration_data": {
+        "breaths_data": {
+          "on_demand_reading": null,
+          "min_breaths_per_min": null,
+          "start_time": null,
+          "avg_breaths_per_min": null,
+          "end_time": null,
+          "samples": [],
+          "max_breaths_per_min": null
+        },
+        "snoring_data": {
+          "num_snoring_events": null,
+          "start_time": null,
+          "end_time": null,
+          "samples": [],
+          "total_snoring_duration_seconds": null
+        },
+        "oxygen_saturation_data": {
+          "avg_saturation_percentage": null,
+          "start_time": null,
+          "end_time": null,
+          "samples": []
+        }
+      },
+      "sleep_durations_data": {
+        "awake": {
+          "duration_long_interruption_seconds": null,
+          "num_out_of_bed_events": null,
+          "wake_up_latency_seconds": null,
+          "sleep_latency_seconds": null,
+          "duration_awake_state_seconds": null,
+          "duration_short_interruption_seconds": null,
+          "num_wakeup_events": null
+        },
+        "asleep": {
+          "duration_deep_sleep_state_seconds": null,
+          "duration_REM_sleep_state_seconds": null,
+          "duration_light_sleep_state_seconds": null,
+          "duration_asleep_state_seconds": null,
+          "num_REM_events": null
+        },
+        "other": {
+          "duration_unmeasurable_sleep_seconds": null,
+          "duration_in_bed_seconds": null
+        },
+        "sleep_efficiency": null,
+        "hypnogram_samples": []
+      },
+      "temperature_data": {
+        "delta": null
+      },
+      "device_data": {
+        "manufacturer": null,
+        "other_devices": [],
+        "software_version": null,
+        "name": null,
+        "activation_timestamp": null,
+        "hardware_version": null,
+        "serial_number": null
+      },
+      "heart_rate_data": {
+        "summary": {
+          "avg_hrv_sdnn": null,
+          "max_hr_bpm": null,
+          "avg_hr_bpm": null,
+          "user_max_hr_bpm": null,
+          "resting_hr_bpm": null,
+          "avg_hrv_rmssd": null,
+          "min_hr_bpm": null
+        },
+        "detailed": {
+          "hrv_samples_sdnn": [],
+          "hr_samples": [],
+          "hrv_samples_rmssd": []
+        }
+      },
+      "metadata": {
+        "is_nap": false,
+        "upload_type": 0,
+        "start_time": "2023-01-17T21:25:32.116438+00:00",
+        "end_time": "2023-01-18T02:48:32.116438+00:00"
+      }
+    }
+  ],
+  "user": {
+    "reference_id": "1:25:64e8f-74bb-4899-8035-c3e893",
+    "last_webhook_update": null,
+    "user_id": "3f864e8f-74bb-4899-8035-c3e8935112bb",
+    "provider": "COROS",
+    "scopes": null
+  }
+}

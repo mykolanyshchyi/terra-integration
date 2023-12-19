@@ -1,0 +1,13 @@
+{
+  "rest_seconds": 243.56,
+  "activity_seconds": 4096.5112142490225,
+  "moderate_intensity_seconds": 56787.45678909876,
+  "inactivity_seconds": 67.3456,
+  "vigorous_intensity_seconds": 876543.34567,
+  "low_intensity_seconds": 5678.5678,
+  "activity_levels_samples": [{
+    "level": 5,
+    "timestamp":"2023-01-17T20:37:17.0+00:00"
+  }],
+  "num_continuous_inactive_periods": 45
+}

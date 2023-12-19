@@ -1,0 +1,14 @@
+{
+  "body_temperature_samples": [
+    {
+      "temperature_celsius": 38,
+      "timestamp": "2023-01-17T20:21:23.0+00:00"
+    }
+  ],
+  "skin_temperature_samples": [
+    {
+      "temperature_celsius": 36,
+      "timestamp": "2023-01-17T22:21:23.0+00:00"
+    }
+  ]
+}

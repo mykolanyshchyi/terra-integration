@@ -1,0 +1,2808 @@
+{
+  "activityData": [],
+  "bodyData": [],
+  "dailyData": [],
+  "nutritionData": [],
+  "sleepData": [
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1243.1821169216744,
+        "awakeStateSeconds": 1739.7082792915912,
+        "longInterruptionSeconds": 4186.455472427765,
+        "numWakeupEvents": 3829,
+        "wakeUpLatencySeconds": 1013.6710542045709,
+        "numOutOfBedEvents": 8625,
+        "sleepLatencySeconds": 7198.034560998027
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8868.272495407875,
+        "asleepStateSeconds": 9419.829887224774,
+        "numRemEvents": 1018,
+        "remSleepStateSeconds": 2805.6972424641963,
+        "deepSleepStateSeconds": 1178.0191369658187
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3673.0173933760266,
+        "awakeStateSeconds": 9899.94352928962,
+        "longInterruptionSeconds": 6903.198939828451,
+        "numWakeupEvents": 2103,
+        "wakeUpLatencySeconds": 3907.5831391251745,
+        "numOutOfBedEvents": 7060,
+        "sleepLatencySeconds": 9345.76856358298
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7963.479774889243,
+        "asleepStateSeconds": 8953.128450772301,
+        "numRemEvents": 7684,
+        "remSleepStateSeconds": 8964.161862117651,
+        "deepSleepStateSeconds": 1502.4162219872997
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8293.581190905068,
+        "awakeStateSeconds": 9486.262557845428,
+        "longInterruptionSeconds": 3085.1169117132695,
+        "numWakeupEvents": 3312,
+        "wakeUpLatencySeconds": 9252.075424661125,
+        "numOutOfBedEvents": 4242,
+        "sleepLatencySeconds": 4477.87330831245
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 600.0296877063415,
+        "asleepStateSeconds": 5437.708009438246,
+        "numRemEvents": 4977,
+        "remSleepStateSeconds": 625.6181611707771,
+        "deepSleepStateSeconds": 1868.0597121599997
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3590.8386617110414,
+        "awakeStateSeconds": 8750.0805844324,
+        "longInterruptionSeconds": 4730.29790953542,
+        "numWakeupEvents": 4531,
+        "wakeUpLatencySeconds": 2840.8478367784282,
+        "numOutOfBedEvents": 8161,
+        "sleepLatencySeconds": 8338.45132531229
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2799.8054242193,
+        "asleepStateSeconds": 8551.181422617796,
+        "numRemEvents": 562,
+        "remSleepStateSeconds": 41.62302792390091,
+        "deepSleepStateSeconds": 7773.736798883594
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6477.5623970713405,
+        "awakeStateSeconds": 5131.286416358925,
+        "longInterruptionSeconds": 5072.615877336713,
+        "numWakeupEvents": 4538,
+        "wakeUpLatencySeconds": 282.920504540184,
+        "numOutOfBedEvents": 6457,
+        "sleepLatencySeconds": 8038.593014315019
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1334.5192631571058,
+        "asleepStateSeconds": 1098.434903285572,
+        "numRemEvents": 170,
+        "remSleepStateSeconds": 4684.504024463681,
+        "deepSleepStateSeconds": 9622.9555996849
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3771.6501628709775,
+        "awakeStateSeconds": 8218.615895219567,
+        "longInterruptionSeconds": 5592.581989544864,
+        "numWakeupEvents": 8252,
+        "wakeUpLatencySeconds": 5004.594107792623,
+        "numOutOfBedEvents": 9303,
+        "sleepLatencySeconds": 2942.3187281381884
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7732.902959517346,
+        "asleepStateSeconds": 644.1031069233171,
+        "numRemEvents": 9936,
+        "remSleepStateSeconds": 7492.350825293195,
+        "deepSleepStateSeconds": 8488.596889389402
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1030.7198791478156,
+        "awakeStateSeconds": 7972.598760831234,
+        "longInterruptionSeconds": 8309.52865986352,
+        "numWakeupEvents": 2977,
+        "wakeUpLatencySeconds": 1431.9461159449866,
+        "numOutOfBedEvents": 6823,
+        "sleepLatencySeconds": 5665.859922562162
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1859.4955730278616,
+        "asleepStateSeconds": 6941.032866779623,
+        "numRemEvents": 5686,
+        "remSleepStateSeconds": 3818.172778548601,
+        "deepSleepStateSeconds": 96.59410418046136
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1813.1320081876615,
+        "awakeStateSeconds": 6414.114518083629,
+        "longInterruptionSeconds": 564.088237525967,
+        "numWakeupEvents": 2325,
+        "wakeUpLatencySeconds": 9892.501941485312,
+        "numOutOfBedEvents": 6498,
+        "sleepLatencySeconds": 498.37449172712576
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6849.648818072186,
+        "asleepStateSeconds": 3931.159728351909,
+        "numRemEvents": 2063,
+        "remSleepStateSeconds": 8303.008748505059,
+        "deepSleepStateSeconds": 8918.27247738696
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4503.087379350436,
+        "awakeStateSeconds": 4257.956675398938,
+        "longInterruptionSeconds": 4415.130570803235,
+        "numWakeupEvents": 7068,
+        "wakeUpLatencySeconds": 5233.542328240026,
+        "numOutOfBedEvents": 5446,
+        "sleepLatencySeconds": 3292.949226803445
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 974.3713500297023,
+        "asleepStateSeconds": 9111.66253075554,
+        "numRemEvents": 2160,
+        "remSleepStateSeconds": 4124.705814348843,
+        "deepSleepStateSeconds": 5493.6121323396155
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4512.1656734266335,
+        "awakeStateSeconds": 6570.541322706551,
+        "longInterruptionSeconds": 5154.317350803624,
+        "numWakeupEvents": 451,
+        "wakeUpLatencySeconds": 1783.7788695535978,
+        "numOutOfBedEvents": 7634,
+        "sleepLatencySeconds": 6995.697238445986
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7198.857507485325,
+        "asleepStateSeconds": 1921.7909044783366,
+        "numRemEvents": 3822,
+        "remSleepStateSeconds": 8706.784819481913,
+        "deepSleepStateSeconds": 2606.158744221836
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6693.180740355608,
+        "awakeStateSeconds": 2941.467250137832,
+        "longInterruptionSeconds": 2952.286117457073,
+        "numWakeupEvents": 5958,
+        "wakeUpLatencySeconds": 1884.0326393977039,
+        "numOutOfBedEvents": 6073,
+        "sleepLatencySeconds": 5917.639641091711
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8848.57853706967,
+        "asleepStateSeconds": 221.00417460002743,
+        "numRemEvents": 1327,
+        "remSleepStateSeconds": 6918.933767954562,
+        "deepSleepStateSeconds": 8033.417217945494
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9256.273628386909,
+        "awakeStateSeconds": 5830.969353561365,
+        "longInterruptionSeconds": 9891.068048832985,
+        "numWakeupEvents": 9489,
+        "wakeUpLatencySeconds": 3995.4569707470355,
+        "numOutOfBedEvents": 8754,
+        "sleepLatencySeconds": 6316.563236491473
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4628.477405972405,
+        "asleepStateSeconds": 8106.655697381391,
+        "numRemEvents": 5998,
+        "remSleepStateSeconds": 8148.171110782849,
+        "deepSleepStateSeconds": 5728.319113066317
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8215.803311313359,
+        "awakeStateSeconds": 9239.044133092568,
+        "longInterruptionSeconds": 2229.6729262952376,
+        "numWakeupEvents": 9908,
+        "wakeUpLatencySeconds": 3049.9498780504246,
+        "numOutOfBedEvents": 9561,
+        "sleepLatencySeconds": 142.5535393053282
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6963.818770440789,
+        "asleepStateSeconds": 1628.6579834843305,
+        "numRemEvents": 7674,
+        "remSleepStateSeconds": 4387.485964425966,
+        "deepSleepStateSeconds": 4902.104509588588
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2145.2885156528228,
+        "awakeStateSeconds": 5537.18543622066,
+        "longInterruptionSeconds": 6226.170636452436,
+        "numWakeupEvents": 3216,
+        "wakeUpLatencySeconds": 3794.3128952851134,
+        "numOutOfBedEvents": 6235,
+        "sleepLatencySeconds": 9178.985208303895
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8995.054844535858,
+        "asleepStateSeconds": 9168.462442863738,
+        "numRemEvents": 9029,
+        "remSleepStateSeconds": 5878.882004712951,
+        "deepSleepStateSeconds": 8329.117829989875
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3228.955372787021,
+        "awakeStateSeconds": 3471.498046624523,
+        "longInterruptionSeconds": 4746.055236046781,
+        "numWakeupEvents": 5558,
+        "wakeUpLatencySeconds": 8403.75459478451,
+        "numOutOfBedEvents": 5221,
+        "sleepLatencySeconds": 13.636569457284459
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2132.052790648242,
+        "asleepStateSeconds": 9602.2619149378,
+        "numRemEvents": 3571,
+        "remSleepStateSeconds": 9363.811700176915,
+        "deepSleepStateSeconds": 3003.2273968814325
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7428.642386937486,
+        "awakeStateSeconds": 5700.5837559133,
+        "longInterruptionSeconds": 4373.748383310242,
+        "numWakeupEvents": 4707,
+        "wakeUpLatencySeconds": 4393.308098499713,
+        "numOutOfBedEvents": 7976,
+        "sleepLatencySeconds": 390.9774246813223
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5823.798475635432,
+        "asleepStateSeconds": 5666.837266717227,
+        "numRemEvents": 2550,
+        "remSleepStateSeconds": 9914.308283030414,
+        "deepSleepStateSeconds": 5437.384974261637
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4856.485108928615,
+        "awakeStateSeconds": 3031.731003929496,
+        "longInterruptionSeconds": 3189.4656436562414,
+        "numWakeupEvents": 554,
+        "wakeUpLatencySeconds": 3884.8705116215656,
+        "numOutOfBedEvents": 4291,
+        "sleepLatencySeconds": 6092.491100511079
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9609.011769720555,
+        "asleepStateSeconds": 7267.002524223843,
+        "numRemEvents": 8168,
+        "remSleepStateSeconds": 7136.522732450881,
+        "deepSleepStateSeconds": 9103.54843157863
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5064.191423277583,
+        "awakeStateSeconds": 846.6246342243068,
+        "longInterruptionSeconds": 1329.1277545075102,
+        "numWakeupEvents": 6255,
+        "wakeUpLatencySeconds": 2156.7358848860727,
+        "numOutOfBedEvents": 1390,
+        "sleepLatencySeconds": 656.7124278529225
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8214.028224162625,
+        "asleepStateSeconds": 2436.039037763809,
+        "numRemEvents": 7508,
+        "remSleepStateSeconds": 521.5144085258057,
+        "deepSleepStateSeconds": 8266.517815829067
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8411.948185219877,
+        "awakeStateSeconds": 1532.0508405742717,
+        "longInterruptionSeconds": 9111.377930960007,
+        "numWakeupEvents": 895,
+        "wakeUpLatencySeconds": 1132.591522358337,
+        "numOutOfBedEvents": 1474,
+        "sleepLatencySeconds": 9819.702251136872
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6524.201959035752,
+        "asleepStateSeconds": 48.46285140013772,
+        "numRemEvents": 9833,
+        "remSleepStateSeconds": 9810.023993949264,
+        "deepSleepStateSeconds": 3091.0445326619715
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8242.848580135895,
+        "awakeStateSeconds": 6853.45516178552,
+        "longInterruptionSeconds": 7544.801829752923,
+        "numWakeupEvents": 3037,
+        "wakeUpLatencySeconds": 5026.025979123123,
+        "numOutOfBedEvents": 5256,
+        "sleepLatencySeconds": 1283.8627434296998
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9087.58508755064,
+        "asleepStateSeconds": 8660.580626241956,
+        "numRemEvents": 2517,
+        "remSleepStateSeconds": 7081.877002197032,
+        "deepSleepStateSeconds": 1127.877375076152
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6718.776097397811,
+        "awakeStateSeconds": 8604.642451110922,
+        "longInterruptionSeconds": 2401.487480500584,
+        "numWakeupEvents": 9885,
+        "wakeUpLatencySeconds": 4466.890169952167,
+        "numOutOfBedEvents": 8242,
+        "sleepLatencySeconds": 1429.1502045470124
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2729.8044318307097,
+        "asleepStateSeconds": 3819.3783812047504,
+        "numRemEvents": 4317,
+        "remSleepStateSeconds": 8932.690262509792,
+        "deepSleepStateSeconds": 2771.7315572837956
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1957.7278379976465,
+        "awakeStateSeconds": 7229.029382868595,
+        "longInterruptionSeconds": 9177.427476080473,
+        "numWakeupEvents": 1186,
+        "wakeUpLatencySeconds": 5970.53858904835,
+        "numOutOfBedEvents": 3921,
+        "sleepLatencySeconds": 8459.565936646171
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5666.762514228312,
+        "asleepStateSeconds": 8148.493838836103,
+        "numRemEvents": 167,
+        "remSleepStateSeconds": 8577.940283989696,
+        "deepSleepStateSeconds": 3882.981761282803
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8088.4038285737,
+        "awakeStateSeconds": 5744.343005606029,
+        "longInterruptionSeconds": 3048.3003017936803,
+        "numWakeupEvents": 7331,
+        "wakeUpLatencySeconds": 9284.784628478892,
+        "numOutOfBedEvents": 3416,
+        "sleepLatencySeconds": 419.9482908010534
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3660.8322517837473,
+        "asleepStateSeconds": 3026.971129904757,
+        "numRemEvents": 7983,
+        "remSleepStateSeconds": 2641.1459289084946,
+        "deepSleepStateSeconds": 1916.9291770450793
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5998.480439329281,
+        "awakeStateSeconds": 8458.390859845762,
+        "longInterruptionSeconds": 6143.86746766967,
+        "numWakeupEvents": 6018,
+        "wakeUpLatencySeconds": 515.3822353386911,
+        "numOutOfBedEvents": 7926,
+        "sleepLatencySeconds": 7871.939599493988
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6798.577739621915,
+        "asleepStateSeconds": 9074.033123054918,
+        "numRemEvents": 565,
+        "remSleepStateSeconds": 1382.658108983863,
+        "deepSleepStateSeconds": 6787.291631274707
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8024.456644770478,
+        "awakeStateSeconds": 4077.6034541761887,
+        "longInterruptionSeconds": 2169.118882923353,
+        "numWakeupEvents": 1960,
+        "wakeUpLatencySeconds": 9254.110054027798,
+        "numOutOfBedEvents": 4101,
+        "sleepLatencySeconds": 6725.313451406997
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 102.33912697029432,
+        "asleepStateSeconds": 7353.694445604423,
+        "numRemEvents": 7306,
+        "remSleepStateSeconds": 103.9102194419105,
+        "deepSleepStateSeconds": 2751.841966818561
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3768.031861636679,
+        "awakeStateSeconds": 397.910764117952,
+        "longInterruptionSeconds": 4963.119011703512,
+        "numWakeupEvents": 3773,
+        "wakeUpLatencySeconds": 1444.0001857839882,
+        "numOutOfBedEvents": 8094,
+        "sleepLatencySeconds": 2322.229134981123
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4966.537222214865,
+        "asleepStateSeconds": 6753.996562970414,
+        "numRemEvents": 3322,
+        "remSleepStateSeconds": 1962.2547024341145,
+        "deepSleepStateSeconds": 3705.5848806414033
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8205.722980129492,
+        "awakeStateSeconds": 5131.489586001277,
+        "longInterruptionSeconds": 4278.34787328913,
+        "numWakeupEvents": 7371,
+        "wakeUpLatencySeconds": 3768.0101579489888,
+        "numOutOfBedEvents": 3485,
+        "sleepLatencySeconds": 3318.0159222121533
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9566.873065727325,
+        "asleepStateSeconds": 5613.183037141439,
+        "numRemEvents": 9498,
+        "remSleepStateSeconds": 1119.11447966921,
+        "deepSleepStateSeconds": 3859.475410476811
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1059.193159093301,
+        "awakeStateSeconds": 732.1430477996859,
+        "longInterruptionSeconds": 100.53087748317158,
+        "numWakeupEvents": 3111,
+        "wakeUpLatencySeconds": 9416.502887811708,
+        "numOutOfBedEvents": 9898,
+        "sleepLatencySeconds": 8628.155580111727
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2276.288530606429,
+        "asleepStateSeconds": 9908.926076131349,
+        "numRemEvents": 8173,
+        "remSleepStateSeconds": 3737.1612241206376,
+        "deepSleepStateSeconds": 4625.847362480783
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1818.484750475918,
+        "awakeStateSeconds": 1784.8186255798896,
+        "longInterruptionSeconds": 2841.899101388132,
+        "numWakeupEvents": 2952,
+        "wakeUpLatencySeconds": 3423.5945874230083,
+        "numOutOfBedEvents": 6726,
+        "sleepLatencySeconds": 3433.5913936983475
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2884.446936436318,
+        "asleepStateSeconds": 4591.615159217499,
+        "numRemEvents": 3801,
+        "remSleepStateSeconds": 6978.395098196928,
+        "deepSleepStateSeconds": 1644.560949940103
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4761.492687891249,
+        "awakeStateSeconds": 820.1632660911273,
+        "longInterruptionSeconds": 8496.137246612434,
+        "numWakeupEvents": 8616,
+        "wakeUpLatencySeconds": 7010.762560929688,
+        "numOutOfBedEvents": 2090,
+        "sleepLatencySeconds": 6091.62558548125
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9006.629579818025,
+        "asleepStateSeconds": 6428.061511577356,
+        "numRemEvents": 3816,
+        "remSleepStateSeconds": 7059.194757396869,
+        "deepSleepStateSeconds": 4863.536986156576
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7912.749491442531,
+        "awakeStateSeconds": 6668.190008575646,
+        "longInterruptionSeconds": 813.1269311284309,
+        "numWakeupEvents": 5339,
+        "wakeUpLatencySeconds": 9746.531163343781,
+        "numOutOfBedEvents": 3928,
+        "sleepLatencySeconds": 6870.31677404663
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5041.165897703986,
+        "asleepStateSeconds": 5371.506037410179,
+        "numRemEvents": 5429,
+        "remSleepStateSeconds": 2873.460748848562,
+        "deepSleepStateSeconds": 4266.798801375659
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5358.818924284983,
+        "awakeStateSeconds": 5064.9038091862585,
+        "longInterruptionSeconds": 5707.930318964214,
+        "numWakeupEvents": 5627,
+        "wakeUpLatencySeconds": 5960.43180652441,
+        "numOutOfBedEvents": 7750,
+        "sleepLatencySeconds": 1298.6368197900615
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1025.1905459608727,
+        "asleepStateSeconds": 6104.564779995932,
+        "numRemEvents": 9035,
+        "remSleepStateSeconds": 8470.854664809369,
+        "deepSleepStateSeconds": 9264.234677241111
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3285.3850958711123,
+        "awakeStateSeconds": 7270.312086182108,
+        "longInterruptionSeconds": 8704.923525985556,
+        "numWakeupEvents": 2465,
+        "wakeUpLatencySeconds": 1150.0451443032314,
+        "numOutOfBedEvents": 9582,
+        "sleepLatencySeconds": 1384.3416028817037
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 582.7927240508203,
+        "asleepStateSeconds": 3924.182326712007,
+        "numRemEvents": 8770,
+        "remSleepStateSeconds": 677.1183477353547,
+        "deepSleepStateSeconds": 2769.884433526033
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9169.446589704688,
+        "awakeStateSeconds": 7030.791603896582,
+        "longInterruptionSeconds": 7194.470229507488,
+        "numWakeupEvents": 3959,
+        "wakeUpLatencySeconds": 3784.883099742004,
+        "numOutOfBedEvents": 2501,
+        "sleepLatencySeconds": 8683.508998640538
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4601.466320700443,
+        "asleepStateSeconds": 1620.2292774278112,
+        "numRemEvents": 8655,
+        "remSleepStateSeconds": 8806.05291362489,
+        "deepSleepStateSeconds": 2400.9259327454656
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1506.04396289582,
+        "awakeStateSeconds": 1565.4862199705299,
+        "longInterruptionSeconds": 5108.213048524879,
+        "numWakeupEvents": 8831,
+        "wakeUpLatencySeconds": 7213.943872377837,
+        "numOutOfBedEvents": 6826,
+        "sleepLatencySeconds": 1563.0712335832966
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8540.275212116292,
+        "asleepStateSeconds": 5083.121220073486,
+        "numRemEvents": 5575,
+        "remSleepStateSeconds": 3942.5033018304075,
+        "deepSleepStateSeconds": 5291.297379585792
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8495.916884436638,
+        "awakeStateSeconds": 7526.947363198983,
+        "longInterruptionSeconds": 4160.48670749469,
+        "numWakeupEvents": 2220,
+        "wakeUpLatencySeconds": 2700.5693630443093,
+        "numOutOfBedEvents": 2004,
+        "sleepLatencySeconds": 4560.000345287278
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4956.673850566175,
+        "asleepStateSeconds": 4267.466499400081,
+        "numRemEvents": 7511,
+        "remSleepStateSeconds": 3399.7899979734325,
+        "deepSleepStateSeconds": 3462.7537820888792
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2334.1292700307304,
+        "awakeStateSeconds": 96.40512112102776,
+        "longInterruptionSeconds": 9371.800896766264,
+        "numWakeupEvents": 3492,
+        "wakeUpLatencySeconds": 8784.730389789547,
+        "numOutOfBedEvents": 5682,
+        "sleepLatencySeconds": 7173.41504116751
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2478.4136242963837,
+        "asleepStateSeconds": 8061.8555988301505,
+        "numRemEvents": 2829,
+        "remSleepStateSeconds": 755.6741810461672,
+        "deepSleepStateSeconds": 9292.455003402898
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2490.091398663217,
+        "awakeStateSeconds": 1158.985817730224,
+        "longInterruptionSeconds": 4048.822184671178,
+        "numWakeupEvents": 606,
+        "wakeUpLatencySeconds": 7511.272504235556,
+        "numOutOfBedEvents": 2165,
+        "sleepLatencySeconds": 3267.9435964422128
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9591.950759584808,
+        "asleepStateSeconds": 4052.2863485871417,
+        "numRemEvents": 2004,
+        "remSleepStateSeconds": 8672.688666343307,
+        "deepSleepStateSeconds": 4364.455501421576
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1081.8471527307152,
+        "awakeStateSeconds": 3261.1785376970647,
+        "longInterruptionSeconds": 5221.332247317074,
+        "numWakeupEvents": 3168,
+        "wakeUpLatencySeconds": 5600.900330968867,
+        "numOutOfBedEvents": 2499,
+        "sleepLatencySeconds": 764.3045812803057
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7609.991920174547,
+        "asleepStateSeconds": 5597.707744787381,
+        "numRemEvents": 7177,
+        "remSleepStateSeconds": 3590.3414982060194,
+        "deepSleepStateSeconds": 5512.319205235733
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4230.452627950852,
+        "awakeStateSeconds": 2069.9218559224323,
+        "longInterruptionSeconds": 9798.066779198158,
+        "numWakeupEvents": 7981,
+        "wakeUpLatencySeconds": 4127.614572390737,
+        "numOutOfBedEvents": 3412,
+        "sleepLatencySeconds": 3436.414572675377
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 746.0305161720942,
+        "asleepStateSeconds": 70.76178998074076,
+        "numRemEvents": 1011,
+        "remSleepStateSeconds": 2982.145593796659,
+        "deepSleepStateSeconds": 2610.121816195231
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 333.80086201120963,
+        "awakeStateSeconds": 8378.052920696857,
+        "longInterruptionSeconds": 2068.144526969301,
+        "numWakeupEvents": 8703,
+        "wakeUpLatencySeconds": 519.0627329905096,
+        "numOutOfBedEvents": 4306,
+        "sleepLatencySeconds": 276.0798677668648
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 558.6366164216008,
+        "asleepStateSeconds": 7169.560377706377,
+        "numRemEvents": 8704,
+        "remSleepStateSeconds": 6389.491312054376,
+        "deepSleepStateSeconds": 4749.1955815806405
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5465.10303028299,
+        "awakeStateSeconds": 5651.465727125864,
+        "longInterruptionSeconds": 4710.852613612219,
+        "numWakeupEvents": 6430,
+        "wakeUpLatencySeconds": 1117.1861257794803,
+        "numOutOfBedEvents": 9087,
+        "sleepLatencySeconds": 5111.433647499609
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4479.534940558214,
+        "asleepStateSeconds": 3864.3044890719743,
+        "numRemEvents": 8702,
+        "remSleepStateSeconds": 150.5648567661454,
+        "deepSleepStateSeconds": 4416.263996259883
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7287.879451871278,
+        "awakeStateSeconds": 6662.545838671347,
+        "longInterruptionSeconds": 9530.25353958738,
+        "numWakeupEvents": 1392,
+        "wakeUpLatencySeconds": 8099.052099479168,
+        "numOutOfBedEvents": 1972,
+        "sleepLatencySeconds": 1859.3175809851182
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5975.9346409701975,
+        "asleepStateSeconds": 5288.941161732534,
+        "numRemEvents": 4361,
+        "remSleepStateSeconds": 690.3837750657538,
+        "deepSleepStateSeconds": 2431.090190435489
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2813.4563906825274,
+        "awakeStateSeconds": 6109.1736927741995,
+        "longInterruptionSeconds": 135.97511143418296,
+        "numWakeupEvents": 3048,
+        "wakeUpLatencySeconds": 8869.680949071228,
+        "numOutOfBedEvents": 1961,
+        "sleepLatencySeconds": 1213.0191399553535
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9607.963803424822,
+        "asleepStateSeconds": 5975.330741783009,
+        "numRemEvents": 9068,
+        "remSleepStateSeconds": 5587.323696696563,
+        "deepSleepStateSeconds": 6989.784296927509
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5999.45589702461,
+        "awakeStateSeconds": 4105.787698610784,
+        "longInterruptionSeconds": 9942.533567647211,
+        "numWakeupEvents": 9451,
+        "wakeUpLatencySeconds": 8094.367731788011,
+        "numOutOfBedEvents": 7496,
+        "sleepLatencySeconds": 3288.1572618303076
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5751.047608961209,
+        "asleepStateSeconds": 3460.7967405742083,
+        "numRemEvents": 8869,
+        "remSleepStateSeconds": 5408.404350983501,
+        "deepSleepStateSeconds": 8801.990458591932
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5973.234752917739,
+        "awakeStateSeconds": 6883.770805798732,
+        "longInterruptionSeconds": 1673.321673901312,
+        "numWakeupEvents": 9808,
+        "wakeUpLatencySeconds": 1431.2127264171822,
+        "numOutOfBedEvents": 6271,
+        "sleepLatencySeconds": 6012.175594434657
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 84.35020943307745,
+        "asleepStateSeconds": 5221.416354742969,
+        "numRemEvents": 6109,
+        "remSleepStateSeconds": 723.4553605669614,
+        "deepSleepStateSeconds": 184.35867793653603
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 675.2947751939312,
+        "awakeStateSeconds": 2022.941627073453,
+        "longInterruptionSeconds": 5358.1179246787515,
+        "numWakeupEvents": 4807,
+        "wakeUpLatencySeconds": 5427.394709654813,
+        "numOutOfBedEvents": 9994,
+        "sleepLatencySeconds": 9392.804792066425
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6092.128582192354,
+        "asleepStateSeconds": 7794.790371588298,
+        "numRemEvents": 4883,
+        "remSleepStateSeconds": 6619.090746934949,
+        "deepSleepStateSeconds": 3477.81752273617
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6625.219124824235,
+        "awakeStateSeconds": 9517.608049963883,
+        "longInterruptionSeconds": 3194.258386700846,
+        "numWakeupEvents": 1524,
+        "wakeUpLatencySeconds": 488.7776620723917,
+        "numOutOfBedEvents": 9017,
+        "sleepLatencySeconds": 1027.334545357145
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8636.65252938623,
+        "asleepStateSeconds": 5134.328856910327,
+        "numRemEvents": 2566,
+        "remSleepStateSeconds": 71.63833609993414,
+        "deepSleepStateSeconds": 6765.891360763978
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1136.3488759924708,
+        "awakeStateSeconds": 4813.185266148033,
+        "longInterruptionSeconds": 8497.75776034714,
+        "numWakeupEvents": 7782,
+        "wakeUpLatencySeconds": 1825.9352960074414,
+        "numOutOfBedEvents": 7735,
+        "sleepLatencySeconds": 6282.092544834671
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4442.256303492279,
+        "asleepStateSeconds": 3738.748198270921,
+        "numRemEvents": 3118,
+        "remSleepStateSeconds": 9114.494462042037,
+        "deepSleepStateSeconds": 1698.5316642075572
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3212.9384761104984,
+        "awakeStateSeconds": 9545.091836917385,
+        "longInterruptionSeconds": 7071.965037490746,
+        "numWakeupEvents": 5568,
+        "wakeUpLatencySeconds": 8606.880572899237,
+        "numOutOfBedEvents": 1305,
+        "sleepLatencySeconds": 9016.119134685918
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6096.632181747677,
+        "asleepStateSeconds": 1686.514201028405,
+        "numRemEvents": 6847,
+        "remSleepStateSeconds": 1916.3321209076785,
+        "deepSleepStateSeconds": 5718.738643417095
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2994.8460369095174,
+        "awakeStateSeconds": 1894.7773234372994,
+        "longInterruptionSeconds": 7280.322621218447,
+        "numWakeupEvents": 9450,
+        "wakeUpLatencySeconds": 6730.744044742919,
+        "numOutOfBedEvents": 3454,
+        "sleepLatencySeconds": 4499.581681801978
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4257.600268610528,
+        "asleepStateSeconds": 1054.35140234401,
+        "numRemEvents": 2040,
+        "remSleepStateSeconds": 6515.418989693912,
+        "deepSleepStateSeconds": 7507.863980095614
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3106.7029991567665,
+        "awakeStateSeconds": 8147.792543223738,
+        "longInterruptionSeconds": 1927.119133175939,
+        "numWakeupEvents": 291,
+        "wakeUpLatencySeconds": 8378.06406952834,
+        "numOutOfBedEvents": 600,
+        "sleepLatencySeconds": 767.7709159233674
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3150.7739608182296,
+        "asleepStateSeconds": 6001.550640214773,
+        "numRemEvents": 5184,
+        "remSleepStateSeconds": 837.5568613658144,
+        "deepSleepStateSeconds": 3987.3252990187225
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9222.872562828139,
+        "awakeStateSeconds": 773.5204157994705,
+        "longInterruptionSeconds": 8853.452334005799,
+        "numWakeupEvents": 5977,
+        "wakeUpLatencySeconds": 1547.3006082882098,
+        "numOutOfBedEvents": 2593,
+        "sleepLatencySeconds": 3450.5777669320587
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4931.14389472622,
+        "asleepStateSeconds": 4254.788915374568,
+        "numRemEvents": 547,
+        "remSleepStateSeconds": 2935.0863630409754,
+        "deepSleepStateSeconds": 9279.37485870516
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6989.74781830776,
+        "awakeStateSeconds": 3794.2887086698433,
+        "longInterruptionSeconds": 6472.415158108532,
+        "numWakeupEvents": 5165,
+        "wakeUpLatencySeconds": 4745.335682598709,
+        "numOutOfBedEvents": 7275,
+        "sleepLatencySeconds": 4375.368649646765
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5268.542748045098,
+        "asleepStateSeconds": 7017.966930814403,
+        "numRemEvents": 8374,
+        "remSleepStateSeconds": 8447.370831123657,
+        "deepSleepStateSeconds": 9375.067447803774
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2761.406491620788,
+        "awakeStateSeconds": 7273.009133470236,
+        "longInterruptionSeconds": 6419.6248685687815,
+        "numWakeupEvents": 7013,
+        "wakeUpLatencySeconds": 9134.523711112957,
+        "numOutOfBedEvents": 6263,
+        "sleepLatencySeconds": 8403.384405603898
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6699.339868813037,
+        "asleepStateSeconds": 6655.0579380517565,
+        "numRemEvents": 2411,
+        "remSleepStateSeconds": 7991.792943591716,
+        "deepSleepStateSeconds": 307.4425035125214
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4135.114243555769,
+        "awakeStateSeconds": 7324.94870816114,
+        "longInterruptionSeconds": 8527.790089404203,
+        "numWakeupEvents": 1572,
+        "wakeUpLatencySeconds": 7998.955666745222,
+        "numOutOfBedEvents": 8438,
+        "sleepLatencySeconds": 430.334975992078
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3004.5227747350937,
+        "asleepStateSeconds": 6842.586198615942,
+        "numRemEvents": 2340,
+        "remSleepStateSeconds": 7413.195179393647,
+        "deepSleepStateSeconds": 3936.9194873573533
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9015.392340360868,
+        "awakeStateSeconds": 6947.019074393558,
+        "longInterruptionSeconds": 2416.602723117025,
+        "numWakeupEvents": 9215,
+        "wakeUpLatencySeconds": 7358.478850562413,
+        "numOutOfBedEvents": 8090,
+        "sleepLatencySeconds": 747.9316427945158
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9200.478849252997,
+        "asleepStateSeconds": 8536.463274571262,
+        "numRemEvents": 2427,
+        "remSleepStateSeconds": 3563.07914235778,
+        "deepSleepStateSeconds": 9754.52405282943
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9004.540099566913,
+        "awakeStateSeconds": 5544.95990180691,
+        "longInterruptionSeconds": 9306.139869642577,
+        "numWakeupEvents": 8679,
+        "wakeUpLatencySeconds": 7171.98489033594,
+        "numOutOfBedEvents": 8766,
+        "sleepLatencySeconds": 9525.379834584657
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9496.477786196707,
+        "asleepStateSeconds": 4531.07797453693,
+        "numRemEvents": 2043,
+        "remSleepStateSeconds": 2457.834672138129,
+        "deepSleepStateSeconds": 9076.594048602685
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6571.975858724152,
+        "awakeStateSeconds": 143.13310600952272,
+        "longInterruptionSeconds": 4377.381729170068,
+        "numWakeupEvents": 8924,
+        "wakeUpLatencySeconds": 5113.177671558403,
+        "numOutOfBedEvents": 7740,
+        "sleepLatencySeconds": 4265.056055377898
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5611.128763845373,
+        "asleepStateSeconds": 9473.908285189269,
+        "numRemEvents": 9806,
+        "remSleepStateSeconds": 4935.075461473684,
+        "deepSleepStateSeconds": 9757.433103321793
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4313.623221817281,
+        "awakeStateSeconds": 4508.303770931021,
+        "longInterruptionSeconds": 7569.930928151302,
+        "numWakeupEvents": 1253,
+        "wakeUpLatencySeconds": 8827.237037896062,
+        "numOutOfBedEvents": 2831,
+        "sleepLatencySeconds": 2371.809963905445
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6211.971571513948,
+        "asleepStateSeconds": 1973.5576461124276,
+        "numRemEvents": 5491,
+        "remSleepStateSeconds": 4967.311466317739,
+        "deepSleepStateSeconds": 5741.519776049056
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2074.0213717703655,
+        "awakeStateSeconds": 7561.210444728606,
+        "longInterruptionSeconds": 248.34292174189477,
+        "numWakeupEvents": 3966,
+        "wakeUpLatencySeconds": 1567.724223306205,
+        "numOutOfBedEvents": 1568,
+        "sleepLatencySeconds": 4620.436885639287
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1607.9166078001865,
+        "asleepStateSeconds": 6887.835357714667,
+        "numRemEvents": 2114,
+        "remSleepStateSeconds": 1358.0707903566815,
+        "deepSleepStateSeconds": 3392.236123712138
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1608.766796230281,
+        "awakeStateSeconds": 3859.3177133919007,
+        "longInterruptionSeconds": 8416.27752702035,
+        "numWakeupEvents": 7903,
+        "wakeUpLatencySeconds": 6870.746981001144,
+        "numOutOfBedEvents": 3616,
+        "sleepLatencySeconds": 4977.19211519575
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7989.336898814782,
+        "asleepStateSeconds": 4225.82146441073,
+        "numRemEvents": 2860,
+        "remSleepStateSeconds": 2062.653968156875,
+        "deepSleepStateSeconds": 9320.776962438951
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3674.9143420488986,
+        "awakeStateSeconds": 1299.0215346927714,
+        "longInterruptionSeconds": 3613.751409128975,
+        "numWakeupEvents": 2457,
+        "wakeUpLatencySeconds": 7076.443297823107,
+        "numOutOfBedEvents": 6927,
+        "sleepLatencySeconds": 783.6039578603131
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6158.8157899156595,
+        "asleepStateSeconds": 853.4963082003356,
+        "numRemEvents": 8973,
+        "remSleepStateSeconds": 9710.392621809471,
+        "deepSleepStateSeconds": 3604.6948419640344
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3997.538635650206,
+        "awakeStateSeconds": 352.0557758032191,
+        "longInterruptionSeconds": 146.89924312138336,
+        "numWakeupEvents": 816,
+        "wakeUpLatencySeconds": 8373.13801996201,
+        "numOutOfBedEvents": 7019,
+        "sleepLatencySeconds": 2854.9656431969356
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8090.5976883436615,
+        "asleepStateSeconds": 246.9699801561136,
+        "numRemEvents": 400,
+        "remSleepStateSeconds": 2698.2917570947316,
+        "deepSleepStateSeconds": 3281.547147676377
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8447.351854809482,
+        "awakeStateSeconds": 7764.990817662762,
+        "longInterruptionSeconds": 83.61452591409828,
+        "numWakeupEvents": 2876,
+        "wakeUpLatencySeconds": 669.0274288609759,
+        "numOutOfBedEvents": 6038,
+        "sleepLatencySeconds": 6229.82247573422
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7215.88185862179,
+        "asleepStateSeconds": 1717.30380744269,
+        "numRemEvents": 6958,
+        "remSleepStateSeconds": 1514.8371554533362,
+        "deepSleepStateSeconds": 3985.872285678318
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 851.864360754402,
+        "awakeStateSeconds": 6924.113135958922,
+        "longInterruptionSeconds": 2714.0105833088905,
+        "numWakeupEvents": 6928,
+        "wakeUpLatencySeconds": 532.0770397489623,
+        "numOutOfBedEvents": 8368,
+        "sleepLatencySeconds": 7546.421929377117
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5840.202850510024,
+        "asleepStateSeconds": 8949.701251323568,
+        "numRemEvents": 1822,
+        "remSleepStateSeconds": 9933.120116746346,
+        "deepSleepStateSeconds": 2743.302573012902
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8123.319682155049,
+        "awakeStateSeconds": 714.1031734274503,
+        "longInterruptionSeconds": 8890.208215903658,
+        "numWakeupEvents": 978,
+        "wakeUpLatencySeconds": 3796.1396621531003,
+        "numOutOfBedEvents": 2744,
+        "sleepLatencySeconds": 3444.6642772649107
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 8186.890906155412,
+        "asleepStateSeconds": 4541.889969374946,
+        "numRemEvents": 2697,
+        "remSleepStateSeconds": 2357.5639627564096,
+        "deepSleepStateSeconds": 5341.3512384691085
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9365.979702207442,
+        "awakeStateSeconds": 5457.674395025796,
+        "longInterruptionSeconds": 1590.437480212612,
+        "numWakeupEvents": 5058,
+        "wakeUpLatencySeconds": 8083.1820128983745,
+        "numOutOfBedEvents": 8092,
+        "sleepLatencySeconds": 963.1632621222873
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4027.797816496295,
+        "asleepStateSeconds": 2043.409421498069,
+        "numRemEvents": 6142,
+        "remSleepStateSeconds": 6351.079237292298,
+        "deepSleepStateSeconds": 7687.459087287806
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9429.182485843685,
+        "awakeStateSeconds": 5123.823482550971,
+        "longInterruptionSeconds": 4820.7915977635585,
+        "numWakeupEvents": 5853,
+        "wakeUpLatencySeconds": 2058.6822301489724,
+        "numOutOfBedEvents": 4714,
+        "sleepLatencySeconds": 1815.317266381749
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1952.9165350876876,
+        "asleepStateSeconds": 3436.8464170462894,
+        "numRemEvents": 4883,
+        "remSleepStateSeconds": 8304.822827923916,
+        "deepSleepStateSeconds": 3012.6069820326547
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 590.7918002386102,
+        "awakeStateSeconds": 299.25776539204554,
+        "longInterruptionSeconds": 8325.41528813888,
+        "numWakeupEvents": 7466,
+        "wakeUpLatencySeconds": 6220.47279532543,
+        "numOutOfBedEvents": 6131,
+        "sleepLatencySeconds": 2412.218328398759
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4687.3013972881145,
+        "asleepStateSeconds": 857.1835412008231,
+        "numRemEvents": 5425,
+        "remSleepStateSeconds": 867.112993487108,
+        "deepSleepStateSeconds": 2832.810452333181
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5908.38561176182,
+        "awakeStateSeconds": 9377.619302864721,
+        "longInterruptionSeconds": 4091.7640356752013,
+        "numWakeupEvents": 9402,
+        "wakeUpLatencySeconds": 4702.123618231666,
+        "numOutOfBedEvents": 8974,
+        "sleepLatencySeconds": 4205.362018589089
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5982.911903460031,
+        "asleepStateSeconds": 9115.069925426202,
+        "numRemEvents": 7915,
+        "remSleepStateSeconds": 4713.658619067536,
+        "deepSleepStateSeconds": 615.0208267531551
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 4655.682457914648,
+        "awakeStateSeconds": 451.0610925916791,
+        "longInterruptionSeconds": 8399.146178082732,
+        "numWakeupEvents": 796,
+        "wakeUpLatencySeconds": 6483.992741503405,
+        "numOutOfBedEvents": 2677,
+        "sleepLatencySeconds": 252.79348143797694
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 658.2882667001576,
+        "asleepStateSeconds": 3222.7553971826414,
+        "numRemEvents": 4284,
+        "remSleepStateSeconds": 6724.651242107338,
+        "deepSleepStateSeconds": 2048.6393810010154
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 8709.829554230717,
+        "awakeStateSeconds": 5594.995654694768,
+        "longInterruptionSeconds": 2956.767844415686,
+        "numWakeupEvents": 7944,
+        "wakeUpLatencySeconds": 5414.270779479207,
+        "numOutOfBedEvents": 3508,
+        "sleepLatencySeconds": 5893.482581965312
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4387.366919902406,
+        "asleepStateSeconds": 3963.3355393033016,
+        "numRemEvents": 7097,
+        "remSleepStateSeconds": 7148.085151122218,
+        "deepSleepStateSeconds": 624.9584728761081
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6151.183620583848,
+        "awakeStateSeconds": 3284.579628089779,
+        "longInterruptionSeconds": 5676.5702959722585,
+        "numWakeupEvents": 1679,
+        "wakeUpLatencySeconds": 1113.346191816248,
+        "numOutOfBedEvents": 2048,
+        "sleepLatencySeconds": 6858.783990594123
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1571.9490684929094,
+        "asleepStateSeconds": 679.5013841415841,
+        "numRemEvents": 4431,
+        "remSleepStateSeconds": 6811.387631036307,
+        "deepSleepStateSeconds": 9743.157221541496
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7125.358025057022,
+        "awakeStateSeconds": 4322.088236820428,
+        "longInterruptionSeconds": 338.0524413992094,
+        "numWakeupEvents": 9178,
+        "wakeUpLatencySeconds": 8181.2788167217695,
+        "numOutOfBedEvents": 9489,
+        "sleepLatencySeconds": 37.12208428065259
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5936.910412413933,
+        "asleepStateSeconds": 3079.112327148044,
+        "numRemEvents": 1574,
+        "remSleepStateSeconds": 9094.092707281961,
+        "deepSleepStateSeconds": 9505.101783285761
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6916.896234191942,
+        "awakeStateSeconds": 7108.122212035042,
+        "longInterruptionSeconds": 705.0224732622627,
+        "numWakeupEvents": 7896,
+        "wakeUpLatencySeconds": 2130.571564237404,
+        "numOutOfBedEvents": 9870,
+        "sleepLatencySeconds": 2369.649792672664
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7505.845774003975,
+        "asleepStateSeconds": 7698.734465356025,
+        "numRemEvents": 3904,
+        "remSleepStateSeconds": 7528.731745005852,
+        "deepSleepStateSeconds": 3177.2504044663106
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1665.5965350018173,
+        "awakeStateSeconds": 1464.4227802673386,
+        "longInterruptionSeconds": 5737.632131924471,
+        "numWakeupEvents": 4964,
+        "wakeUpLatencySeconds": 455.3066393267155,
+        "numOutOfBedEvents": 4796,
+        "sleepLatencySeconds": 981.8025122891677
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5983.480132333412,
+        "asleepStateSeconds": 5935.73344158282,
+        "numRemEvents": 9207,
+        "remSleepStateSeconds": 2818.125822257517,
+        "deepSleepStateSeconds": 6414.60987196608
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6707.9263882763225,
+        "awakeStateSeconds": 4794.967133844179,
+        "longInterruptionSeconds": 9440.338549494245,
+        "numWakeupEvents": 7817,
+        "wakeUpLatencySeconds": 5737.257603982936,
+        "numOutOfBedEvents": 5477,
+        "sleepLatencySeconds": 426.9656879147779
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 975.757216504224,
+        "asleepStateSeconds": 9935.293834878561,
+        "numRemEvents": 9946,
+        "remSleepStateSeconds": 5767.248302273217,
+        "deepSleepStateSeconds": 6877.467556240558
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9015.9975349941,
+        "awakeStateSeconds": 2177.7511309123424,
+        "longInterruptionSeconds": 1852.5958048432337,
+        "numWakeupEvents": 7211,
+        "wakeUpLatencySeconds": 3317.819975861199,
+        "numOutOfBedEvents": 9546,
+        "sleepLatencySeconds": 3045.5092214011065
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 7247.404790236991,
+        "asleepStateSeconds": 3342.6110276613485,
+        "numRemEvents": 6949,
+        "remSleepStateSeconds": 5036.59704957132,
+        "deepSleepStateSeconds": 2040.040142122749
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7382.50089930649,
+        "awakeStateSeconds": 8017.825898046295,
+        "longInterruptionSeconds": 673.2267374245314,
+        "numWakeupEvents": 4739,
+        "wakeUpLatencySeconds": 322.86949044974807,
+        "numOutOfBedEvents": 1112,
+        "sleepLatencySeconds": 2946.4746844577976
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1517.936200750495,
+        "asleepStateSeconds": 9961.53134355666,
+        "numRemEvents": 2428,
+        "remSleepStateSeconds": 4299.668267882035,
+        "deepSleepStateSeconds": 8670.577675165327
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 2579.775614153017,
+        "awakeStateSeconds": 3086.9243181634956,
+        "longInterruptionSeconds": 7827.955872527966,
+        "numWakeupEvents": 6904,
+        "wakeUpLatencySeconds": 6516.663356759161,
+        "numOutOfBedEvents": 796,
+        "sleepLatencySeconds": 9938.848619507435
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3941.3668487078694,
+        "asleepStateSeconds": 975.3619738160922,
+        "numRemEvents": 4206,
+        "remSleepStateSeconds": 9312.457856528688,
+        "deepSleepStateSeconds": 8009.44574803106
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 309.7119544439108,
+        "awakeStateSeconds": 9674.308748199544,
+        "longInterruptionSeconds": 376.8073865875505,
+        "numWakeupEvents": 8314,
+        "wakeUpLatencySeconds": 4953.746678220973,
+        "numOutOfBedEvents": 4209,
+        "sleepLatencySeconds": 9887.601877101688
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9786.200188710882,
+        "asleepStateSeconds": 5866.17928356324,
+        "numRemEvents": 8726,
+        "remSleepStateSeconds": 5299.935673036618,
+        "deepSleepStateSeconds": 1563.1397806930647
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1465.993116411688,
+        "awakeStateSeconds": 1351.2736920220434,
+        "longInterruptionSeconds": 8271.296729904188,
+        "numWakeupEvents": 5840,
+        "wakeUpLatencySeconds": 2956.2511168971323,
+        "numOutOfBedEvents": 2338,
+        "sleepLatencySeconds": 6173.088811778041
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6699.653873805065,
+        "asleepStateSeconds": 9721.592703322236,
+        "numRemEvents": 6859,
+        "remSleepStateSeconds": 9987.54395036584,
+        "deepSleepStateSeconds": 3914.48054278022
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7712.078054028276,
+        "awakeStateSeconds": 9436.579579912077,
+        "longInterruptionSeconds": 1120.2143200748867,
+        "numWakeupEvents": 5453,
+        "wakeUpLatencySeconds": 2760.2334471964623,
+        "numOutOfBedEvents": 5139,
+        "sleepLatencySeconds": 4463.8397168973715
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2631.8571186067156,
+        "asleepStateSeconds": 9303.564545852894,
+        "numRemEvents": 5572,
+        "remSleepStateSeconds": 1335.9713615592818,
+        "deepSleepStateSeconds": 7217.34246882587
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1997.5998320621206,
+        "awakeStateSeconds": 5040.260649434853,
+        "longInterruptionSeconds": 6863.927223328152,
+        "numWakeupEvents": 5294,
+        "wakeUpLatencySeconds": 7286.302086041185,
+        "numOutOfBedEvents": 2791,
+        "sleepLatencySeconds": 8277.966953563606
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4512.653890147344,
+        "asleepStateSeconds": 2525.9278469775745,
+        "numRemEvents": 23,
+        "remSleepStateSeconds": 3316.166214336565,
+        "deepSleepStateSeconds": 1559.6908139962088
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5718.968941943001,
+        "awakeStateSeconds": 8563.186310673322,
+        "longInterruptionSeconds": 966.0189379388238,
+        "numWakeupEvents": 2042,
+        "wakeUpLatencySeconds": 9634.002643555845,
+        "numOutOfBedEvents": 117,
+        "sleepLatencySeconds": 2596.701407604546
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1184.5803308133127,
+        "asleepStateSeconds": 8852.623555098184,
+        "numRemEvents": 3310,
+        "remSleepStateSeconds": 7017.809683733067,
+        "deepSleepStateSeconds": 2815.412802297057
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 820.9259954127762,
+        "awakeStateSeconds": 8177.639487394781,
+        "longInterruptionSeconds": 4829.334063415452,
+        "numWakeupEvents": 2859,
+        "wakeUpLatencySeconds": 7216.126092330439,
+        "numOutOfBedEvents": 6455,
+        "sleepLatencySeconds": 5551.324681923406
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 2621.6486254841334,
+        "asleepStateSeconds": 468.95769191166113,
+        "numRemEvents": 758,
+        "remSleepStateSeconds": 3841.22356741552,
+        "deepSleepStateSeconds": 3353.770804587939
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1956.484906267612,
+        "awakeStateSeconds": 2475.6064579555277,
+        "longInterruptionSeconds": 6320.343158398983,
+        "numWakeupEvents": 7743,
+        "wakeUpLatencySeconds": 7356.357795231858,
+        "numOutOfBedEvents": 2476,
+        "sleepLatencySeconds": 9989.563854463308
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6128.868420381545,
+        "asleepStateSeconds": 7085.258735182792,
+        "numRemEvents": 822,
+        "remSleepStateSeconds": 5229.473592844094,
+        "deepSleepStateSeconds": 8524.167979446303
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3262.951739972769,
+        "awakeStateSeconds": 6693.9799729040615,
+        "longInterruptionSeconds": 1987.0222309331436,
+        "numWakeupEvents": 8380,
+        "wakeUpLatencySeconds": 1591.8236714911154,
+        "numOutOfBedEvents": 9446,
+        "sleepLatencySeconds": 7597.586167494953
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5690.338270473715,
+        "asleepStateSeconds": 4806.827674976263,
+        "numRemEvents": 4819,
+        "remSleepStateSeconds": 4197.339182934615,
+        "deepSleepStateSeconds": 9032.530316495988
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 989.632849780323,
+        "awakeStateSeconds": 4504.717145971763,
+        "longInterruptionSeconds": 865.5601958193523,
+        "numWakeupEvents": 4707,
+        "wakeUpLatencySeconds": 7180.6346768814365,
+        "numOutOfBedEvents": 4153,
+        "sleepLatencySeconds": 4040.804520951555
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 5674.406468093675,
+        "asleepStateSeconds": 9727.608332942835,
+        "numRemEvents": 1452,
+        "remSleepStateSeconds": 6648.7539573125405,
+        "deepSleepStateSeconds": 90.3547338489179
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 6620.210361570413,
+        "awakeStateSeconds": 7272.1167060503385,
+        "longInterruptionSeconds": 4978.337717828307,
+        "numWakeupEvents": 138,
+        "wakeUpLatencySeconds": 8683.923613000403,
+        "numOutOfBedEvents": 8100,
+        "sleepLatencySeconds": 2239.926307108043
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3363.4547239907665,
+        "asleepStateSeconds": 7847.225853463607,
+        "numRemEvents": 5123,
+        "remSleepStateSeconds": 1569.571084879669,
+        "deepSleepStateSeconds": 9226.265330054583
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3956.3454729984205,
+        "awakeStateSeconds": 3509.1734171861553,
+        "longInterruptionSeconds": 8641.59857589751,
+        "numWakeupEvents": 8100,
+        "wakeUpLatencySeconds": 762.8456257284805,
+        "numOutOfBedEvents": 9883,
+        "sleepLatencySeconds": 685.6747563307661
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9916.008670879515,
+        "asleepStateSeconds": 3601.150292134798,
+        "numRemEvents": 564,
+        "remSleepStateSeconds": 5731.191230631345,
+        "deepSleepStateSeconds": 1063.9834356899962
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7370.54210639537,
+        "awakeStateSeconds": 7382.048714522169,
+        "longInterruptionSeconds": 3991.721630058855,
+        "numWakeupEvents": 9658,
+        "wakeUpLatencySeconds": 433.2425166373588,
+        "numOutOfBedEvents": 8006,
+        "sleepLatencySeconds": 2133.4018747376595
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4445.734057405181,
+        "asleepStateSeconds": 1188.163178610301,
+        "numRemEvents": 1592,
+        "remSleepStateSeconds": 7727.26914132993,
+        "deepSleepStateSeconds": 8794.325424071354
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5423.048288579301,
+        "awakeStateSeconds": 5758.274949481262,
+        "longInterruptionSeconds": 7411.561368598386,
+        "numWakeupEvents": 8504,
+        "wakeUpLatencySeconds": 6123.773031192725,
+        "numOutOfBedEvents": 4402,
+        "sleepLatencySeconds": 939.6424381004651
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 4809.431408420991,
+        "asleepStateSeconds": 3036.14982720461,
+        "numRemEvents": 5931,
+        "remSleepStateSeconds": 9234.497023496106,
+        "deepSleepStateSeconds": 9243.133593943772
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9684.580777653264,
+        "awakeStateSeconds": 2274.221430380502,
+        "longInterruptionSeconds": 2495.57792817006,
+        "numWakeupEvents": 3359,
+        "wakeUpLatencySeconds": 5999.775856892353,
+        "numOutOfBedEvents": 4044,
+        "sleepLatencySeconds": 1818.3310137787726
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 6547.200141197802,
+        "asleepStateSeconds": 8154.209223966216,
+        "numRemEvents": 5539,
+        "remSleepStateSeconds": 4351.15440755569,
+        "deepSleepStateSeconds": 233.38094650529217
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 3093.4528243751292,
+        "awakeStateSeconds": 6795.885838232962,
+        "longInterruptionSeconds": 5885.128314047053,
+        "numWakeupEvents": 1753,
+        "wakeUpLatencySeconds": 8202.253382864632,
+        "numOutOfBedEvents": 2995,
+        "sleepLatencySeconds": 4760.1163816813105
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3062.009821664844,
+        "asleepStateSeconds": 5967.951099079663,
+        "numRemEvents": 1002,
+        "remSleepStateSeconds": 9675.183541605682,
+        "deepSleepStateSeconds": 8024.827014242416
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 5571.632542681701,
+        "awakeStateSeconds": 230.71646436238947,
+        "longInterruptionSeconds": 7200.424247417195,
+        "numWakeupEvents": 9560,
+        "wakeUpLatencySeconds": 8102.96828829218,
+        "numOutOfBedEvents": 4241,
+        "sleepLatencySeconds": 778.4272754998483
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 9818.157186418312,
+        "asleepStateSeconds": 5387.177441604032,
+        "numRemEvents": 7623,
+        "remSleepStateSeconds": 7022.046658606392,
+        "deepSleepStateSeconds": 7065.9629190276155
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 1180.5562464811117,
+        "awakeStateSeconds": 4118.038072001452,
+        "longInterruptionSeconds": 4387.243829166661,
+        "numWakeupEvents": 1952,
+        "wakeUpLatencySeconds": 7447.641001206269,
+        "numOutOfBedEvents": 7234,
+        "sleepLatencySeconds": 5252.93191740336
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 1988.896131069331,
+        "asleepStateSeconds": 9010.309872755019,
+        "numRemEvents": 4735,
+        "remSleepStateSeconds": 1653.981817836329,
+        "deepSleepStateSeconds": 4817.922973364996
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 9223.669725000696,
+        "awakeStateSeconds": 6448.995448512891,
+        "longInterruptionSeconds": 7387.606226553282,
+        "numWakeupEvents": 9825,
+        "wakeUpLatencySeconds": 2496.3789765634597,
+        "numOutOfBedEvents": 2147,
+        "sleepLatencySeconds": 1787.5072387576995
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3154.8180347708853,
+        "asleepStateSeconds": 8352.171021245043,
+        "numRemEvents": 9821,
+        "remSleepStateSeconds": 9318.564754062765,
+        "deepSleepStateSeconds": 9997.249087802955
+      }
+    },
+    {
+      "clientId": 1,
+      "userId": 1000,
+      "deviceId": "64e8f-74bb-4899-8035-c3e893",
+      "provider": "COROS",
+      "dataType": "SLEEP",
+      "metadata": {
+        "startTime": "2023-03-01T07:00:00.387Z",
+        "endTime": "2023-03-01T09:00:00.387Z"
+      },
+      "createdAt": "2023-06-26T11:09:42.157Z",
+      "awakeDuration": {
+        "shortInterruptionSeconds": 7142.664777618362,
+        "awakeStateSeconds": 3075.3894152971593,
+        "longInterruptionSeconds": 9718.961639475652,
+        "numWakeupEvents": 5353,
+        "wakeUpLatencySeconds": 3584.3940707400675,
+        "numOutOfBedEvents": 351,
+        "sleepLatencySeconds": 1538.9272724388668
+      },
+      "asleepDuration": {
+        "lightSleepStateSeconds": 3508.51032087793,
+        "asleepStateSeconds": 648.9259616107764,
+        "numRemEvents": 941,
+        "remSleepStateSeconds": 3010.4638599278483,
+        "deepSleepStateSeconds": 7899.308205326391
+      }
+    }
+  ]
+}

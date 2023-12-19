@@ -1,0 +1,2931 @@
+{
+  "type": "activity",
+  "data": [
+    {
+      "metadata": {
+        "name": "JTHHLX",
+        "country": "NZRO",
+        "state": "DSVWEFXVZF",
+        "type": 6201,
+        "city": "PKRPLIRESU",
+        "summary_id": "TXIMX",
+        "upload_type": 210,
+        "end_time": "2023-03-10T11:55:11.795484+00:00",
+        "start_time": "2023-03-10T00:22:17.795484+00:00"
+      },
+      "active_durations_data": {
+        "activity_seconds": 6154.016253437602,
+        "rest_seconds": 5626.281109955837,
+        "low_intensity_seconds": 6620.588163160172,
+        "vigorous_intensity_seconds": 3037.792482059774,
+        "inactivity_seconds": 7252.687226218097,
+        "moderate_intensity_seconds": 2606.6742408668933,
+        "num_continuous_inactive_periods": 7588,
+        "activity_levels_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2
+          }
+        ]
+      },
+      "calories_data": {
+        "net_intake_calories": 746.3677054920038,
+        "BMR_calories": 1092.013800690727,
+        "total_burned_calories": 6262.169193011455,
+        "net_activity_calories": 4983.107658744236
+      },
+      "device_data": {
+        "name": "MUF",
+        "manufacturer": "BYGRPXXPR",
+        "hardware_version": "YNSG",
+        "software_version": "RNEH",
+        "activation_timestamp": "QCENXQNGB",
+        "serial_number": "GKTD",
+        "other_devices": [
+          {
+            "name": "WDBUPDQW",
+            "manufacturer": "KNGUW",
+            "serial_number": "BOZXQCE",
+            "software_version": "NYCZPGV",
+            "hardware_version": "EAYZ"
+          },
+          {
+            "name": "IWKR",
+            "manufacturer": "GLNGF",
+            "serial_number": "VOBFOVX",
+            "software_version": "EVAH",
+            "hardware_version": "ZRJVTPJ"
+          }
+        ]
+      },
+      "distance_data": {
+        "summary": {
+          "steps": 2952,
+          "swimming": {
+            "num_strokes": 5031,
+            "num_laps": 6356,
+            "pool_length_meters": 7953.613982510042
+          },
+          "elevation": {
+            "loss_actual_meters": 392.64638816349714,
+            "min_meters": 8736.452200647258,
+            "avg_meters": 1858.1045048340027,
+            "gain_actual_meters": 8711.497480479795,
+            "max_meters": 8603.960432625856,
+            "gain_planned_meters": 8565.405257998707
+          },
+          "floors_climbed": 3478,
+          "distance_meters": 8340.388390090753
+        },
+        "detailed": {
+          "distance_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 7937.20827319731,
+              "timer_duration_seconds": 3703.8435964512514
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 1609.2440334102312,
+              "timer_duration_seconds": 4063.3438028600767
+            }
+          ],
+          "elevation_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 6232.027693826911,
+              "timer_duration_seconds": 820.823253665177
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 5572.665478245734,
+              "timer_duration_seconds": 8402.26347864913
+            }
+          ],
+          "step_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 1910,
+              "timer_duration_seconds": 2265.9098772229986
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 8114,
+              "timer_duration_seconds": 2864.7900088674087
+            }
+          ],
+          "floors_climbed_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 8838.78516336938,
+              "timer_duration_seconds": 5519.04694951994
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 3182.555129962362,
+              "timer_duration_seconds": 6957.437549641519
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 1435.5191263643467,
+              "timer_duration_seconds": 6604.945414338141
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 4600.251322544489,
+              "timer_duration_seconds": 2469.0023930435605
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 3972.377645174665,
+              "timer_duration_seconds": 7943.629264838811
+            }
+          ]
+        }
+      },
+      "energy_data": {
+        "energy_kilojoules": 6946.710715931556,
+        "energy_planned_kilojoules": 3435.325597757748
+      },
+      "heart_rate_data": {
+        "summary": {
+          "max_hr_bpm": 8986,
+          "resting_hr_bpm": 7106,
+          "avg_hrv_rmssd": 9328.74027746446,
+          "min_hr_bpm": 5310,
+          "user_max_hr_bpm": 1356,
+          "avg_hrv_sdnn": 4903.070170310368,
+          "avg_hr_bpm": 7044,
+          "hr_zone_data": [
+            {
+              "zone": 8324,
+              "name": "MZU",
+              "start_percentage": 5393.433419543841,
+              "end_percentage": 1744.7274812842313,
+              "duration_seconds": 7463.842217349748
+            },
+            {
+              "zone": 4232,
+              "name": "YQYNDRCZB",
+              "start_percentage": 3855.5980917791485,
+              "end_percentage": 8952.73909777721,
+              "duration_seconds": 5636.44122653717
+            }
+          ]
+        },
+        "detailed": {
+          "hr_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 8390.03824111246
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 632.8362060651066
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 3532.1181540900984
+            }
+          ],
+          "hrv_samples_sdnn": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 6332.0156909131265
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 3992.4668510843767
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 3226.1020883034876
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 4548.915123831913
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 2299.323071371424
+            }
+          ],
+          "hrv_samples_rmssd": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 4639.389554999721
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 9844.032939952318
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 827.1729786177765
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 9527.339411521954
+            }
+          ]
+        }
+      },
+      "lap_data": {
+        "laps": [
+          {
+            "calories": 9495.826750885008,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 8732.257371062482,
+            "total_strokes": 2149.011207482864,
+            "stroke_type": 1792,
+            "avg_speed_meters_per_second": 8078.1816431701955
+          },
+          {
+            "calories": 5131.773253905805,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 6030.082052870522,
+            "total_strokes": 356.99849612068465,
+            "stroke_type": 5914,
+            "avg_speed_meters_per_second": 6973.165362739794
+          }
+        ]
+      },
+      "MET_data": {
+        "num_low_intensity_minutes": 2118.06007741158,
+        "num_high_intensity_minutes": 2909.443855087058,
+        "num_inactive_minutes": 2127.069846138952,
+        "num_moderate_intensity_minutes": 5783.256320090971,
+        "avg_level": 2915.211502840095,
+        "MET_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 936.7639471217732
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 6780.849120773586
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5557.522847942069
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3615.751618132293
+          }
+        ]
+      },
+      "movement_data": {
+        "normalized_speed_meters_per_second": 6803.447247032913,
+        "max_cadence_rpm": 881.1223080777222,
+        "avg_speed_meters_per_second": 6387.852235847183,
+        "avg_pace_minutes_per_kilometer": 6008.344568582308,
+        "max_velocity_meters_per_second": 2738.3164889930144,
+        "max_pace_minutes_per_kilometer": 406.8324114323575,
+        "max_torque_newton_meters": 1017.0365350689077,
+        "avg_cadence_rpm": 8787.389524495362,
+        "avg_velocity_meters_per_second": 4903.122664043293,
+        "avg_torque_newton_meters": 3606.3887766172743,
+        "cadence_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 4160.031567627476,
+            "timer_duration_seconds": 3909.4129476054654
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 4958.124121590857,
+            "timer_duration_seconds": 5977.80558216999
+          }
+        ],
+        "speed_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 3696.638224781142,
+            "timer_duration_seconds": 8614.750191065146
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 5754.6862350726315,
+            "timer_duration_seconds": 8051.217903978677
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 2471.9275081629225,
+            "timer_duration_seconds": 4922.539975601758
+          }
+        ],
+        "max_speed_meters_per_second": 699.3118351849866
+      },
+      "oxygen_data": {
+        "avg_saturation_percentage": 8177.828624773604,
+        "vo2max_ml_per_min_per_kg": 604.8507636448644,
+        "saturation_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 5998.039044909822
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 7638.430815672351
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 3292.0008987872693
+          }
+        ],
+        "vo2_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 7598.292188934703
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 85.83124226034258
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 8309.377933472579
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 1651.5574798050704
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 2800.62880837588
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 2085.586831745594
+          }
+        ]
+      },
+      "polyline_map_data": {
+        "summary_polyline": "FUHWEIOLN"
+      },
+      "position_data": {
+        "centre_pos_lat_lng_deg": [
+          5992.37015325279,
+          1272.1975470153461,
+          8125.136030100912,
+          8376.702216479682,
+          3644.793255135752
+        ],
+        "start_pos_lat_lng_deg": [
+          9477.798951196763,
+          646.1047672426029,
+          1958.8792994139335,
+          8544.408013513657,
+          9035.123643648412,
+          2237.749549610051
+        ],
+        "end_pos_lat_lng_deg": [
+          1122.6364284585466,
+          6317.6154904210825,
+          5066.595124122466,
+          6490.339828546167
+        ],
+        "position_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              2566.937411562341,
+              6082.405783186319,
+              6973.982845183583,
+              8390.581069584576,
+              902.8960047705109,
+              9568.63905909836
+            ],
+            "timer_duration_seconds": 5695.252619927941
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              3773.375471038751,
+              5160.163541398039,
+              1262.5295133580744,
+              4219.796724969037
+            ],
+            "timer_duration_seconds": 9030.295085069843
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              9443.002504302649,
+              5419.785244218027,
+              3440.8031274876435,
+              1639.6806346119404
+            ],
+            "timer_duration_seconds": 1060.5934053993562
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              5813.768627279315,
+              473.5180703502905,
+              5168.29337257038,
+              1944.9940303801402,
+              4008.8913369530424,
+              3776.8477591397855
+            ],
+            "timer_duration_seconds": 1869.2034613511205
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              9145.84607201704,
+              7467.7405301982735,
+              3504.2324526106377
+            ],
+            "timer_duration_seconds": 9669.7892222265
+          }
+        ]
+      },
+      "power_data": {
+        "max_watts": 5868.29656329269,
+        "avg_watts": 4491.8353833202145,
+        "power_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 4664.029916825348,
+            "timer_duration_seconds": 8434.310444568724
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 4003.6947266998704,
+            "timer_duration_seconds": 2683.2108240924426
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 383.2525310742828,
+            "timer_duration_seconds": 4785.311894675025
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 5354.813825919788,
+            "timer_duration_seconds": 2818.1437826400306
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 17.2053917957718,
+            "timer_duration_seconds": 2106.4286406386805
+          }
+        ]
+      },
+      "strain_data": {
+        "strain_level": 9457.537608954033
+      },
+      "TSS_data": {
+        "TSS_samples": [
+          {
+            "planned": 8106.726387988766,
+            "actual": 5808.504742325567,
+            "method": "CYKSV",
+            "intensity_factor_planned": 84.56554175893172,
+            "intensity_factor_actual": 5783.846868723349,
+            "normalized_power_watts": 2596.412571601732
+          },
+          {
+            "planned": 6050.4920545987525,
+            "actual": 2286.400616574071,
+            "method": "NPS",
+            "intensity_factor_planned": 1292.0864618522432,
+            "intensity_factor_actual": 8341.795457315533,
+            "normalized_power_watts": 7052.0836920013035
+          },
+          {
+            "planned": 5041.469333276624,
+            "actual": 7864.89887589474,
+            "method": "MNINWBO",
+            "intensity_factor_planned": 243.68967210904614,
+            "intensity_factor_actual": 1264.7115493840154,
+            "normalized_power_watts": 9126.04170752059
+          },
+          {
+            "planned": 3877.879554631113,
+            "actual": 2125.3440621864193,
+            "method": "HUKBC",
+            "intensity_factor_planned": 4120.541940991636,
+            "intensity_factor_actual": 7273.02768708445,
+            "normalized_power_watts": 8363.299785678377
+          }
+        ]
+      },
+      "work_data": {
+        "work_kilojoules": 9386.066293320515
+      }
+    },
+    {
+      "metadata": {
+        "name": "BLVTXP",
+        "country": "WBRM",
+        "state": "PINHNPR",
+        "type": 930,
+        "city": "DPY",
+        "summary_id": "VEMDXHBR",
+        "upload_type": 1808,
+        "end_time": "2023-03-10T11:55:11.795484+00:00",
+        "start_time": "2023-03-10T00:22:17.795484+00:00"
+      },
+      "active_durations_data": {
+        "activity_seconds": 3043.3767934481275,
+        "rest_seconds": 5165.378261959262,
+        "low_intensity_seconds": 9147.811209256526,
+        "vigorous_intensity_seconds": 749.0445960277837,
+        "inactivity_seconds": 1140.8698585399843,
+        "moderate_intensity_seconds": 1166.8211700872318,
+        "num_continuous_inactive_periods": 4313,
+        "activity_levels_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 4
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5
+          }
+        ]
+      },
+      "calories_data": {
+        "net_intake_calories": 7276.403070780915,
+        "BMR_calories": 4698.959366305867,
+        "total_burned_calories": 9374.493394372086,
+        "net_activity_calories": 3162.059404985
+      },
+      "device_data": {
+        "name": "SSXBRMLIM",
+        "manufacturer": "NHDBAVSCV",
+        "hardware_version": "DZWBDADRB",
+        "software_version": "BNA",
+        "activation_timestamp": "MNZTSNXYAN",
+        "serial_number": "NHBHK",
+        "other_devices": [
+          {
+            "name": "CEEOTO",
+            "manufacturer": "JQFK",
+            "serial_number": "NTKX",
+            "software_version": "SDDLNWS",
+            "hardware_version": "VPRUOA"
+          },
+          {
+            "name": "XWAKGX",
+            "manufacturer": "OJT",
+            "serial_number": "WVPDK",
+            "software_version": "JANXR",
+            "hardware_version": "QGEBHV"
+          }
+        ]
+      },
+      "distance_data": {
+        "summary": {
+          "steps": 9558,
+          "swimming": {
+            "num_strokes": 644,
+            "num_laps": 695,
+            "pool_length_meters": 8961.652898654376
+          },
+          "elevation": {
+            "loss_actual_meters": 4079.0812732682907,
+            "min_meters": 4873.00885758741,
+            "avg_meters": 1300.7703735257057,
+            "gain_actual_meters": 406.6964983443933,
+            "max_meters": 2540.275244457678,
+            "gain_planned_meters": 4950.369849316337
+          },
+          "floors_climbed": 4525,
+          "distance_meters": 8843.452936843985
+        },
+        "detailed": {
+          "distance_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 4055.039034575571,
+              "timer_duration_seconds": 9626.108306075665
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 2843.13196527459,
+              "timer_duration_seconds": 8580.428317657455
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 7539.132808343725,
+              "timer_duration_seconds": 5562.808734206759
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 552.6944891918895,
+              "timer_duration_seconds": 155.7138506992418
+            }
+          ],
+          "elevation_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 9135.568236819236,
+              "timer_duration_seconds": 7770.409215412296
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 4521.36557703973,
+              "timer_duration_seconds": 3558.816889530246
+            }
+          ],
+          "step_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 6816,
+              "timer_duration_seconds": 822.3472894308371
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 4860,
+              "timer_duration_seconds": 3476.9220460339066
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 3617,
+              "timer_duration_seconds": 3354.7405367308397
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 3156,
+              "timer_duration_seconds": 607.0908985017983
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 5939,
+              "timer_duration_seconds": 9251.468359860244
+            }
+          ],
+          "floors_climbed_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 8442.633369801011,
+              "timer_duration_seconds": 4235.705600735586
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 5080.9408904528245,
+              "timer_duration_seconds": 4230.296795524654
+            }
+          ]
+        }
+      },
+      "energy_data": {
+        "energy_kilojoules": 8182.465028005936,
+        "energy_planned_kilojoules": 7973.983342872696
+      },
+      "heart_rate_data": {
+        "summary": {
+          "max_hr_bpm": 9019,
+          "resting_hr_bpm": 1284,
+          "avg_hrv_rmssd": 719.8439992639537,
+          "min_hr_bpm": 7764,
+          "user_max_hr_bpm": 2520,
+          "avg_hrv_sdnn": 2609.0374798746006,
+          "avg_hr_bpm": 1841,
+          "hr_zone_data": [
+            {
+              "zone": 6360,
+              "name": "PLEMD",
+              "start_percentage": 2179.337319901113,
+              "end_percentage": 8630.383681046946,
+              "duration_seconds": 8347.078569151045
+            },
+            {
+              "zone": 9000,
+              "name": "HQV",
+              "start_percentage": 5960.859194780548,
+              "end_percentage": 8055.524257533469,
+              "duration_seconds": 113.7381128432747
+            },
+            {
+              "zone": 5976,
+              "name": "NLK",
+              "start_percentage": 3332.3659908748095,
+              "end_percentage": 9861.264680720007,
+              "duration_seconds": 4696.167042803662
+            },
+            {
+              "zone": 470,
+              "name": "BVBY",
+              "start_percentage": 9417.18793247061,
+              "end_percentage": 9684.413435807823,
+              "duration_seconds": 872.5448403932228
+            },
+            {
+              "zone": 8458,
+              "name": "UBLIME",
+              "start_percentage": 8945.340362060597,
+              "end_percentage": 6037.425007003234,
+              "duration_seconds": 4193.216465906923
+            },
+            {
+              "zone": 7010,
+              "name": "KDE",
+              "start_percentage": 7785.908825263269,
+              "end_percentage": 4795.479704435504,
+              "duration_seconds": 2295.6795062436136
+            }
+          ]
+        },
+        "detailed": {
+          "hr_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 6193.963660206419
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 5013.985026682779
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 8112.35791905533
+            }
+          ],
+          "hrv_samples_sdnn": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 2065.279664978917
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 8413.74741768256
+            }
+          ],
+          "hrv_samples_rmssd": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 9821.01025783475
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 6919.25614294377
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 4903.187712400178
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 5242.265924938993
+            }
+          ]
+        }
+      },
+      "lap_data": {
+        "laps": [
+          {
+            "calories": 6210.546147980701,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 6106.327695037767,
+            "total_strokes": 176.82130831406576,
+            "stroke_type": 503,
+            "avg_speed_meters_per_second": 7906.49839966762
+          },
+          {
+            "calories": 8961.81785902853,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 66.43532762131285,
+            "total_strokes": 275.8820641230218,
+            "stroke_type": 4139,
+            "avg_speed_meters_per_second": 855.6819849924653
+          },
+          {
+            "calories": 9013.426163698827,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 552.7100617316216,
+            "total_strokes": 5368.38193226419,
+            "stroke_type": 6444,
+            "avg_speed_meters_per_second": 3162.6836575711186
+          },
+          {
+            "calories": 5838.139488804968,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 6168.911313189672,
+            "total_strokes": 5071.161049329171,
+            "stroke_type": 308,
+            "avg_speed_meters_per_second": 5277.239417053329
+          },
+          {
+            "calories": 3421.2332760689787,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 9002.659987736924,
+            "total_strokes": 889.1176708201042,
+            "stroke_type": 1318,
+            "avg_speed_meters_per_second": 3789.9610620645153
+          },
+          {
+            "calories": 596.1947564303935,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 6749.153994972957,
+            "total_strokes": 9563.502445715167,
+            "stroke_type": 8682,
+            "avg_speed_meters_per_second": 9682.214982230778
+          }
+        ]
+      },
+      "MET_data": {
+        "num_low_intensity_minutes": 1793.6761540412551,
+        "num_high_intensity_minutes": 2762.3694330948215,
+        "num_inactive_minutes": 9870.564306309427,
+        "num_moderate_intensity_minutes": 1889.4406924448406,
+        "avg_level": 9824.765454655242,
+        "MET_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3646.470161357439
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 9650.745867612954
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 962.3272254883935
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 4682.038339732796
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5798.239984112736
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2385.3420768509777
+          }
+        ]
+      },
+      "movement_data": {
+        "normalized_speed_meters_per_second": 8875.968099060281,
+        "max_cadence_rpm": 2055.765958751938,
+        "avg_speed_meters_per_second": 5513.503470301436,
+        "avg_pace_minutes_per_kilometer": 49.3865002549302,
+        "max_velocity_meters_per_second": 6916.313156655826,
+        "max_pace_minutes_per_kilometer": 4041.8008400770445,
+        "max_torque_newton_meters": 809.1112902485576,
+        "avg_cadence_rpm": 1348.4290252647222,
+        "avg_velocity_meters_per_second": 1928.5931046050544,
+        "avg_torque_newton_meters": 8175.194256378864,
+        "cadence_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 1167.099544686279,
+            "timer_duration_seconds": 2907.3168171281113
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 5766.349886611667,
+            "timer_duration_seconds": 9991.076623353598
+          }
+        ],
+        "speed_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 9568.667714384592,
+            "timer_duration_seconds": 8247.995036181019
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 5314.046190504597,
+            "timer_duration_seconds": 9243.059073729455
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 5154.4673149292385,
+            "timer_duration_seconds": 4975.367386990611
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 3522.8419562990557,
+            "timer_duration_seconds": 6957.315470202897
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 9821.890799920131,
+            "timer_duration_seconds": 1205.90290801589
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 3970.7446821718595,
+            "timer_duration_seconds": 5921.831036588942
+          }
+        ],
+        "max_speed_meters_per_second": 7034.253754616624
+      },
+      "oxygen_data": {
+        "avg_saturation_percentage": 1240.9364625626042,
+        "vo2max_ml_per_min_per_kg": 1399.1902683606634,
+        "saturation_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 1754.2544532836255
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 5082.880410339039
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 3369.240510240379
+          }
+        ],
+        "vo2_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 8832.275736235495
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 9070.633089875273
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 4313.948505946866
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 6198.696442389997
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 1996.2497952547296
+          }
+        ]
+      },
+      "polyline_map_data": {
+        "summary_polyline": "GRZHS"
+      },
+      "position_data": {
+        "centre_pos_lat_lng_deg": [
+          2902.7684329434273,
+          8474.140696885277,
+          3375.4523320642697,
+          3590.975507793622,
+          2552.095095711999,
+          8956.829317733213
+        ],
+        "start_pos_lat_lng_deg": [
+          3639.4450930866883,
+          1666.8124133320862
+        ],
+        "end_pos_lat_lng_deg": [
+          1770.6867366340723,
+          4197.913013334396,
+          9224.389263902596,
+          109.19722476771837,
+          6325.73981017056,
+          5440.843072216133
+        ],
+        "position_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              3135.9107822014207,
+              5411.362620470923,
+              387.3801840708087,
+              7098.223927622793,
+              9181.792593447399,
+              5826.5097892880085
+            ],
+            "timer_duration_seconds": 8354.70441752171
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              4356.461822544222,
+              3453.6730694078124,
+              8904.375341728219
+            ],
+            "timer_duration_seconds": 3835.2413004506698
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              6186.077946307638,
+              2988.41970435443,
+              8577.857592518623,
+              8453.68511779532,
+              8554.008361577855,
+              2757.1837119409797
+            ],
+            "timer_duration_seconds": 6610.265925119698
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              6807.25283613188,
+              5055.738842075362,
+              9401.342526804918,
+              4562.613249603288,
+              3557.982028375244
+            ],
+            "timer_duration_seconds": 4036.189289419556
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              4241.834964761757,
+              4070.9934636754783,
+              309.7895688003228,
+              12.072053690811888,
+              6254.439239345148
+            ],
+            "timer_duration_seconds": 7233.909690385403
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              3025.207731414105,
+              5108.818778612398,
+              1513.7015549921612,
+              7033.8490783618945,
+              4314.251668155765,
+              5784.561950244261
+            ],
+            "timer_duration_seconds": 9090.439415683613
+          }
+        ]
+      },
+      "power_data": {
+        "max_watts": 6949.678299447146,
+        "avg_watts": 8455.741425238635,
+        "power_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 8471.436665329578,
+            "timer_duration_seconds": 6766.025256123383
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 1321.581505263422,
+            "timer_duration_seconds": 2601.915738087314
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 4806.984600140681,
+            "timer_duration_seconds": 304.9611476946943
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 4742.457890289521,
+            "timer_duration_seconds": 5975.111869105504
+          }
+        ]
+      },
+      "strain_data": {
+        "strain_level": 2752.4257940442626
+      },
+      "TSS_data": {
+        "TSS_samples": [
+          {
+            "planned": 8777.086502011363,
+            "actual": 848.5766215310965,
+            "method": "GTOLADZEUC",
+            "intensity_factor_planned": 9444.134266939656,
+            "intensity_factor_actual": 9992.756670090976,
+            "normalized_power_watts": 7635.814737917013
+          },
+          {
+            "planned": 6363.52724414791,
+            "actual": 3796.2171041915117,
+            "method": "QCCA",
+            "intensity_factor_planned": 848.4497793021352,
+            "intensity_factor_actual": 8711.89076060076,
+            "normalized_power_watts": 6241.809281070762
+          },
+          {
+            "planned": 4919.789440211049,
+            "actual": 6691.067442089823,
+            "method": "EWFMA",
+            "intensity_factor_planned": 2722.283163632866,
+            "intensity_factor_actual": 2213.1273532534005,
+            "normalized_power_watts": 9561.611114475627
+          },
+          {
+            "planned": 8729.22154179903,
+            "actual": 8016.364025241976,
+            "method": "GNGRWZHDSJ",
+            "intensity_factor_planned": 2228.156532648962,
+            "intensity_factor_actual": 1007.7461281745583,
+            "normalized_power_watts": 8508.179761392454
+          }
+        ]
+      },
+      "work_data": {
+        "work_kilojoules": 2519.7742107773174
+      }
+    },
+    {
+      "metadata": {
+        "name": "WMEAYXWN",
+        "country": "PQJUH",
+        "state": "XHKTYOF",
+        "type": 9518,
+        "city": "LWRZFHCE",
+        "summary_id": "AUPNIDZIPO",
+        "upload_type": 1732,
+        "end_time": "2023-03-10T11:55:11.795484+00:00",
+        "start_time": "2023-03-10T00:22:17.795484+00:00"
+      },
+      "active_durations_data": {
+        "activity_seconds": 7136.810305234163,
+        "rest_seconds": 9291.953668205942,
+        "low_intensity_seconds": 7957.75268428199,
+        "vigorous_intensity_seconds": 9561.34034190079,
+        "inactivity_seconds": 1039.0677452351233,
+        "moderate_intensity_seconds": 5658.431007513722,
+        "num_continuous_inactive_periods": 1707,
+        "activity_levels_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 4
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5
+          }
+        ]
+      },
+      "calories_data": {
+        "net_intake_calories": 8052.779712788941,
+        "BMR_calories": 2454.7413653792632,
+        "total_burned_calories": 7743.769829023064,
+        "net_activity_calories": 9381.626216814524
+      },
+      "device_data": {
+        "name": "QLXORYVBFW",
+        "manufacturer": "DHWWFWCB",
+        "hardware_version": "PNHCPLUEG",
+        "software_version": "SHDIV",
+        "activation_timestamp": "BSKNUPL",
+        "serial_number": "FVHEWRGON",
+        "other_devices": [
+          {
+            "name": "JTIF",
+            "manufacturer": "MTOLKJEZXT",
+            "serial_number": "SYCZRVO",
+            "software_version": "AGRWMHO",
+            "hardware_version": "DXRVGLJAO"
+          },
+          {
+            "name": "VDEZMSBXCX",
+            "manufacturer": "UYNWWSYG",
+            "serial_number": "JIVLNXZLCC",
+            "software_version": "HRFFRVQ",
+            "hardware_version": "SYJRWYE"
+          },
+          {
+            "name": "OVWDJAZV",
+            "manufacturer": "SLNW",
+            "serial_number": "VEBGRA",
+            "software_version": "LJHOTP",
+            "hardware_version": "LKAOB"
+          },
+          {
+            "name": "WYQJGFI",
+            "manufacturer": "VURM",
+            "serial_number": "FRKASNCQJ",
+            "software_version": "KDJKEQOMBG",
+            "hardware_version": "SDOMB"
+          },
+          {
+            "name": "YBSKFQQ",
+            "manufacturer": "EZKEY",
+            "serial_number": "OABS",
+            "software_version": "UJMDUIQ",
+            "hardware_version": "YRHK"
+          }
+        ]
+      },
+      "distance_data": {
+        "summary": {
+          "steps": 4776,
+          "swimming": {
+            "num_strokes": 1748,
+            "num_laps": 189,
+            "pool_length_meters": 3778.533929715308
+          },
+          "elevation": {
+            "loss_actual_meters": 4298.784468508507,
+            "min_meters": 9723.782855107613,
+            "avg_meters": 6696.915545532774,
+            "gain_actual_meters": 6025.9251602012955,
+            "max_meters": 236.7975713332972,
+            "gain_planned_meters": 4480.791709443189
+          },
+          "floors_climbed": 1853,
+          "distance_meters": 65.55175414949962
+        },
+        "detailed": {
+          "distance_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 8315.382223668645,
+              "timer_duration_seconds": 6726.099440219525
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 8703.124329650986,
+              "timer_duration_seconds": 2509.0921223010323
+            }
+          ],
+          "elevation_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 1631.5893307017952,
+              "timer_duration_seconds": 9973.4597143258
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 9911.441816598339,
+              "timer_duration_seconds": 4412.843487757943
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 469.05418638622206,
+              "timer_duration_seconds": 2861.9170797205697
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 4127.131431159784,
+              "timer_duration_seconds": 9211.9847921225
+            }
+          ],
+          "step_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 1123,
+              "timer_duration_seconds": 7532.892382828508
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 8439,
+              "timer_duration_seconds": 2662.716022461366
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 2025,
+              "timer_duration_seconds": 7921.879337629066
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 9915,
+              "timer_duration_seconds": 4781.598327418044
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 5499,
+              "timer_duration_seconds": 1508.9463971783916
+            }
+          ],
+          "floors_climbed_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 2830.7804729144636,
+              "timer_duration_seconds": 9226.656215942321
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 7785.60352903397,
+              "timer_duration_seconds": 5875.215491990244
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 5402.007655386193,
+              "timer_duration_seconds": 5138.444148407663
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 4149.148729128241,
+              "timer_duration_seconds": 9366.123411553202
+            }
+          ]
+        }
+      },
+      "energy_data": {
+        "energy_kilojoules": 5622.2757046004945,
+        "energy_planned_kilojoules": 5516.892127421087
+      },
+      "heart_rate_data": {
+        "summary": {
+          "max_hr_bpm": 4238,
+          "resting_hr_bpm": 2327,
+          "avg_hrv_rmssd": 6540.0475003675365,
+          "min_hr_bpm": 62,
+          "user_max_hr_bpm": 1485,
+          "avg_hrv_sdnn": 3639.978553178791,
+          "avg_hr_bpm": 4941,
+          "hr_zone_data": [
+            {
+              "zone": 7386,
+              "name": "MROFMUETK",
+              "start_percentage": 4514.6413270497505,
+              "end_percentage": 255.4231811023383,
+              "duration_seconds": 2401.433176740758
+            },
+            {
+              "zone": 557,
+              "name": "RQSOZKFX",
+              "start_percentage": 3845.8865382189106,
+              "end_percentage": 6083.5832650960465,
+              "duration_seconds": 4593.194432282353
+            }
+          ]
+        },
+        "detailed": {
+          "hr_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 4594.516199460473
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 9239.434094589118
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 8189.13399469079
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 1870.4303085451652
+            }
+          ],
+          "hrv_samples_sdnn": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 7784.803019435765
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 3808.594029449064
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 7742.844980913162
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 6059.867833150286
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 1438.1572938560391
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 9490.881200238538
+            }
+          ],
+          "hrv_samples_rmssd": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 5861.5417804
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 2077.6724650352626
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 4705.287251691883
+            }
+          ]
+        }
+      },
+      "lap_data": {
+        "laps": [
+          {
+            "calories": 9178.022808099651,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 5986.285416985374,
+            "total_strokes": 3150.7866220642995,
+            "stroke_type": 9267,
+            "avg_speed_meters_per_second": 698.4568314901442
+          },
+          {
+            "calories": 9248.95132914038,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 7880.031719075865,
+            "total_strokes": 867.2333551333016,
+            "stroke_type": 520,
+            "avg_speed_meters_per_second": 4098.022340499101
+          },
+          {
+            "calories": 6051.773088241432,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 6188.576037631987,
+            "total_strokes": 8937.36899448894,
+            "stroke_type": 5507,
+            "avg_speed_meters_per_second": 7785.711440851893
+          }
+        ]
+      },
+      "MET_data": {
+        "num_low_intensity_minutes": 6498.74931477188,
+        "num_high_intensity_minutes": 2836.116952101691,
+        "num_inactive_minutes": 3972.536820193315,
+        "num_moderate_intensity_minutes": 6514.453995009499,
+        "avg_level": 6514.551684700968,
+        "MET_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1429.9586093595597
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5231.660356162663
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5382.4883911689085
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 306.5171208548895
+          }
+        ]
+      },
+      "movement_data": {
+        "normalized_speed_meters_per_second": 363.7447243874078,
+        "max_cadence_rpm": 8524.67837713875,
+        "avg_speed_meters_per_second": 4322.363872389909,
+        "avg_pace_minutes_per_kilometer": 1706.3540115882336,
+        "max_velocity_meters_per_second": 9328.140503965744,
+        "max_pace_minutes_per_kilometer": 3731.3620001262343,
+        "max_torque_newton_meters": 2523.746994501234,
+        "avg_cadence_rpm": 2387.9752922274292,
+        "avg_velocity_meters_per_second": 3586.6231205460217,
+        "avg_torque_newton_meters": 6966.813227721764,
+        "cadence_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 5925.942957247013,
+            "timer_duration_seconds": 1062.7881342804128
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 8111.2199544381665,
+            "timer_duration_seconds": 6092.708511358856
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 2473.97409140181,
+            "timer_duration_seconds": 2932.459118419869
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 3529.1938603746776,
+            "timer_duration_seconds": 4460.117693305884
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 7285.791341745006,
+            "timer_duration_seconds": 96.83867584049116
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 4965.484654861641,
+            "timer_duration_seconds": 6585.92119012894
+          }
+        ],
+        "speed_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 6189.787663544698,
+            "timer_duration_seconds": 8967.139088592263
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 4461.089534049327,
+            "timer_duration_seconds": 9739.126067152587
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 8150.493982565292,
+            "timer_duration_seconds": 8619.309404752676
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 4892.44358040453,
+            "timer_duration_seconds": 3543.713758000866
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 9711.043363252733,
+            "timer_duration_seconds": 7310.31529610302
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 3024.7066630775707,
+            "timer_duration_seconds": 4796.136108988122
+          }
+        ],
+        "max_speed_meters_per_second": 8502.472569812504
+      },
+      "oxygen_data": {
+        "avg_saturation_percentage": 4484.138561648887,
+        "vo2max_ml_per_min_per_kg": 6920.741070323628,
+        "saturation_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 7108.876366122378
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 29.504923917495184
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 4678.243147569696
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 1043.755928624724
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 9093.424944779785
+          }
+        ],
+        "vo2_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 2355.940333038677
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 9190.103470358881
+          }
+        ]
+      },
+      "polyline_map_data": {
+        "summary_polyline": "JDMACSAT"
+      },
+      "position_data": {
+        "centre_pos_lat_lng_deg": [
+          7598.926267309307,
+          4807.32010769166,
+          4835.779237490183,
+          7615.865179532446,
+          1242.6457843938833,
+          7436.415949528497
+        ],
+        "start_pos_lat_lng_deg": [
+          340.0163818396852,
+          3502.8812887691597
+        ],
+        "end_pos_lat_lng_deg": [
+          5557.294296641359,
+          3451.932124256632,
+          7161.443987727313,
+          8133.907357129703,
+          8891.570795909722,
+          4252.300452753386
+        ],
+        "position_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              8024.315733047899,
+              3081.3552625616067
+            ],
+            "timer_duration_seconds": 5501.858419315582
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              4752.553465267613,
+              1200.655158108318,
+              9017.576272345908,
+              1300.1608142627445
+            ],
+            "timer_duration_seconds": 1974.6684573971734
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              346.8347894759243,
+              819.684198346353,
+              392.5361414291467,
+              550.554872417064,
+              7852.024165444295,
+              2601.6845282890595
+            ],
+            "timer_duration_seconds": 6851.751591130631
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              6596.466558820381,
+              3978.3392857100725,
+              5996.270255365931,
+              3128.8243992337043,
+              8346.270234309084,
+              9102.83240553861
+            ],
+            "timer_duration_seconds": 1453.5883549697444
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              5884.293041432928,
+              2384.372076736563,
+              8537.502766124517
+            ],
+            "timer_duration_seconds": 7397.442082668231
+          }
+        ]
+      },
+      "power_data": {
+        "max_watts": 1579.7808712231501,
+        "avg_watts": 170.74578933971762,
+        "power_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 409.9697008475558,
+            "timer_duration_seconds": 2381.7711474596463
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 3174.5644493629566,
+            "timer_duration_seconds": 474.3376695320495
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 8905.575406479862,
+            "timer_duration_seconds": 3350.775066349905
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 534.0281592848967,
+            "timer_duration_seconds": 9932.39000620885
+          }
+        ]
+      },
+      "strain_data": {
+        "strain_level": 9847.443106778306
+      },
+      "TSS_data": {
+        "TSS_samples": [
+          {
+            "planned": 757.0213930177673,
+            "actual": 9578.638398460485,
+            "method": "GBUEJR",
+            "intensity_factor_planned": 1115.7603539675724,
+            "intensity_factor_actual": 5209.828591675906,
+            "normalized_power_watts": 4887.782963487262
+          },
+          {
+            "planned": 2766.934844963057,
+            "actual": 4011.8005596257517,
+            "method": "MIEXAYPRT",
+            "intensity_factor_planned": 8134.474894433088,
+            "intensity_factor_actual": 7384.953968391312,
+            "normalized_power_watts": 577.9713154952509
+          },
+          {
+            "planned": 3878.812431307564,
+            "actual": 9436.470104403248,
+            "method": "WWHWDOJLPL",
+            "intensity_factor_planned": 4857.391233255014,
+            "intensity_factor_actual": 1449.039644056669,
+            "normalized_power_watts": 5850.360218806514
+          },
+          {
+            "planned": 7255.4311430226635,
+            "actual": 3480.692652695184,
+            "method": "FIEMYSJSX",
+            "intensity_factor_planned": 6947.053882447435,
+            "intensity_factor_actual": 3907.6291514736404,
+            "normalized_power_watts": 6007.041118508829
+          },
+          {
+            "planned": 8965.733763739834,
+            "actual": 9616.484150253918,
+            "method": "OFRVLP",
+            "intensity_factor_planned": 4003.866119304659,
+            "intensity_factor_actual": 7345.291623520772,
+            "normalized_power_watts": 9816.333287168849
+          }
+        ]
+      },
+      "work_data": {
+        "work_kilojoules": 6018.527905835356
+      }
+    },
+    {
+      "metadata": {
+        "name": "CAZ",
+        "country": "LKHG",
+        "state": "YYTPEMR",
+        "type": 142,
+        "city": "WRXDO",
+        "summary_id": "XJSNLNFI",
+        "upload_type": 9270,
+        "end_time": "2023-03-10T11:55:11.795484+00:00",
+        "start_time": "2023-03-10T00:22:17.795484+00:00"
+      },
+      "active_durations_data": {
+        "activity_seconds": 7582.185863562961,
+        "rest_seconds": 6381.590022000217,
+        "low_intensity_seconds": 4961.517112827531,
+        "vigorous_intensity_seconds": 2703.027455056218,
+        "inactivity_seconds": 5411.461066326621,
+        "moderate_intensity_seconds": 6520.545763635674,
+        "num_continuous_inactive_periods": 9501,
+        "activity_levels_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 4
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5
+          }
+        ]
+      },
+      "calories_data": {
+        "net_intake_calories": 3566.2843396949556,
+        "BMR_calories": 6413.128673574543,
+        "total_burned_calories": 5233.040320785946,
+        "net_activity_calories": 4376.0634946207765
+      },
+      "device_data": {
+        "name": "GMW",
+        "manufacturer": "GNKEQ",
+        "hardware_version": "GODD",
+        "software_version": "OCY",
+        "activation_timestamp": "IJUMBD",
+        "serial_number": "VYXBAMS",
+        "other_devices": [
+          {
+            "name": "OEZKKCY",
+            "manufacturer": "WPTPJFOM",
+            "serial_number": "RDJ",
+            "software_version": "IDIXYVL",
+            "hardware_version": "VDWIVXUC"
+          },
+          {
+            "name": "UTBDGW",
+            "manufacturer": "CQZZYKJ",
+            "serial_number": "VOGC",
+            "software_version": "UPKQIZ",
+            "hardware_version": "ZSZCQXZ"
+          },
+          {
+            "name": "QFLA",
+            "manufacturer": "XKOODGNC",
+            "serial_number": "TVLTKWJL",
+            "software_version": "KPIJEWAPP",
+            "hardware_version": "OEZMWM"
+          },
+          {
+            "name": "HDKMS",
+            "manufacturer": "GOGCQLCAQ",
+            "serial_number": "SOG",
+            "software_version": "GIMSKAB",
+            "hardware_version": "ANTU"
+          },
+          {
+            "name": "UJQOIT",
+            "manufacturer": "SHR",
+            "serial_number": "TMVHSGYVLX",
+            "software_version": "CZGSWES",
+            "hardware_version": "CXIEFHE"
+          },
+          {
+            "name": "CJSRTWSL",
+            "manufacturer": "RKQGGGRCEI",
+            "serial_number": "TDSR",
+            "software_version": "WTDHCI",
+            "hardware_version": "ABAF"
+          }
+        ]
+      },
+      "distance_data": {
+        "summary": {
+          "steps": 5396,
+          "swimming": {
+            "num_strokes": 9139,
+            "num_laps": 8229,
+            "pool_length_meters": 9806.397771479285
+          },
+          "elevation": {
+            "loss_actual_meters": 7433.415824896377,
+            "min_meters": 6819.126855988379,
+            "avg_meters": 7579.19647207656,
+            "gain_actual_meters": 5317.412878922207,
+            "max_meters": 5308.250675301981,
+            "gain_planned_meters": 3560.9994943803567
+          },
+          "floors_climbed": 8631,
+          "distance_meters": 2596.9248542604378
+        },
+        "detailed": {
+          "distance_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 148.43164061466956,
+              "timer_duration_seconds": 8992.911457823862
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 500.4530045315553,
+              "timer_duration_seconds": 614.9271607657998
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 3538.458891609387,
+              "timer_duration_seconds": 6606.2715471142665
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 4031.52112547363,
+              "timer_duration_seconds": 9754.013735335342
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 2226.33205735771,
+              "timer_duration_seconds": 4841.777133132699
+            }
+          ],
+          "elevation_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 6946.03631876755,
+              "timer_duration_seconds": 1231.6288756470763
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 421.6078869701851,
+              "timer_duration_seconds": 84.0830795137322
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 2672.8119379621844,
+              "timer_duration_seconds": 7814.379273949767
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 3002.6475407271105,
+              "timer_duration_seconds": 127.66620876791819
+            }
+          ],
+          "step_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 6884,
+              "timer_duration_seconds": 6109.24789084853
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 4988,
+              "timer_duration_seconds": 2540.2337257955874
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 4133,
+              "timer_duration_seconds": 2819.481988933422
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 8868,
+              "timer_duration_seconds": 3504.7980683882265
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 7083,
+              "timer_duration_seconds": 6733.677118938218
+            }
+          ],
+          "floors_climbed_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 8909.926317618734,
+              "timer_duration_seconds": 4803.105393067116
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 7029.405806238587,
+              "timer_duration_seconds": 3048.0422301039816
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 6314.098416302376,
+              "timer_duration_seconds": 4908.460036288193
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 2073.1429745770165,
+              "timer_duration_seconds": 4158.504659087145
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 9074.009242570322,
+              "timer_duration_seconds": 7544.467182659815
+            }
+          ]
+        }
+      },
+      "energy_data": {
+        "energy_kilojoules": 4108.162175489633,
+        "energy_planned_kilojoules": 9745.180494033882
+      },
+      "heart_rate_data": {
+        "summary": {
+          "max_hr_bpm": 752,
+          "resting_hr_bpm": 5481,
+          "avg_hrv_rmssd": 4964.812636519658,
+          "min_hr_bpm": 1198,
+          "user_max_hr_bpm": 7770,
+          "avg_hrv_sdnn": 6673.916770136193,
+          "avg_hr_bpm": 4197,
+          "hr_zone_data": [
+            {
+              "zone": 440,
+              "name": "NXRDUQMAV",
+              "start_percentage": 7599.778607214285,
+              "end_percentage": 2114.1781032657987,
+              "duration_seconds": 9365.634693264557
+            },
+            {
+              "zone": 5576,
+              "name": "QONCELEYQM",
+              "start_percentage": 9491.806236315315,
+              "end_percentage": 6749.6098394867495,
+              "duration_seconds": 2840.9108616241333
+            },
+            {
+              "zone": 1036,
+              "name": "VCC",
+              "start_percentage": 6330.24892602652,
+              "end_percentage": 6119.506290556107,
+              "duration_seconds": 3667.115310848734
+            },
+            {
+              "zone": 6962,
+              "name": "DAOHUIHG",
+              "start_percentage": 5557.250420326425,
+              "end_percentage": 860.1375972776809,
+              "duration_seconds": 558.8163546399234
+            }
+          ]
+        },
+        "detailed": {
+          "hr_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 8671.501661991477
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 1602.7950157069936
+            }
+          ],
+          "hrv_samples_sdnn": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 8471.267170062842
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 2426.3221489924417
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 6445.185439625914
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 9201.252537609893
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 189.55066990876009
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 6722.215283524524
+            }
+          ],
+          "hrv_samples_rmssd": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 7894.212777518883
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 4580.304991083651
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 9806.09760704994
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 297.3355937921672
+            }
+          ]
+        }
+      },
+      "lap_data": {
+        "laps": [
+          {
+            "calories": 2729.635603720195,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 5205.524231742913,
+            "total_strokes": 758.3941397175396,
+            "stroke_type": 6137,
+            "avg_speed_meters_per_second": 3507.593820687878
+          },
+          {
+            "calories": 938.3506649987211,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 2921.6214928279046,
+            "total_strokes": 2156.0190609538677,
+            "stroke_type": 9628,
+            "avg_speed_meters_per_second": 7549.924995813891
+          },
+          {
+            "calories": 6862.223791141557,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 9545.50797855468,
+            "total_strokes": 8314.634173043096,
+            "stroke_type": 8007,
+            "avg_speed_meters_per_second": 4282.00638154338
+          }
+        ]
+      },
+      "MET_data": {
+        "num_low_intensity_minutes": 2143.930584403162,
+        "num_high_intensity_minutes": 7725.371111600328,
+        "num_inactive_minutes": 1992.1625459080105,
+        "num_moderate_intensity_minutes": 1208.5371947808435,
+        "avg_level": 7707.4361171427045,
+        "MET_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 6252.449773462974
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5711.746876474177
+          }
+        ]
+      },
+      "movement_data": {
+        "normalized_speed_meters_per_second": 7654.588579490707,
+        "max_cadence_rpm": 3530.848577037231,
+        "avg_speed_meters_per_second": 8406.570731969034,
+        "avg_pace_minutes_per_kilometer": 5336.058669259834,
+        "max_velocity_meters_per_second": 8566.771048742461,
+        "max_pace_minutes_per_kilometer": 1739.7042933651148,
+        "max_torque_newton_meters": 4083.2378917394853,
+        "avg_cadence_rpm": 8037.466289004775,
+        "avg_velocity_meters_per_second": 8120.76247852754,
+        "avg_torque_newton_meters": 6187.944657513074,
+        "cadence_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 4779.916153588608,
+            "timer_duration_seconds": 3085.2892229179156
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 9311.189402399006,
+            "timer_duration_seconds": 8942.485282572357
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 3374.5618218191844,
+            "timer_duration_seconds": 3469.7287417017096
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 2015.6983058954595,
+            "timer_duration_seconds": 7954.9287968522285
+          }
+        ],
+        "speed_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 5584.654955497793,
+            "timer_duration_seconds": 2464.349742524291
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 6039.513704611832,
+            "timer_duration_seconds": 6518.704657126866
+          }
+        ],
+        "max_speed_meters_per_second": 2059.440249815698
+      },
+      "oxygen_data": {
+        "avg_saturation_percentage": 2615.4776350291568,
+        "vo2max_ml_per_min_per_kg": 7554.777941964929,
+        "saturation_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 167.7854840178331
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 3705.4238234073136
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 7265.1793782884915
+          }
+        ],
+        "vo2_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 9593.359288137512
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 3212.8751564685936
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 4551.620598587913
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 3617.0677764359634
+          }
+        ]
+      },
+      "polyline_map_data": {
+        "summary_polyline": "KTOURJ"
+      },
+      "position_data": {
+        "centre_pos_lat_lng_deg": [
+          2401.7051319947695,
+          9546.335285319987
+        ],
+        "start_pos_lat_lng_deg": [
+          9260.806394925405,
+          3799.175267610935,
+          3365.7850816376304,
+          1533.878820807177,
+          6547.124806525221,
+          1727.543885666774
+        ],
+        "end_pos_lat_lng_deg": [
+          3860.3036089496227,
+          6559.046619949231,
+          1752.9520187554917,
+          315.8524224148359,
+          5841.294243217443,
+          3601.190315011284
+        ],
+        "position_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              7252.997857594372,
+              9292.830774033237,
+              3299.4751766667146,
+              451.56745657963927,
+              6832.845214553917,
+              8375.115677453667
+            ],
+            "timer_duration_seconds": 9788.336072624614
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              8317.384253973252,
+              544.4581350148237,
+              1149.8578634410267
+            ],
+            "timer_duration_seconds": 9766.792001992917
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              7612.039575251643,
+              7150.2547385026555
+            ],
+            "timer_duration_seconds": 3884.6257483700547
+          }
+        ]
+      },
+      "power_data": {
+        "max_watts": 3171.3794037754815,
+        "avg_watts": 5035.72329516341,
+        "power_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 4063.510809568637,
+            "timer_duration_seconds": 5649.5535552178435
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 2384.884972644975,
+            "timer_duration_seconds": 1005.8472829688595
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 2258.1384651087646,
+            "timer_duration_seconds": 2879.9915442161455
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 9422.586826442463,
+            "timer_duration_seconds": 1012.7140777411425
+          }
+        ]
+      },
+      "strain_data": {
+        "strain_level": 7511.610890075682
+      },
+      "TSS_data": {
+        "TSS_samples": [
+          {
+            "planned": 5705.110628194123,
+            "actual": 719.5496332584797,
+            "method": "YORL",
+            "intensity_factor_planned": 4850.664001188005,
+            "intensity_factor_actual": 702.4684780507536,
+            "normalized_power_watts": 8422.064460857862
+          },
+          {
+            "planned": 7299.144596538595,
+            "actual": 9775.302962583888,
+            "method": "BLWDRVN",
+            "intensity_factor_planned": 2161.587666193076,
+            "intensity_factor_actual": 5067.498436998047,
+            "normalized_power_watts": 9128.065722008101
+          },
+          {
+            "planned": 6347.013041667883,
+            "actual": 5864.757857813677,
+            "method": "EWRLRIE",
+            "intensity_factor_planned": 9862.505966532803,
+            "intensity_factor_actual": 9164.750615327568,
+            "normalized_power_watts": 6851.46892835799
+          },
+          {
+            "planned": 6484.760755132755,
+            "actual": 4928.050915052402,
+            "method": "ECRVOVFR",
+            "intensity_factor_planned": 5278.376541059467,
+            "intensity_factor_actual": 6545.461356716976,
+            "normalized_power_watts": 1576.4703051804631
+          }
+        ]
+      },
+      "work_data": {
+        "work_kilojoules": 8999.468893501264
+      }
+    },
+    {
+      "metadata": {
+        "name": "CNWWAGKRO",
+        "country": "DBA",
+        "state": "OSNYQNTERB",
+        "type": 4455,
+        "city": "DQRJVXKJ",
+        "summary_id": "MJC",
+        "upload_type": 864,
+        "end_time": "2023-03-10T11:55:11.795484+00:00",
+        "start_time": "2023-03-10T00:22:17.795484+00:00"
+      },
+      "active_durations_data": {
+        "activity_seconds": 9955.703608722952,
+        "rest_seconds": 6388.031660376216,
+        "low_intensity_seconds": 545.602386635512,
+        "vigorous_intensity_seconds": 9440.144864707267,
+        "inactivity_seconds": 8201.366268258005,
+        "moderate_intensity_seconds": 8049.344261845907,
+        "num_continuous_inactive_periods": 2517,
+        "activity_levels_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 4
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 5
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1
+          }
+        ]
+      },
+      "calories_data": {
+        "net_intake_calories": 6740.59960881927,
+        "BMR_calories": 1935.8456365335148,
+        "total_burned_calories": 8138.236859548514,
+        "net_activity_calories": 2981.6714866566117
+      },
+      "device_data": {
+        "name": "JQD",
+        "manufacturer": "PIDVRMQDXG",
+        "hardware_version": "YWXWKZ",
+        "software_version": "VXTLVHSWC",
+        "activation_timestamp": "WGXSTV",
+        "serial_number": "RWG",
+        "other_devices": [
+          {
+            "name": "GOCLP",
+            "manufacturer": "SQPAMA",
+            "serial_number": "MUFTMQY",
+            "software_version": "DSVBTH",
+            "hardware_version": "IHOYQMZ"
+          },
+          {
+            "name": "IJGIYIPCCY",
+            "manufacturer": "FOTXEAQP",
+            "serial_number": "BCSEUWKY",
+            "software_version": "YKELPGSWC",
+            "hardware_version": "KKWWFFZ"
+          },
+          {
+            "name": "VAQ",
+            "manufacturer": "NLLE",
+            "serial_number": "YPSUB",
+            "software_version": "HVOM",
+            "hardware_version": "XXAYYX"
+          },
+          {
+            "name": "YVDX",
+            "manufacturer": "UCV",
+            "serial_number": "SPN",
+            "software_version": "YIP",
+            "hardware_version": "UULYLBGSF"
+          }
+        ]
+      },
+      "distance_data": {
+        "summary": {
+          "steps": 3647,
+          "swimming": {
+            "num_strokes": 6730,
+            "num_laps": 1181,
+            "pool_length_meters": 9321.758804305318
+          },
+          "elevation": {
+            "loss_actual_meters": 664.8382123404766,
+            "min_meters": 8412.795462133774,
+            "avg_meters": 4421.665177074685,
+            "gain_actual_meters": 710.9726295251852,
+            "max_meters": 4155.05590384665,
+            "gain_planned_meters": 6839.747191693214
+          },
+          "floors_climbed": 5504,
+          "distance_meters": 2350.013862488637
+        },
+        "detailed": {
+          "distance_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 4129.5847414633545,
+              "timer_duration_seconds": 2608.9874597173575
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "distance_meters": 936.5260218555078,
+              "timer_duration_seconds": 8999.841674860154
+            }
+          ],
+          "elevation_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 6632.474970421346,
+              "timer_duration_seconds": 337.3456220874028
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 1394.1664631761205,
+              "timer_duration_seconds": 2762.228193780506
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 8601.028399981085,
+              "timer_duration_seconds": 8188.516964628341
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 2169.834658993567,
+              "timer_duration_seconds": 5302.88177568437
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "elev_meters": 5241.982119989794,
+              "timer_duration_seconds": 207.00842474554304
+            }
+          ],
+          "step_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 8724,
+              "timer_duration_seconds": 5533.903210303957
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 9490,
+              "timer_duration_seconds": 1275.1386194426184
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "steps": 4626,
+              "timer_duration_seconds": 3462.5946279255277
+            }
+          ],
+          "floors_climbed_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 9739.814067209609,
+              "timer_duration_seconds": 278.0219332626005
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 3817.215574456582,
+              "timer_duration_seconds": 514.1397556881874
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 6429.288088506691,
+              "timer_duration_seconds": 3025.6588444543504
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 187.48271150948224,
+              "timer_duration_seconds": 5444.49110608937
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "floors_climbed": 5443.819129858423,
+              "timer_duration_seconds": 1527.194792088312
+            }
+          ]
+        }
+      },
+      "energy_data": {
+        "energy_kilojoules": 9951.464063314537,
+        "energy_planned_kilojoules": 7360.999686206353
+      },
+      "heart_rate_data": {
+        "summary": {
+          "max_hr_bpm": 6760,
+          "resting_hr_bpm": 2119,
+          "avg_hrv_rmssd": 2387.0588734665926,
+          "min_hr_bpm": 6372,
+          "user_max_hr_bpm": 737,
+          "avg_hrv_sdnn": 9403.664995012505,
+          "avg_hr_bpm": 6910,
+          "hr_zone_data": [
+            {
+              "zone": 9997,
+              "name": "RLGYYDUK",
+              "start_percentage": 5761.866471820775,
+              "end_percentage": 9720.068177119136,
+              "duration_seconds": 7336.618978166989
+            },
+            {
+              "zone": 1712,
+              "name": "ODLRL",
+              "start_percentage": 6097.857689337733,
+              "end_percentage": 5209.865749662631,
+              "duration_seconds": 5223.145126615716
+            },
+            {
+              "zone": 1605,
+              "name": "CLM",
+              "start_percentage": 4617.807995121636,
+              "end_percentage": 8074.341617180579,
+              "duration_seconds": 968.3740760576458
+            }
+          ]
+        },
+        "detailed": {
+          "hr_samples": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 7706.715328655729
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 101.97663816929969
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 4067.787552413888
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 8228.936184919643
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 9261.288111132208
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "bpm": 3961.738755005603
+            }
+          ],
+          "hrv_samples_sdnn": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 5432.901537475285
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 6594.882214981226
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 8919.362830127737
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_sdnn": 169.5043003931199
+            }
+          ],
+          "hrv_samples_rmssd": [
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 8805.84797225849
+            },
+            {
+              "timestamp": "2023-03-10T20:37:17.795484+00:00",
+              "hrv_rmssd": 1495.778124457553
+            }
+          ]
+        }
+      },
+      "lap_data": {
+        "laps": [
+          {
+            "calories": 4010.9138645300472,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 1318.8063266259421,
+            "total_strokes": 7240.9339603336275,
+            "stroke_type": 1051,
+            "avg_speed_meters_per_second": 8877.585945107248
+          },
+          {
+            "calories": 5431.317967277403,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 8934.719701999926,
+            "total_strokes": 3718.6934120411374,
+            "stroke_type": 8005,
+            "avg_speed_meters_per_second": 3153.735982315635
+          },
+          {
+            "calories": 8118.602464962257,
+            "start_time": "2023-03-10T00:22:17.795484+00:00",
+            "end_time": "2023-03-10T11:55:11.795484+00:00",
+            "distance_meters": 313.82359472383575,
+            "total_strokes": 1999.7541126219642,
+            "stroke_type": 9109,
+            "avg_speed_meters_per_second": 656.515843953584
+          }
+        ]
+      },
+      "MET_data": {
+        "num_low_intensity_minutes": 1869.8420628309866,
+        "num_high_intensity_minutes": 3441.6552274348064,
+        "num_inactive_minutes": 1908.6940487185313,
+        "num_moderate_intensity_minutes": 9576.180062937412,
+        "avg_level": 2800.323769836688,
+        "MET_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 1046.4805720665968
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 3319.379794217841
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "level": 2624.0825651199016
+          }
+        ]
+      },
+      "movement_data": {
+        "normalized_speed_meters_per_second": 3850.4821988579065,
+        "max_cadence_rpm": 3691.0529977111737,
+        "avg_speed_meters_per_second": 7310.837213813455,
+        "avg_pace_minutes_per_kilometer": 1678.9957822945587,
+        "max_velocity_meters_per_second": 5351.3607028103615,
+        "max_pace_minutes_per_kilometer": 5393.739430183736,
+        "max_torque_newton_meters": 2735.8305164237895,
+        "avg_cadence_rpm": 4879.304864750826,
+        "avg_velocity_meters_per_second": 2703.7316865725315,
+        "avg_torque_newton_meters": 4888.775912228056,
+        "cadence_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 8855.45648136909,
+            "timer_duration_seconds": 5028.0442894585985
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 593.6598015475093,
+            "timer_duration_seconds": 3021.8278099468403
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 6569.529166882537,
+            "timer_duration_seconds": 7695.956579048184
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 2714.052083966033,
+            "timer_duration_seconds": 8823.087414964019
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "cadence_rpm": 8036.440193457115,
+            "timer_duration_seconds": 8154.848480172872
+          }
+        ],
+        "speed_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 3093.8358906567514,
+            "timer_duration_seconds": 3270.901047482476
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "speed_meters_per_second": 1999.063866854666,
+            "timer_duration_seconds": 9554.642267353453
+          }
+        ],
+        "max_speed_meters_per_second": 6023.647958920794
+      },
+      "oxygen_data": {
+        "avg_saturation_percentage": 7357.2254297061245,
+        "vo2max_ml_per_min_per_kg": 9563.321940462156,
+        "saturation_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 5190.141273197318
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 6339.714929491348
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 6451.587581807291
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 5969.769571628887
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 9365.89958378668
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "percentage": 8924.635574353159
+          }
+        ],
+        "vo2_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 785.8882222828516
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 9216.838797755012
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 6816.3402776915245
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 4792.199381009642
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 5716.942772162719
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "vo2max_ml_per_min_per_kg": 3394.8687731761675
+          }
+        ]
+      },
+      "polyline_map_data": {
+        "summary_polyline": "JTUEGR"
+      },
+      "position_data": {
+        "centre_pos_lat_lng_deg": [
+          3616.525159144035,
+          3933.148725480954
+        ],
+        "start_pos_lat_lng_deg": [
+          4912.079756902262,
+          7790.047593140887
+        ],
+        "end_pos_lat_lng_deg": [
+          4304.4318502557435,
+          6043.720862321145,
+          8489.150478865344,
+          2063.1339221911494
+        ],
+        "position_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              7385.14825936861,
+              3485.7644995430287,
+              900.5245090735102
+            ],
+            "timer_duration_seconds": 9043.746008903934
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              1937.6457837452872,
+              4001.75730906524,
+              326.4954283695869,
+              1371.8231226451267
+            ],
+            "timer_duration_seconds": 6087.003888956993
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              7004.858848462513,
+              1823.0596731674384
+            ],
+            "timer_duration_seconds": 7895.688184304496
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "coords_lat_lng_deg": [
+              5082.405953276845,
+              1616.5952222674218,
+              5584.624538094625,
+              2087.2008906875253
+            ],
+            "timer_duration_seconds": 1163.6772987127895
+          }
+        ]
+      },
+      "power_data": {
+        "max_watts": 2166.089772800837,
+        "avg_watts": 7622.658260288505,
+        "power_samples": [
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 1556.7421408974387,
+            "timer_duration_seconds": 5258.169824220859
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 9094.590854521479,
+            "timer_duration_seconds": 7652.75129947379
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 6560.8625912741045,
+            "timer_duration_seconds": 5465.258386147553
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 1731.5625491883793,
+            "timer_duration_seconds": 5233.513531952337
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 9229.502286076387,
+            "timer_duration_seconds": 6681.933943551089
+          },
+          {
+            "timestamp": "2023-03-10T20:37:17.795484+00:00",
+            "watts": 9600.212915405333,
+            "timer_duration_seconds": 9806.810176675252
+          }
+        ]
+      },
+      "strain_data": {
+        "strain_level": 4895.822236375207
+      },
+      "TSS_data": {
+        "TSS_samples": [
+          {
+            "planned": 9194.471572864084,
+            "actual": 8506.132157245022,
+            "method": "FEA",
+            "intensity_factor_planned": 8048.618979754636,
+            "intensity_factor_actual": 5217.26720019029,
+            "normalized_power_watts": 2513.918374053652
+          },
+          {
+            "planned": 190.88992673248833,
+            "actual": 1835.6442363411668,
+            "method": "PLVTBXZ",
+            "intensity_factor_planned": 2902.2024121880468,
+            "intensity_factor_actual": 6916.669508048624,
+            "normalized_power_watts": 8167.094015439156
+          },
+          {
+            "planned": 6592.682051652426,
+            "actual": 5040.140762537527,
+            "method": "RFBS",
+            "intensity_factor_planned": 2386.3238459164636,
+            "intensity_factor_actual": 8668.036151926153,
+            "normalized_power_watts": 8439.683053426996
+          }
+        ]
+      },
+      "work_data": {
+        "work_kilojoules": 137.87998980009962
+      }
+    }
+  ],
+  "user": {
+    "reference_id": "1:999:472838c47283bd0fa",
+    "last_webhook_update": null,
+    "user_id": "b1dbd691-8140-4071-9df1-8c47283bd0fa",
+    "provider": "APPLE",
+    "scopes": null
+  }
+}

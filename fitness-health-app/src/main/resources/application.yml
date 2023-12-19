@@ -1,0 +1,99 @@
+spring:
+  datasource:
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://localhost:1433;databaseName=fitness_health;currentSchema=fitness;encrypt=true;trustServerCertificate=true;
+    username: sa
+    password: sfpPpuVcCoDXHBPkL6fhJhaWpLj8q
+    hikari:
+      maximum-pool-size: 20
+      connectionTimeout: 30000
+      idleTimeout: 600000
+      maxLifetime: 1800000
+  jpa:
+    properties:
+      hibernate:
+        default_schema: fitness
+        jdbc:
+          time_zone: UTC
+
+  flyway:
+    enabled: true
+    url: ${spring.datasource.url}
+    user: ${spring.datasource.username}
+    password: ${spring.datasource.password}
+    schemas: ${spring.jpa.properties.hibernate.default_schema}
+    default-schema: ${spring.jpa.properties.hibernate.default_schema}
+    clean-disabled: true
+    fail-on-missing-locations: true
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8180/auth/realms/sundev-team-central
+
+server:
+  port: 8087
+  servlet:
+    encoding:
+      enabled: true
+      charset: utf-8
+      force: true
+  error:
+    include-message: always
+    include-binding-errors: always
+
+springdoc:
+  server: http://localhost:8087
+  api-docs:
+    enabled: true
+    path: /api/v1/fitness-health/v3/api-docs
+  swagger-ui:
+    enabled: true
+    path: /api/v1/fitness-health/swagger-ui
+    url: /api/v1/fitness-health/v3/api-docs
+    doc-expansion: list
+    tags-sorter: alpha
+    operations-sorter: method
+    oauth:
+      client-id: fitness-health-service
+      client-secret: ffe600ab-3eb9-4f87-a315-aae566774810
+      scopes: "email|openid|profile"
+      scope-separator: "|"
+  default-consumes-media-type: "application/json"
+  default-produces-media-type: "application/json"
+
+api:
+  insecure:
+    patterns: /actuator/**, /api/v1/fitness-health/v3/api-docs/**, /api/v1/fitness-health/swagger-ui, /api/v1/fitness-health/swagger-ui/**
+  cors:
+    origins: http://localhost:8087
+
+terra:
+  signing-secret: terra signing secret
+
+logging:
+  config: classpath:log4j2.xml
+  request:
+    payload: true
+    headers: true
+    client-info: true
+    query-string: true
+    max-payload-length: 10000
+    ignore-patterns: /actuator/**
+  level:
+    team.dev.sun: info
+    org.springframework.web.filter.CommonsRequestLoggingFilter: info
+    org.springframework.security: info
+
+cron:
+  notification:
+    new-dead-letter: 0 0 * ? * *
+
+slack:
+  webhook-url: https://hooks.slack.com/services/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
+
+dlq:
+  reprocess-unprocessed: false
+
+environment: dev

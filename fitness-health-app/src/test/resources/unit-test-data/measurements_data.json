@@ -1,0 +1,22 @@
+{
+  "measurements": [
+    {
+      "RMR": 1,
+      "insulin_type": "someInsulinType",
+      "skin_fold_mm": 2,
+      "water_percentage": 68,
+      "BMR": 3,
+      "weight_kg": 67,
+      "measurement_time": "2023-01-17T22:45:13.0+00:00",
+      "muscle_mass_g": 45,
+      "height_cm": 180,
+      "BMI": 36,
+      "bone_mass_g": 29,
+      "urine_color": "yellow",
+      "estimated_fitness_age": 35,
+      "insulin_units": 4,
+      "bodyfat_percentage": 24,
+      "lean_mass_g": 5
+    }
+  ]
+}
